@@ -1,0 +1,171 @@
+Public Health ---> with just 1250 parallel audios (1000 training and 250 validation)
+
+generated_s2st@188_sample625
+Unnormalised
+Iye awọn alaisan PP jẹ́ ogorun ati àádọ́rin ati ogorun ati mẹ̀rindínlàádọ́rin lati awọn ẹgbẹ idanwo ati afiwera, lẹsẹsẹ.
+ìyá àwọn aláìsàn òbí gidi jẹ́ ọmọ́ọ̀rún àti áńtòrí, àti òfòrùn, àti mẹ́ríjìrán áńtòrí láti àwọn ìpè tó mú àti àdúròyìn máa ṣe ìṣẹ̀.
+Normalised
+['iye awon alaisan pp je ogorun ati aadorin ati ogorun ati merindinlaadorin lati awon egbe idanwo ati afiwera lesese']
+['iya awon alaisan obi gidi je omoorun ati antori ati oforun ati merijiran antori lati awon ipe to mu ati aduroyin maa se ise']
+BLEU score: 5.450048489014556
+WER: 0.7894736842105263
+CER: 0.38596491228070173
+
+generated_s2st@308_sample625
+Unnormalised
+Iye awọn alaisan PP jẹ́ ogorun ati àádọ́rin ati ogorun ati mẹ̀rindínlàádọ́rin lati awọn ẹgbẹ idanwo ati afiwera, lẹsẹsẹ.
+yàwó aláìsàn pípí di ọ̀gọ́rùn-ún àti áádọ́rí àti ọ̀gọ́rùn-ún àti mẹ́ríndínláàdòrí láti àwọn ẹ̀gbẹ́ inú wọ̀n àti àṣùwéra mẹsẹ̀ẹ́sẹ̀.
+Normalised
+['iye awon alaisan pp je ogorun ati aadorin ati ogorun ati merindinlaadorin lati awon egbe idanwo ati afiwera lesese']
+['yawo alaisan pipi di ogorunun ati aadori ati ogorunun ati merindinlaadori lati awon egbe inu won ati asuwera meseese']
+BLEU score: 9.629943614188138
+WER: 0.631578947368421
+CER: 0.19298245614035087
+
+
+generated_s2st@257_sample617
+Unnormalised
+Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì
+ìwé ìròyìn ọ̀dàgé ìgbọ̀n àwọn àìsàn, àwọn ọgọ́rùn àti ọ̀dọ̀lẹ́lọ́mẹ́dá ẹbẹ̀rún méjì àti máa di ọgbọ́, ẹbẹ̀ ló gbọ́rùn àti méjò
+Normalised
+['iwe iroyin agbaye fun awon aisan arun ogorun ati okanlelogota egberun meji ati marundinlogbon egberun ogorun ati mejo ati merinlelogorin aworan meji']
+['iwe iroyin odage igbon awon aisan awon ogorun ati odolelomeda eberun meji ati maa di ogbo ebe lo gborun ati mejo']
+BLEU score: 7.744091319697965
+WER: 0.6363636363636364
+CER: 0.40540540540540543
+
+generated_s2st@261_sample617
+Unnormalised
+Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì
+ìmẹrun yìí àtàyí fún àwọn àìsàn, àwọn ọkọrun àti ọ̀kan ni ọ̀dọ̀ta, àbẹ̀rún méjì àti máa jẹ́ lọ́gbọ́, àbẹ̀rún ọ̀dọ̀run, àti mẹ́̀dọ̀, àti mẹ́rin ni ọ̀dọ̀bí.
+Normalised
+['iwe iroyin agbaye fun awon aisan arun ogorun ati okanlelogota egberun meji ati marundinlogbon egberun ogorun ati mejo ati merinlelogorin aworan meji']
+['imerun yii atayi fun awon aisan awon okorun ati okan ni odota aberun meji ati maa je logbo aberun odorun ati medo ati merin ni odobi']
+BLEU score: 7.6047020452233385
+WER: 0.8181818181818182
+CER: 0.31756756756756754
+
+generated_s2st@270_sample617
+Unnormalised
+Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì.
+ìwé ìròyìn àgbàgbé fún àwọn aláìsàn, àwọn ọgbọ́rùn-ún àti ọ̀kan rẹ̀ lọ́gọ́ta, àgbẹ̀rùn méjì àti báàrùndínlọ́gbọ́, àgbẹ̀rùn ọgbọ́rùn-ún àti méjò àti mẹ́̀rùn-ún-ún àgbẹ̀rùn-ún
+Normalised
+['iwe iroyin agbaye fun awon aisan arun ogorun ati okanlelogota egberun meji ati marundinlogbon egberun ogorun ati mejo ati merinlelogorin aworan meji']
+['iwe iroyin agbagbe fun awon alaisan awon ogborunun ati okan re logota agberun meji ati baarundinlogbo agberun ogborunun ati mejo ati merununun agberunun']
+BLEU score: 10.414419091986518
+WER: 0.6363636363636364
+CER: 0.25675675675675674
+
+generated_s2st@281_sample617
+Unnormalised
+Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì.
+ìwé ìròyìn àbáyé fún àwọn àìsàn, àwọn ọgọrun àti ọkàrẹ̀gọ́gọ̀ntà, àgbẹ̀rọ̀nejì, àti màrúnjẹgbogbo, àgbẹ̀rọ̀ ọgọrun àti méjọ àti mẹ́rin ìròyìn.
+Normalised
+['iwe iroyin agbaye fun awon aisan arun ogorun ati okanlelogota egberun meji ati marundinlogbon egberun ogorun ati mejo ati merinlelogorin aworan meji']
+['iwe iroyin abaye fun awon aisan awon ogorun ati okaregogonta agberoneji ati marunjegbogbo agbero ogorun ati mejo ati merin iroyin']
+BLEU score: 19.522904561990746
+WER: 0.45454545454545453
+CER: 0.25
+
+generated_s2st@288_sample617
+Unnormalised
+Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì.
+bẹ́ẹ̀ni, wọn ìròyìn àgbáyé fún àwọn àìsàn, àwọn ọkùnrin àti ọ̀kàrinlọ́gbàtà àbẹ̀rùn méjì àti máa òde lọ gbọ́, àbẹ̀rùn ọkùnrin àti méjì àti mẹ́rin ìròyìn.
+Normalised
+['iwe iroyin agbaye fun awon aisan arun ogorun ati okanlelogota egberun meji ati marundinlogbon egberun ogorun ati mejo ati merinlelogorin aworan meji']
+['beeni won iroyin agbaye fun awon aisan awon okunrin ati okarinlogbata aberun meji ati maa ode lo gbo aberun okunrin ati meji ati merin iroyin']
+BLEU score: 18.15737416858213
+WER: 0.7272727272727273
+CER: 0.35135135135135137
+
+
+generated_s2st@259_sample632
+Unnormalised
+Awọn eniyan ipilẹ ati awọn abuda ile-iwosan ni a ṣe iwọntunwọnsi laarin awọn ẹgbẹ mejeeji (Tabili ọ̀kan).
+àwọn ènìyàn ìpele àti àwọn àrúndá ilé ìrùn sọ́ ni a ṣe ìwọ̀n tí wọ́n sí náírí àwọn ẹ̀gbẹ́déjì rẹ̀ bíi yọ kọ́ọ̀wọ̀.
+Normalised
+['awon eniyan ipile ati awon abuda ileiwosan ni a se iwontunwonsi laarin awon egbe mejeeji tabili okan']
+['awon eniyan ipele ati awon arunda ile irun so ni a se iwon ti won si nairi awon egbedeji re bii yo koowo']
+BLEU score: 9.314939614341391
+WER: 0.8823529411764706
+CER: 0.32
+
+generated_s2st@266_sample246
+Unnormalised
+Awọn isolate Falciparum pẹlu awọn iyipada meji ninu pfmdr1 ni codons ọgọ́rin àti ẹ̀fàY  pulosi  ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY ni a royin ni odo.
+àwọn ìsọ̀lẹ́ ìfọwọ́sí pàrọ̀gbọ̀lọ́ àwọn yorùpàdá méjì nínú díẹ̀ módìí àrùn wọn ní gbogbo ìgbà àti àpá wáyì lọ sí ẹgbẹ́ gbọ̀n, ìgbà ogójì àti àrùn.
+Normalised
+['awon isolate falciparum pelu awon iyipada meji ninu pfmdr1 ni codons ogorin ati efay  pulosi  egberun kan igba ogoji ati efay ni a royin ni odo']
+['awon isole ifowosi parogbolo awon yorupada meji ninu die modii arun won ni gbogbo igba ati apa wayi lo si egbe gbon igba ogoji ati arun']
+BLEU score: 7.831957705977147
+WER: 0.8461538461538461
+CER: 0.5244755244755245
+
+generated_s2st@270_sample275
+Unnormalised
+Ìwọ̀n àwọn kòkòrò aláìbáradé oníṣekúṣe jẹ́ ẹgbẹrun mèje, ẹgbẹ̀ta ati ẹ̀ẹ́dógún àwọn kòkòrò aláìbáradé/µl ẹ̀jẹ̀, láàrín mẹ̀talélọgọ́ta sí ẹgbẹrun igba ati mèjì, mẹ̀wá àwọn kòkòrò aláìbáradé/µl ẹ̀jẹ̀ (Tábìlì ọ̀kan).
+ilé ìwọ̀n àwọn kòkòrò aláìgbáradi oyinṣin ní ṣe jẹ́ ẹgbẹ̀rún méjì ẹgbẹ́ta àti ẹ̀gbẹ́dọ̀gún àwọn kòkòrò aláìgbẹ́radi màkúníríkẹ̀ ẹ̀jì náà rìgbẹ́ta yorùkọ́ntọ̀ sí ẹgbèrì.
+Normalised
+['iwon awon kokoro alaibarade onisekuse je egberun meje egbeta ati eedogun awon kokoro alaibaradeµl eje laarin metalelogota si egberun igba ati meji mewa awon kokoro alaibaradeµl eje tabili okan']
+['ile iwon awon kokoro alaigbaradi oyinsin ni se je egberun meji egbeta ati egbedogun awon kokoro alaigberadi makunirike eji naa rigbeta yorukonto si egberi']
+BLEU score: 8.273892864340961
+WER: 0.7931034482758621
+CER: 0.4791666666666667
+
+generated_s2st@277_sample233
+Unnormalised
+Ní àfikún, a ṣe àkíyèsí ìyípadà ní àádọ́rin àti àrúnE, àádọ́rin àti àrúnD, àádọ́rin àti àrúnK, àti àádọ́rin àti ẹ̀rinI ní mẹ̀talélọgọ́ta.
+gbọ́n mi a kikun aṣọ àkíyèsí igi pọ̀dà lálẹ́lọ́rì àti ọ̀rùn kìí, àìlọ́rùn mi àti ọ̀rùn kìí àti ọ̀rùn ìgbà tí ẹ̀rí àìgbà jẹ́.
+Normalised
+['ni afikun a se akiyesi iyipada ni aadorin ati arune aadorin ati arund aadorin ati arunk ati aadorin ati erini ni metalelogota']
+['gbon mi a kikun aso akiyesi igi poda lalelori ati orun kii ailorun mi ati orun kii ati orun igba ti eri aigba je']
+BLEU score: 2.352622489487909
+WER: 0.9090909090909091
+CER: 0.512
+
+generated_s2st@278_sample266
+Unnormalised
+Mẹ̀jọ) Ìṣàyẹ̀wò àwọn ẹ̀dá-ara tí ó ní èròjà ìdènà sí àwọn èròjà kọ̀ọ̀kan nínú ACTs tàbí nípasẹ̀ ìdánwò ìfarapa nínú vitro.
+máéjò ìṣà yèngùn àwo̩n ègà ara tí ó ní èlújà igi lo sí àwo̩n èlújà kọ̀ọ̀kan nínú èsí tí àṣù gbàbí mi pás̩ò̩ ègídò̩run ìfọ̀rànpà nínú rè̩ì òwé̩n
+Normalised
+['mejo isayewo awon edaara ti o ni eroja idena si awon eroja kookan ninu acts tabi nipase idanwo ifarapa ninu vitro']
+['maejo isa yengun awon ega ara ti o ni eluja igi lo si awon eluja kookan ninu esi ti asu gbabi mi paso egidorun iforanpa ninu rei owen']
+BLEU score: 7.779637090949696
+WER: 0.9047619047619048
+CER: 0.39823008849557523
+
+generated_s2st@281_sample634
+Unnormalised
+Síbẹ̀síbẹ̀, ìwádìí PCR jẹ́rìí sí i pé àwọn ọ̀ràn wọ̀nyí dúró fún àkóràn tuntun (àtún-àkóràn) dípò kí ó jẹ́ àtún-àkóràn
+ìgbà tí ìrẹsìgbà ẹ̀yìn wà ní ìgbìyàru jẹ̀ èjì pé, àwọn ọ̀rọ̀ wà yìí ní ìròfò àkọ́rọ̀dí ìgbìyàn àti àkọ́rọ̀ nìkòkiri díẹ̀, àkọ́ọ̀ọ̀ọ̀rọ̀ ẹ̀rẹsì.
+Normalised
+['sibesibe iwadii pcr jerii si i pe awon oran wonyi duro fun akoran tuntun atunakoran dipo ki o je atunakoran']
+['igba ti iresigba eyin wa ni igbiyaru je eji pe awon oro wa yii ni irofo akorodi igbiyan ati akoro nikokiri die akooooro eresi']
+BLEU score: 3.482270899863668
+WER: 1.1
+CER: 0.6728971962616822
+
+
+generated_s2st@285_sample235
+Unnormalised
+A rí àwọn ìyípadà ní codon ọgọ́rin àti ẹ̀fàY àti ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY nínú jínì pfmdr1 ní èjìlá.
+ a rí àwọn àyìí padà mi kọjọ́ ọ̀gọ́rẹ̀ àti ẹ̀fá-wáyìí, àti ẹ̀gbẹ̀rẹ̀ kan, nígbà, ogójì àti ẹ̀fá-wáyìí, nílò jẹ́ ní pmd ààrùn wọn ní ejìlá.
+Normalised
+['a ri awon iyipada ni codon ogorin ati efay ati egberun kan igba ogoji ati efay ninu jini pfmdr1 ni ejila']
+[' a ri awon ayii pada mi kojo ogore ati efawayii ati egbere kan nigba ogoji ati efawayii nilo je ni pmd aarun won ni ejila']
+BLEU score: 9.22635643555325
+WER: 0.7142857142857143
+CER: 0.3269230769230769
+
+
+
+
+
+
+
+
+
+
+
+
+

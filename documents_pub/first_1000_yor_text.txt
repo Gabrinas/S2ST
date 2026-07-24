@@ -1,0 +1,1000 @@
+0: Ibi tí wọ́n ń gbé ní ìbáṣepọ̀ pàtàkì nínú ìṣirò pẹ̀lú ìbísí ibà (X2  je ọ̀ọ́dẹ́gbẹ̀ta ati ẹ̀rìndínlógún).
+1: Odo) nítorí pé àwọn ọmọdé tí ń gbé ní àwọn agbègbè ìgbèríko ní àwọn ọ̀ràn ibà tó pọ̀ jù (màrúndínlọgọ́rin.
+2: Ọgbọ̀n pere ninu ogorun-un) ju àwọn ọmọdé ní àwọn agbègbè ìlú lọ (mẹ̀rinlélogún.
+3: Àwọn àbájáde náà fi hàn pé ìbáṣepọ̀ pàtàkì wà láàárín àwọn agbègbè ìbílẹ̀ àti ìbílẹ̀ ibà (X2  je ọọdunrun ati mẹ̀tadínlogójì.
+4: Agbègbè Àríwá-Ìwọ̀-Oòrùn Nàìjíríà ní ìbílẹ̀ ibà tó ga jùlọ (mèjìlélọgbọ̀n.
+5: Àádọ́rùn-ún pere ninu ogorun-un) nígbà tí Gúúsù-Gúúsù ní ìbílẹ̀ tó kéré jùlọ (mẹ̀jọ.
+6: Síwájú sí i, àkójọpọ̀ ọrọ̀ ní ìsopọ̀ pẹ̀lú ìbísí ibà (X2  je ẹgbẹrun ati ogún.
+7: Odo), àti àwọn ọmọdé nínú àwùjọ tó talákà jùlọ ni wọ́n ní àwọn ọ̀ràn ibà tó ga jùlọ (ọ̀kandínlọgbọ̀n.
+8: Mẹ̀tadínlogorun pere ninu ogorun-un), nígbà tí àwọn ọlọ́rọ̀ ní àwọn tó kéré jùlọ (màrún.
+9: Níní àwọn àpò ẹ̀fọn jẹ́ pàtàkì pẹ̀lú ibà (X2  je màrúndínlàádọ́ta).
+10: Lọ́nà ìyanu, ìbísí ibà ga jù láàrín àwọn tó ní àpò ẹ̀fọn (mèjìlélàádọ́rin.
+11: Àádọ́rin pere ninu ogorun-un) ní ìfiwéra pẹ̀lú àwọn tí kò ní àpò ẹ̀fọn (mẹ̀tadínlọgbọ̀n.
+12: Odo Omode abo Okunrin [Itọkasi] [Itọkasi] Abo odo.
+13: Mèjìlélàádọ́ta Ipele Ẹkọ Iya Ko si Ẹkọ [Itọkasi] [Itọkasi] Akọkọ odo.
+14: Odo Ibi Ibugbe Ilu [Itọkasi] [Itọkasi] Agboola ati awọn miiran
+15: Awọn Okunfa ti o ni nkan ṣe pẹlu Ikolu Iba laarin awọn ọmọde ti ko to ọmọ ọdun marun ẹgbẹrun ati mèje Niger Med J ẹgbẹrun mèjì ati mẹ̀rinlélogún;mẹ̀rindínlàádọ́rin(mẹ̀ta):ẹgbẹrun ati mèjì-ẹgbẹrun ati ọ̀kanlá.
+16: ISSN: ọọdunrun-ẹgbẹrun ati ẹgbẹ̀ta ati mèjìlélàádọ́ta, E-ISSN: ẹgbẹrun mèjì ati igba ati ọ̀kandínlọgbọ̀n-ẹ̀dẹ́gbẹ̀je, àádọ́rin àti ẹ̀rinX, Olutẹjade: Ẹgbẹ Iṣoogun ti Ilu Naijiria.
+17: Oṣu Karun - Oṣu Kẹfa ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Igberiko ọ̀kan.
+18: Odo Agbegbe Ijọba-oselu Ariwa-aringbungbun [Itọkasi] [Itọkasi] Ariwa-oorun odo.
+19: Odo Atọka Oro Alailagbara [Itọkasi] [Itọkasi] Alailagbara odo.
+20: Odo Nọ́mbà Ìní Ẹ̀fọn [Ìtọ́kasí] [Ìtọ́kasí] Bẹ́ẹ̀ni ọ̀kan.
+21: Odo), oṣù mẹ̀rinlélogún–màrúndínlogójì (OR  je ọ̀kan.
+22: Odo), oṣù mẹ̀rindínlogójì–mẹ̀tadínlàádọ́ta (OR  je mèjì.
+23: Odo), àti oṣù mèjìdínlàádọ́ta–ọ̀kandínlọgọ́ta (OR  je mèjì.
+24: Odo) ní ìfiwéra pẹ̀lú àwọn ọmọdé tí kò tíì pé oṣù èjìlá.
+25: Bákan náà, àwọn ọmọdé tí àwọn ìyá wọn ní ẹ̀kọ́ àkọ́bẹ̀rẹ̀ (OR  je odo.
+26: Ọ̀kanlélàádọ́ta), ẹ̀kọ́ ilé-ẹ̀kọ́ gíga (OR  je odo.
+27: Odo) àti ẹ̀kọ́ gíga (OR  je odo.
+28: Odo) ní àǹfààní díẹ̀ láti ní àrùn ibà ní ìfiwéra pẹ̀lú àwọn ọmọdé tí àwọn ìyá wọn kò kàwé.
+29: Gẹ́gẹ́ bí àwọn agbègbè ìpìlẹ̀ ayé, àwọn ọmọdé láti agbègbè ìwọ̀-oòrùn Gúúsù (OR  je ọ̀kan.
+30: Odo), agbègbè ìwọ̀-oòrùn Àríwá (OR  je ọ̀kan.
+31: Ogorun ati mẹ̀ta), agbègbè Gúúsù-Ìlà-Oòrùn (OR  je ọ̀kan.
+32: Irinwo ati màrúndínlogorun) ní àǹfààní gíga láti ní àkóràn ibà ní ìfiwéra pẹ̀lú àwọn ọmọdé láti agbègbè Àríwá-Àríwá.
+33: Síbẹ̀síbẹ̀, àwọn ọmọdé láti agbègbè Gúúsù-Gúúsù (OR  je odo.
+34: Mèjìlélọgbọ̀n) àti agbègbè Àríwá-Àríwá (OR  je odo.
+35: Odo) ní àǹfààní kékeré láti ní àkóràn ibà ní ìfiwéra pẹ̀lú àwọn ọmọdé láti agbègbè Àríwá-Àríwá.
+36: Àwọn èsì náà tún fi hàn pé àkójọpọ̀ ọrọ̀ ní ìbáṣepọ̀ pàtàkì pẹ̀lú ìtànkálẹ̀ ibà.
+37: Àwọn ọmọdé tí ó wà ní ẹ̀ka tí ó talákà ní àǹfààní gíga láti ní àkóràn ibà sí àwọn ọmọdé tí ó wà ní ẹ̀ka tí ó talákà (OR  je odo.
+38: Ọ̀kan), àárín (OR  je odo.
+39: Odo), ọlọ́rọ̀ (OR  je odo.
+40: Odo) àti ọlọ́rọ̀ jùlọ (OR  je odo.
+41: Bó tilẹ̀ jẹ́ pé níní àwọ̀n efon ní ìbáṣepọ̀ pàtàkì pẹ̀lú ibà.
+42: Láìròtẹ́lẹ̀, Àwọn ìwádìí náà fi hàn pé àwọn ọmọdé nínú àwọn ilé tí wọ́n ní àwọ̀n ẹ̀fọn máa ń ní àkóràn ibà (OR  je ọ̀kan.
+43: Àádọ́ta) ní ìfiwéra pẹ̀lú àwọn tí wọ́n wà nínú àwọn ilé tí kò ní àwọ̀n ẹ̀fọn.
+44: Agboola àti àwọn ẹlòmíràn
+45: Ìwádìí náà fi hàn pé àwọn ọ̀ràn ibà àti ìṣeeṣe máa ń pọ̀ sí i bí ọjọ́-orí ṣe ń lọ, ó sì kéré jù fún àwọn ọmọdé tí ọjọ́-orí wọn kò ju ọdún kan lọ.
+46: Èyí fi ẹ̀rí hàn pé àwọn àwárí Dahiru àti àwọn ẹlòmíràn.
+47: [mẹ̀ta] àti Afoakwah àti àwọn ẹlòmíràn.
+48: Ma àti àwọn ẹlòmíràn ṣí i payá.
+49: Nítorí náà, àìsàn ibà nígbà ọmọdé ní ìbáṣepọ̀ pẹ̀lú ìpele ẹ̀kọ́ ìyá.
+50: Ní ìfiwéra pẹ̀lú àwọn agbègbè ìlú, Paul & Msengwa [èjìlá] àti Dahiru àti àwọn ẹlòmíràn.
+51: Bákan náà, Dahiru àti àwọn ẹlòmíràn.
+52: ISSN: ọọdunrun-ẹgbẹrun ati ẹgbẹ̀ta ati mèjìlélàádọ́ta, E-ISSN: ẹgbẹrun mèjì ati igba ati ọ̀kandínlọgbọ̀n-774X, Olùtẹ̀wé: Ẹgbẹ́ Ìṣègùn ti Nàìjíríà.
+53: May - June ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Agboola àti àwọn ẹlòmíràn.
+54: Síwájú sí i, àwọn ọ̀ràn ibà àti àwọn ìṣòro ibà, tí ó ga jùlọ fún àwọn ọmọdé ní àwọn ilé aláìní jùlọ, dínkù pẹ̀lú àkójọ ọrọ̀ tí ń pọ̀ sí i.
+55: Màrúndínlọgbọ̀n lójúmọ́), àti pẹ̀lú àwọn ẹ̀ka tí ó talákà jùlọ láàrín àwọn orílẹ̀-èdè aláìní wọ̀nyí [ogún].
+56: Bákan náà, ìwádìí Paul àti Msengwa [èjìlá] kò rí ìbáṣepọ̀ pàtàkì kan láàrín nini àwọ̀n efon àti ibà.
+57: Síwájú sí i, níní àwọ̀n efon kò túmọ̀ sí lílò dáadáa láìfọwọ́sí [mẹ̀talélogún].
+58: Àwọn Ààlà Lílo àwọn dátà NDHS nínú ìwádìí yìí, èyí tí ó wá láti inú ìwádìí ìpín-ẹ̀ka kan, ní àwọn ààlà tirẹ̀.
+59: Nítorí náà, a kò gbé e yẹ̀ wò bóyá ọmọ tí àbájáde RDT ibà iba jẹ́ aláìlera ti ní àkóràn kí a tó ṣe ìwádìí náà.
+60: Bákan náà, a gbọ́dọ̀ mú àwọn ìtọ́jú àti ètò tó gbòòrò pọ̀ sí i láti kojú ìṣẹ̀lẹ̀ ibà iba àti ìbísí ibà iba.
+61: Bákan náà, fífún ọmọ ní ọmú àti oúnjẹ tó yẹ fún àwọn àgbàlagbà ẹgbẹrun ati mẹ̀sán Niger Med J ẹgbẹrun mèjì ati mẹ̀rinlélogún;mẹ̀rindínlàádọ́rin(mẹ̀ta):ẹgbẹrun ati mèjì-ẹgbẹrun ati ọ̀kanlá.
+62: ISSN: ọọdunrun-ẹgbẹrun ati ẹgbẹ̀ta ati mèjìlélàádọ́ta, E-ISSN: ẹgbẹrun mèjì ati igba ati ọ̀kandínlọgbọ̀n-ẹ̀dẹ́gbẹ̀je àti àádọ́rin mẹ́rinX, Olùtẹ̀wé: Ẹgbẹ́ Ìṣègùn ti Nàìjíríà.
+63: May - June ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Agboola àti àwọn ẹlòmíràn.
+64: Àwọn Ohun Tó Níí Ṣe Pẹ̀lú Àkóràn Ibà Iba Láàárín Àwọn Ọmọdé Tí Kò Tó Ọmọ Márùn-ún Yẹ Kí Àwọn Ìyá Fún Àwọn Ọmọdé Ní Ìwọ̀n Àìsàn Ibà Mu.
+65: Ẹ̀kọ́ Ìlera lórí ìdènà àti ìdènà ibà iba, títí kan lílo àwọn àwọ̀n efon tó tọ́, gbọ́dọ̀ mú kí ó lágbára.
+66: A gbọ́dọ̀ lo àwọn ìgbésẹ̀ ìdènà púpọ̀ fún ìdènà ibà iba tó munadoko àti ìdènà.
+67: Àwọn ohun tí ó ní ìfẹ́ sí ìdíje: Àwọn òǹkọ̀wé náà kéde pé wọn kò ní ìfẹ́ sí ìdíje kankan.
+68: Com/data/dataset/Nigeria_Standard-DHS_ẹgbẹ̀rún méjì àti ẹ̀jìdínlógún.
+69: Dátà náà tún wà lórí ìbéèrè láti ọ̀dọ̀ òǹkọ̀wé tí ó báramu àti pẹ̀lú àṣẹ ICF International.
+70: Ashley EA, Pyae Phyo A, Woodrow CJ.
+71: Ẹgbẹrun mèjì ati èjìdínlógún Apr;ọọdunrun ati ọ̀kanlélàádọ́rùn-ún(ẹgbẹrun mẹ̀wá ati ogorun ati ọgbọ̀n):ẹgbẹrun ati ẹgbẹ̀ta ati mẹ̀jọ–ọ̀kanlélogún.
+72: Wà láti: https://linkinghub.
+73: Com/retrieve/pii/Sọgọ́rùn‑ún mẹ́rìnlá trílíọ̀nù, ẹ̀ẹ́dẹ́gbẹ̀je ọgọ́rùn‑ún mẹ́ta bílíọ̀nù, ẹ̀ẹ́dẹ́gbẹ̀fà ọgọ́rùn‑ún mẹ́ta mílíọ̀nù, ọ̀ọ́dúnrún mẹ́ta ẹgbẹ̀rún àti àádọ́rin mẹ́fà àti mẹ́ta mèjì.
+74: Àjọ Ìlera Àgbáyé.
+75: Ìròyìn ibà àgbáyé ẹgbẹrun mèjì ati mẹ̀rinlélogún: Ṣíṣe àtúnṣe àìdọ́gba nínú ìdáhùn ibà àgbáyé.
+76: Wà láti: https://www.
+77: Int/awọn ẹgbẹ/eto iba-agbaye/awọn iroyin/iroyin-iba-aye-ẹgbẹrun mèjì ati mẹ̀rinlélogún mẹ̀ta.
+78: Dahiru T, Alhaji A, Ahmadu L, Oyefabi M.
+79: Awọn ipinnu awọn aarun iba igba ewe ni Nigeria: Ayẹwo keji ti ẹgbẹrun mèjì ati ẹ̀ẹ́dógún itọkasi itọkasi iba.
+80: Int J Trop Dis Health.
+81: Ọdun ẹgbẹrun mèjì ati èjìdínlógún Oṣu Kẹta Ọjọ màrún;ọ̀kanlélọgbọ̀n (ọ̀kan): ọ̀kan–ẹ̀ẹ́dógún.
+82: Muhammad F, Abdulkareem JH, Chowdhury AA.
+83: Pataki ilera isoro ni Nigeria: Atunwo.
+84: South East Asia J Public Health.
+85: Ọdun ẹgbẹrun mèjì ati ẹ̀tàdínlógún Oṣu kejila ọjọ ọ̀kanlélọgbọ̀n;mèje (ọ̀kan): mẹ̀fà–ọ̀kanlá.
+86: Adefemi K, Awolaran O, Wuraola C.
+87: Àwọn ohun tó ń pinnu àrùn ibà fún àwọn ọmọdé tí kò tíì pé márùn-ún ní Nàìjíríà: Àtúnyẹ̀wò.
+88: Int J Community Med Public Health.
+89: Gup I, Nnorom O, An A.
+90: Houmsou R, Amuta E, Wama B, Hile T, Bingbeng J.
+91: Ìṣẹ̀lẹ̀ àrùn ibà fún àwọn ọmọdé tí kò tíì pé ọdún márùn-ún: Ìmọ̀, ìwà àti èrò láàárín àwọn ìyá ní agbègbè ìlú kékeré ní Nàìjíríà.
+92: Ẹgbẹrun mèjì ati ẹ̀rìnlá Jan mẹ̀wá;mẹ̀ta(mẹ̀jọ):ẹgbẹrun ati ogorun ati mẹ̀tadínlọgbọ̀n–mẹ̀rinlélọgbọ̀n.
+93: Ìfihàn sí àwọn ọ̀nà ìwádìí ìlera gbogbogbò.
+94: Nínú: Alejò G, olóòtú.
+95: Àwọn ọ̀nà ìwádìí ìlera gbogbogbò.
+96: Nyarko SH, Cobblah A.
+97: Àwọn ohun tó ń pinnu àrùn ibà fún àwọn ọmọdé tí kò tíì pé ọmọ ọdún márùn-ún ní Ghana.
+98: Ẹgbẹrun ati mẹ̀wá Niger Med J ẹgbẹrun mèjì ati mẹ̀rinlélogún; mẹ̀rindínlàádọ́rin (mẹ̀ta): ẹgbẹrun ati mèjì-ẹgbẹrun ati ọ̀kanlá.
+99: ISSN: ọọdunrun-ẹgbẹrun ati ẹgbẹ̀ta ati mèjìlélàádọ́ta, E-ISSN: ẹgbẹrun mèjì ati igba ati ọ̀kandínlọgbọ̀n-774X, Akede: Nigerian Medical Association.
+100: May - Okudu ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Agboola àti àwọn ẹlòmíràn.
+101: Àwọn Ohun Tó Níí Ṣe Pẹ̀lú Àkóràn Àrùn Ibà Láàárín Àwọn Ọmọdé Tí Kò Tíì Ní Ọmọ Márùn-ún mẹ̀wá.
+102: Ṣíṣe Àyípadà Ayé Wa: Ètò ẹgbẹrun mèjì ati ọgbọ̀n fún Ìdàgbàsókè Aláìléwu.
+103: Wà láti: https://sustainabledevelopment.
+104: Org/post2015/transformingourworld ọ̀kanlá.
+105: National Population Commission (Nigeria), ICF International.
+106: Ìwádìí nípa ènìyàn àti ìlera Nàìjíríà ẹgbẹrun mèjì ati èjìdínlógún.
+107: Abuja (Nigeria): NPC àti ICF; ẹgbẹrun mèjì ati ọ̀kàndínlógún.
+108: Àkójọpọ̀ àti àwọn ohun tó ní í ṣe pẹ̀lú àkóràn ibà láàárín àwọn ọmọdé tí kò tíì pé ọmọ ọdún márùn-ún ní Tanzania.
+109: J Public Health Epidemiol.
+110: Ẹgbẹrun mèjì ati èjìdínlógún Oṣù kọkànlá ọgbọ̀n;mẹ̀wá(ọ̀kanlá):ọọdunrun ati mẹ̀tadínlàádọ́rùn-ún–mẹ̀rinlélàádọ́rùn-ún.
+111: Kovalchik SA, Varadhan R, Fetterman B, Poitras NE, Wacholder S, Katki HA.
+112: Àwòrán ìfàsẹ́yìn gbogbogbòò láti ṣe ìṣirò ìyàtọ̀ ewu tí a ṣe déédé láti inú dátà ìdáhùn onípele méjì.
+113: Ẹgbẹrun mèjì ati ẹ̀tàlá Feb mèjìdínlọgbọ̀n;mèjìlélọgbọ̀n(màrún):ẹgbẹ̀rin ati mẹ̀jọ–ọ̀kanlélogún.
+114: Reynaldi A, Dent AE, Schlub TE, Ogolla S, Rochford R, Davenport MP.
+115: Roberts D, Matthews G.
+116: Àwọn ohun tó lè fa ibà nínú àwọn ọmọdé tí kò tíì pé ọmọ ọdún márùn-ún ní Uganda.
+117: Afoakwah C, Deng X, Onur I.
+118: Àkóràn ibà láàárín àwọn ọmọdé tí kò tíì pé ọmọ ọdún márùn-ún: Lílo àwọn ìtọ́jú tó gbòòrò ní Ghana.
+119: Ma C, Claude KM, Kibendelwa ZT, Brooks H, Zheng X, Hawkes M.
+120: Ṣé ẹ̀kọ́ ìyá jẹ́ àjẹsára àwùjọ fún àkóràn ibà ọmọdé? Ìwádìí kan láti Orílẹ̀-èdè Democratic Republic of Congo tí ogun ti fà.
+121: Ẹgbẹrun mèjì ati ẹ̀tàdínlógún Feb ẹ̀tàdínlógún;ogorun ati ọ̀kanlá(mèjì):mèjìdínlogorun–ogorun ati mẹ̀fà.
+122: Musoke D, Miiro G, Ndejjo R, Karani G, Morris K, Kasasa S, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+123: Àwọn ìṣe ìdènà ibà ibà àti àwọn okùnfà ewu àyíká tí ó so mọ́ ọn ní agbègbè ìgbèríko kan ní agbègbè Wakiso, Uganda.
+124: Ẹgbẹrun mèjì ati èjìdínlógún Oct mẹ̀sán;ẹ̀tàlá(mẹ̀wá):eigba ẹgbẹ̀rún, ẹgbẹ̀rún márùn‑ún, igba àti ẹ̀wá..
+125: Meh C, Thind A, Ryan B, Terry A.
+126: Àwọn ìpele àti àwọn ohun tí ó ń pinnu ikú ìyá ní àríwá àti gúúsù Nàìjíríà.
+127: BMC Oyún Ìbímọ.
+128: Tusting LS, Rek J, Arianitwe E, Staedke SG, Kamya MR, Cano J, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+129: Kí ló dé tí ibà fi ní í ṣe pẹ̀lú òṣì? Àwọn àwárí láti inú ìwádìí ẹgbẹ́ kan ní ìgbèríko Uganda.
+130: Ìdí tí ayé fi ń fojú fo àwọn àrùn òṣì [Íńtánẹ́ẹ̀tì].
+131: Ó wà láti: https://www.who.org
+132: Com/entry/why-the-world-ignores-diseases-of poverty_n_marunaàádọ́ta àti èjeaeokanleọgbọ̀nemerinbodoaàádọ́ta àti èjefigba, ọgọ́rin àti èjìcẹgbẹ̀rún mẹ́fà, ẹ̀ẹ́dẹ́gbẹ̀ta, ọgọ́ta àti ẹ̀jọ mèjìlélogún.
+133: Fokam EB, Kindzeka GF, Ngimuh L, Dzi KTJ, Wanji S.
+134: Yadav K, Dhiman S, Rabha B, Saikia P, Veer V.
+135: Àwọn ohun tó ń pinnu ewu ìtànkálẹ̀ ibà ní ilé ìtọ́jú ìlera àkọ́kọ́ kan ní Assam, Íńdíà.
+136: Àwọn ìkẹ́kọ̀ọ́ àgbékalẹ̀: Àwọn àǹfààní àti àléébù.
+137: Ẹgbẹrun mèjì ati ẹ̀rìnlá Oṣù Kẹta mẹ̀rindínlọgbọ̀n;ọọdunrun ati mèjìdínlàádọ́ta:gẹgbàá méjì, igba méjì, àádọ́rin àti ẹ̀fà.
+138: Ẹgbẹrun ati ọ̀kanlá Niger Med J ẹgbẹrun mèjì ati mẹ̀rinlélogún;mẹ̀rindínlàádọ́rin(mẹ̀ta):ẹgbẹrun ati mèjì-ẹgbẹrun ati ọ̀kanlá.
+139: ISSN: ọọdunrun-ẹgbẹrun ati ẹgbẹ̀ta ati mèjìlélàádọ́ta, E-ISSN: ẹgbẹrun mèjì ati igba ati ọ̀kandínlọgbọ̀n-ẹ̀dẹ́gbẹ̀je àti àádọ́rin mẹ́rinX, Olùtẹ̀wé: Ẹgbẹ́ Ìṣègùn ti Nàìjíríà.
+140: Oṣù Karùn-ún - Oṣù Kẹfà ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Ìlànà Ìṣẹ̀dá-ẹ̀mí-ẹ̀mí https://doi.org
+141: Ìwádìí náà fihàn pé mèjìlélọgọ́rin.
+142: Mẹ̀rin pere ninu ogorun-un (ogorun ati mèjìdínlọgọ́rin) àwọn ìpín ìsàlẹ̀ ní irú pfmdr1 wild type, nígbàtí a rí àwọn ìyípadà ní codon N86Y (ọ̀kanlá.
+143: Àwọn ìyípadà mìíràn tí a rí wà ní codon Yogún àti ẹ̀taS (odo.
+144: Mẹ̀jọ pere ninu ogorun-un (mẹ̀rinlélọgọ́ta) àwọn ìpín ìsàlẹ̀ ní irú pfcrt wild-type (CVMNK), nígbàtí mèjìlélọgọ́ta.
+145: Odo pere ninu ogorun-un (ogorun ati ọ̀kandínlọgbọ̀n) ní haplotype CVIET (mutant).
+146: Àwọn ìpín ìsàlẹ̀ pfcrt mìíràn tí a rí ni; CVIDT (ọ̀kan.
+147: Ní gbogbo àgbáyé, ó tó mílíọ̀nù igba ati ọ̀kandínlàádọ́ta àwọn ọ̀ràn ibà tí a ròyìn, èyí tí ó yọrí sí ikú ẹgbẹrun ẹgbẹ̀ta ati mẹ̀jọ (WHO ẹgbẹrun mèjì ati mẹ̀talélogún).
+148: Nàìjíríà, ní pàtàkì, ṣe àfikún pàtàkì, títí dé mẹ̀tadínlọgbọ̀n pere ninu ogorun-un gbogbo àwọn ọ̀ràn ibà ní gbogbo àgbáyé (WHO ẹgbẹrun mèjì ati mẹ̀talélogún).
+149: Ìṣàkóso ọ̀ràn ibà tí ó múná dóko jẹ́ pàtàkì àti gbígbòòrò ọ̀nà tí a lò fún ìdènà ibà.
+150: Chloroquine (CQ), tí a ṣe ní àárín ọdún ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati ogójì, ni ó ti jẹ́ pàtàkì ìtọ́jú ibà tẹ́lẹ̀ nítorí pé ó munadoko, ààbò, àti pé ó rọrùn láti lò.
+151: Ẹgbẹrun mèjì ati ọ̀kanlélogún), ó sì mú kí a ṣe àtúnyẹ̀wò kárí ayé lórí àwọn ìlànà ìtọ́jú ibà. 
+152: Wọ́n ń ṣiṣẹ́ nípa dídí ìjẹun hemoglobin nígbà tí ẹ̀jẹ̀ bá ń lọ nínú ìgbésí ayé kòkòrò àrùn malaria (Combrinck àti àwọn ẹlòmíràn.
+153: Àwọn ìyípadà wọ̀nyí ń yí ìfaradà kòkòrò àrùn náà padà sí CQ àti àwọn oògùn mìíràn tí ń gbógun ti kòkòrò àrùn náà (Roux àti àwọn ẹlòmíràn.
+154: Pfcrt àti pfmdr1 jẹ́ àwọn olùgbéjà pàtàkì nínú Plasmodium, wọ́n ń ṣiṣẹ́ gẹ́gẹ́ bí olùdásílẹ̀ ìfaradà kòkòrò àrùn àti gẹ́gẹ́ bí ibi tí a fẹ́ fojú sí oògùn náà.
+155: Ní àkọ́kọ́, a mọ ìyípadà nínú pfcrt àti pfmdr1 fún ipa wọn nínú fífúnni ní ìfaradà kòkòrò àrùn chloroquine (Fidock àti àwọn ẹlòmíràn).
+156: Ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati àádọ́rùn-ún), ṣùgbọ́n a mọ̀ nísinsìnyí láti ní ipa lórí ìfaradà kòkòrò àrùn sí ọ̀pọ̀lọpọ̀ oògùn òkòrò àrùn ibà òde òní (Cheruiyot àti àwọn ẹlòmíràn).
+157: Ìfarahàn ìfaradà kòkòrò àrùn sí àwọn ohun tí a yọrí sí artemisinin àti àwọn oògùn alábáṣiṣẹpọ̀ nínú ACT jẹ́ ewu pàtàkì sí ìdarí kòkòrò àrùn ibà.
+158: Síbẹ̀síbẹ̀, a kò tí ì ròyìn irú ìfaradà bẹ́ẹ̀ ní agbègbè Pfkelch13 ti Nàìjíríà (Ìgbàsí àti àwọn ẹlòmíràn).
+159: Ẹgbẹrun mèjì ati ọ̀kàndínlógún; Abubakar Zubair àti àwọn ẹlòmíràn
+160: Àwọn ACT ṣì ń ṣiṣẹ́ dáadáa nínú ìtọ́jú ibà ní gbogbo àwọn agbègbè ní Nàìjíríà (FMOH-NMEP, ẹgbẹrun mèjì ati ẹ̀ẹ́dógún) (WHO ẹgbẹ̀rún méjì àti ogúna; Oyebola àti àwọn ẹlòmíràn
+161: Síwájú sí i, ìdènà ń pọ̀ sí i ní agbègbè Greater Mekong àti àwọn apá kan ní Áfíríkà, títí kan Rwanda àti Uganda (Ashley àti àwọn ẹlòmíràn
+162: Ẹgbẹrun mèjì ati ọ̀kanlélogún; Uwimana àti àwọn ẹlòmíràn
+163: Ìṣọ́ra mọ́líkì ti àwọn àmì ìdènà oògùn ṣe pàtàkì fún ìtọ́jú àti mímú kí ìtọ́jú náà sunwọ̀n síi (Uwimana àti àwọn ẹlòmíràn
+164: Ẹgbẹrun mèjì ati ogún; Amaratunga àti àwọn ẹlòmíràn
+165: Ìwàláàyè CVIET haplotype ṣì ga ní gbogbo ìgbà, láti màrúndínlàádọ́ta sí mẹ̀rinlélàádọ́rùn-ún.
+166: Màrún pere ninu ogorun-un ní àwọn apá oríṣiríṣi orílẹ̀-èdè náà.
+167: Ní àfikún, àwọn ìwọ̀n ìbílẹ̀ tó yàtọ̀ síra (láti mẹ̀ta.
+168: Mèje pere ninu ogorun-un) ti àwọn ìyípadà kan ní codons 86Y àti 184F nínú ìjìnlẹ̀ pfmdr1 ni a ti kọ sílẹ̀ ní Nàìjíríà (Oladipo àti àwọn ẹlòmíràn)
+169: Ẹgbẹrun mèjì ati ẹ̀ẹ́dógún; Ikegbunam àti àwọn ẹlòmíràn
+170: Ẹgbẹrun mèjì ati ogún; Olukosi àti àwọn ẹlòmíràn
+171: Ẹgbẹrun mèjì ati ẹ̀rìnlá; Oyebola àti àwọn ẹlòmíràn
+172: Láti rí i dájú pé ACT ṣiṣẹ́ dáadáa, artemisinin àti oògùn alábàáṣiṣẹpọ̀ rẹ̀ gbọ́dọ̀ máa ṣiṣẹ́ dáadáa.
+173: WHO ń gbani nímọ̀ràn láti máa ṣe àkíyèsí nígbà gbogbo nípa iṣẹ́ oògùn ibà ní àwọn orílẹ̀-èdè tí àrùn náà ti wọ́pọ̀.
+174: Eko wa ni mẹ̀fà.
+175: Ẹgbẹrun mèje ati ọ̀ọ́dẹ́gbẹ̀ta iwọn ila-oorun ni agbegbe Guusu-Iwọ-oorun Naijiria, pẹlu giga ti ogójì mita (ẹsẹ ogorun ati ọ̀kanlélọgbọ̀n).
+176: Ó pín ààlà rẹ̀ pẹ̀lú Ìpínlẹ̀ Ogun ní àríwá àti ìlà-oòrùn, Orílẹ̀-èdè Olómìnira Benin ní ìwọ̀-oòrùn, àti Òkun Atlantiki ní gúúsù (Àwòrán 
+177: Ìlú náà ní etíkun tó tó ogorun ati ọgọ́rin kiilomita, tí a mọ̀ sí adágún, odò kékeré, àti irà.
+178: Àwọn omi wọ̀nyí ni a yà sọ́tọ̀ kúrò nínú òkun tí ó ṣí sílẹ̀ nípa lílo ilẹ̀ oníyanrìn, tí ó yàtọ̀ síra láti mèjì sí ẹ̀rìndínlógún kiilomita.
+179: Èkó ní ojú ọjọ́ olóoru, pẹ̀lú ọ̀pọ̀lọpọ̀ oṣù tí òjò kò pọ̀ tó àti àkókò gbígbẹ kúkúrú.
+180: Agbègbè náà jẹ́ holoendemic fún ibà, pẹ̀lú ìwọ̀n otútù àròpín ti mẹ̀rindínlọgbọ̀n.
+181: Mèje degrees Celsius (láti ọ̀kandínlọgbọ̀n sí màrúndínlogójì degrees Celsius), ìwọ̀n ọ̀rinrin ọdọọdún jẹ́ mẹ̀rinlélọgọ́rin.
+182: Mèje pere ninu ogorun-un, pẹ̀lú òjò ọdọọdún tí a ròyìn tó tó ẹgbẹrun ati ọ̀ọ́dẹ́gbẹ̀rin ati mẹ̀talélọgọ́rin milimeter mercury (ẹgbẹrun ati ọ̀ọ́dẹ́gbẹ̀rin ati mẹ̀talélọgọ́rin mm) (àádọ́rin.
+183: Mèjì inches) (Àlàyé ìwífún nípa www.who.org
+184: Info/africa/nigeria/climate-lagos.
+185: Ọ̀kan wa ni igberiko, St.
+186: Awọn ile-iṣẹ wọnyi ni a mọ lati ni iwọn giga ti awọn alaisan, ti o rii daju pe ayẹwo aṣoju wa fun ṣiṣe ayẹwo awọn abajade ilera ti o ni ibatan pẹlu iba.
+187: Maidstone, England), a si gba wọn laaye lati gbẹ ni afẹfẹ daradara ni iwọn otutu yara, lati ṣeto DBS.
+188: Awọn apoowe ti o ni afẹfẹ ti o ni ọkọọkan ti o ni jeli silica ni a lo lati tọju DBS ni iwọn otutu mèjì–mẹ̀jọ Celsius titi ti a fi lo wọn fun iwadi molikula (wo Aworan.
+189: Lẹhinna a fi omi Giemsa mẹ̀ta pere ninu ogorun-un kun awọn slides naa fun to iṣẹju màrúndínlàádọ́ta, ni ibamu pẹlu awọn ilana boṣewa (WHO ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mèjìlélàádọ́rùn-ún).
+190: Awọn onimọ-ẹrọ microscop meji ṣe ayẹwo awọn smears ti o ni awọ nipa lilo microscope ina labẹ ohun elo rì epo (x ogorun).
+191: Parasite Biochemical Genetics Aworan.
+192: Ti iyatọ ogún pere ninu ogorun-un ba wa ninu awọn iṣiro laarin awọn onimọ-ẹrọ microscop akọkọ ati keji, Àwọn iye tí ó sún mọ́ àwọn tí ó sún mọ́ ẹni kẹta ni a lò.
+193: Wọ́n kà á sí pé ó jẹ́ àbùkù nígbà tí a kò rí àwọn kòkòrò àrùn nínú àwọn pápá agbára gíga ogorun.
+194: Àwọn àpẹẹrẹ tí a fi lu àwọn ohun èlò náà ni a gbé sínú ọ̀kan.
+195: Màrún milimita àwọn tubes microcentrifuge Biochemical Genetics pẹ̀lú forceps tí a ti sterilized.
+196: Lẹ́yìn gbogbo ìlù DBS, a fi owú tí a fi ọtí àádọ́rin pere ninu ogorun-un mú kí forceps àti puncher fọ forceps àti puncher náà.
+197: A ṣe ìyọkúrò DNA nípa lílo QIAamp DNA Mini kit láti Qiagen, Germany, ní ìbámu pẹ̀lú ìtọ́ni olùpèsè.
+198: A yọ DNA tí a yọ jáde kúrò pẹ̀lú àádọ́ta µl elution buffer, a sì tọ́jú DNA náà ní – ogún degrees Celsius títí tí a fi lò ó fún polymerase chain reaction (PCR).
+199: A ṣe ìwádìí molecule ní National Institute of Parasitic Diseases, Chinese Centre for Disease Control, Shanghai-China.
+200: Àwọn onímọ̀ nípa microscopists mẹ́ta ṣe àyẹ̀wò àwọn smears tí ó ní àbàwọ́n nípa lílo microscope light.
+201: Màrún mikrolita (mikrolita (μl)) ti Taq mèjì x PCR master mix (odo.
+202: Ọ̀kan U Taq Platinum Polymerase/ microlitre (mikrolita (μl)), ọ̀ọ́dẹ́gbẹ̀ta mikromola (μM) dNTP kọọkan, àádọ́ta milimola (mM) Tris–HCl (pH mẹ̀jọ).
+203: Mèje), ogún milimita (ogún) milimola (mM) KCl, mẹ̀rin milimola (mM) MgCl2) lati Tiangen Biotech (Beijing) Co.
+204: Màrún mikrolita (μl) ti omi ti a ti distilled meji (ddH2O).
+205: Màrún mikrolita (μl) ti Taq mèjì x adalu DNA master (Tiangen Biotech (Beijing) Co.
+206: Níkẹyìn, ìgbésẹ̀ ìfàgùn kan wáyé ní màrúndínlàádọ́rin degree Celsius fún ìṣẹ́jú màrún.
+207: Ìṣẹ̀dá PCR ti ìpín ogorun ati màrúndínlàádọ́ta bp tí a mú pọ̀ sí i nípasẹ̀ PCR tí a fi ìtẹ̀sí sí codons mèjìlélàádọ́rin–mẹ̀rindínlọgọ́rin tí ó bá àwọn ìyípadà tí a fìdí múlẹ̀ tí ó ní í ṣe pẹ̀lú ìdènà CQ mu.
+208: PCR tí a fi ìtẹ̀sí sí fún pfmdr1 Ìfàgùn jínì pfmdr1 ni a ṣe nínú àwọn ìpín méjì tí ó ní codons mẹ̀rindínlàádọ́rùn-ún àti ẹgbẹrun ati igba ati mẹ̀rindínlàádọ́ta.
+209: Màrún mikrolita (μl) ti Taq mèjì x adalu PCR master láti Tiangen Biotech àti mẹ̀sán.
+210: Níkẹyìn, ìgbésẹ̀ ìfàgùn kan wà ní ọgọ́ta iwọn Celsius ( Iwọn Celsius ) fún àádọ́rùn-ún s.
+211: Ìṣẹ̀dá PCR náà jẹ́ nǹkan bí ọ̀ọ́dẹ́gbẹ̀ta ati ogún bp.
+212: Màrún mikrolita (μl) ti Taq mèjì x PCR master mix (Tiangen Biotech (Beijing) Co.
+213: Màrún mikrolita (μl) ti Taq mèjì x PCR master mix (Tiangen Biotech (Beijing) Co.
+214: Ọja PCR naa jẹ igba ati mẹ̀ta bp.
+215: Omi ti ko ni Nuclease ni a lo gẹgẹbi iṣakoso odi.
+216: Awọn ọja PCR ti o wa ni itẹmọlẹ ni a yan lori jeli agarose ọ̀kan pere ninu ogorun-un ti o ni odo.
+217: Màrún micro fún milimita kan (μg/ml) ethidium bromide ati fi si electrophoresis ni ọgọ́rin–ogorun ati àádọ́ta V fun iṣẹju ogún.
+218: A wo awọn okun DNA labẹ ina UV, a si yan awọn ayẹwo rere fun titọka.
+219: A ṣe titoka awọn amplicon lati oriṣiriṣi awọn jiini nipa lilo Àwọn Ẹ̀rọ Ìṣẹ̀dá Alágbára ẹgbẹ̀rún mẹ́ta, ọgọ́rùn‑ún àti ọgbọ̀nxl Oníṣàyẹ̀wò Ìran Àtijọ́ (Àwọn Ẹ̀rọ Ìṣẹ̀dá Alágbára, Foster City, CA, USA).
+220: A ṣe titoka awọn titokalẹ ati itupalẹ pẹlu DNASTAR mèje.
+221: Softwarẹ ọ̀kan láti ṣàwárí àwọn polymorphisms nucleotide kan ṣoṣo (SNPs).
+222: A fi àwọn àpẹẹrẹ ìtẹ̀léra wé àwọn ìtọ́kasí Plasmodium falciparum metaDmeje pfcrt àti pfmdr1 wild-type (sensitive) strains (NCBI reference: NC_ẹgbàajì mẹ́rin, ọ̀ọ́dúnrún, ogún àti ẹ̀jọ.
+223: Ọ̀kan) àti àwọn ìtẹ̀léra tí ó dúró ṣinṣin (NCBI reference: AAFẹgbẹ̀rún méjìlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, ẹ̀ẹ́dẹ́gbẹ̀rún, ogún àti ẹ̀fà.
+224: Àwọn èsì. Àròpọ̀ igba ati mèjìlélọgọ́rin DBS tí ó ní ìrísí rere tí a rí láti inú àwọn ilé ìlera àti àwọn agbègbè tí a ti kẹ́kọ̀ọ́ ní Lagos, Nigeria ni a lò.
+225: Nínú àwọn wọ̀nyí, a ṣe àgbékalẹ̀ àwọn àpẹẹrẹ igba ati mẹ̀jọ (mẹ̀talélàádọ́rin.
+226: Mẹ̀fà pere ninu ogorun-un) ní àṣeyọrí àti ní ìtẹ̀léra fún pfcrt àti pfmdr1 ní ìtẹ̀léra.
+227: Màrún pere ninu ogorun-un) àwọn ọkùnrin àti ogorun ati ọ̀kanlélàádọ́ta (mẹ̀talélàádọ́ta.
+228: Màrún pere ninu ogorun-un) àwọn obìnrin tí wọ́n wà láàrín ọdún ọ̀kan sí màrúndínlàádọ́rin, àti ọjọ́ orí tí ó wọ́pọ̀ ẹ̀tàdínlógún.
+229: Ọdún méjì nínú ìwádìí náà.
+230: Ìwọ̀n àwọn kòkòrò aláìbáradé oníṣekúṣe jẹ́ ẹgbẹrun mèje, ẹgbẹ̀ta ati ẹ̀ẹ́dógún àwọn kòkòrò aláìbáradé/µl ẹ̀jẹ̀, láàrín mẹ̀talélọgọ́ta sí ẹgbẹrun igba ati mèjì, mẹ̀wá àwọn kòkòrò aláìbáradé/µl ẹ̀jẹ̀ (Tábìlì ọ̀kan).
+231: Mèjì Ìgbàkúgbà ( pere ninu ogorun-un) mẹ̀talélàádọ́ta (èjìdínlógún.
+232: Mẹ̀jọ pere ninu ogorun-un (ogorun ati mẹ̀talélogójì) ti àwọn kòkòrò aláìbáradé P. falciparum.
+233: Ní àfikún, a ṣe àkíyèsí ìyípadà ní àádọ́rin àti àrúnE, àádọ́rin àti àrúnD, àádọ́rin àti àrúnK, àti àádọ́rin àti ẹ̀rinI ní mẹ̀talélọgọ́ta. --> being played
+234: Mẹ̀rin pere ninu ogorun-un (ogorun ati mẹ̀rindínlogójì) ti àwọn kòkòrò aláìbáradé ní ìtẹ̀léra.                                        --> being played
+235: A rí àwọn ìyípadà ní codon ọgọ́rin àti ẹ̀fàY àti ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY nínú jínì pfmdr1 ní èjìlá. --> being played
+236: Ọ̀kan pere ninu ogorun-un (mẹ̀jọ) ti àwọn kòkòrò aláìbáradé P. falciparum ní ìtẹ̀léra.
+237: Jù bẹ́ẹ̀ lọ, àwọn ìyípadà ní Àwọn codons ogún àti ẹ̀jọS àti ọgọ́rùn‑ún àti ọgbọ̀nK, pẹ̀lú àwọn ìgbòkègbodò odo.
+238: Mẹ̀ta pere ninu ogorun-un lẹ́sẹẹsẹ, ni a tún rí nínú ìran pfmdr1 ti àwọn isolates P. falciparum.
+239: Àwọn haplotypes pfcrt mìíràn pẹ̀lú àwọn iyipada mẹ́ta ní codons mẹ̀rinlélàádọ́rin, màrúndínlọgọ́rin, àti mẹ̀rindínlọgọ́rin pẹ̀lú CVIDT (ọ̀kan.
+240: Àwọn iyipada méjì nínú pfcrt ni a rí nínú CVMDT (ọ̀kan.
+241: Màrún pere ninu ogorun-un), nígbàtí a rí àwọn iyipada kan ṣoṣo nínú CVMNT (ọ̀kan pere ninu ogorun-un) àti CVMEK (odo.
+242: Ìyàtọ̀ irú wild-type pfmdr1 (NYSND [ọgọ́rin àti ẹ̀fàN]) wọ́pọ̀ ní mèjìlélọgọ́rin.
+243: Àwọn iyipada ní codon ọgọ́rin àti ẹ̀fàY nínú pfmdr1 ni a rí nínú ọ̀kanlá.
+244: Mẹ̀fà pere ninu ogorun-un (mẹ̀tadínlọgbọ̀n) ti àwọn isolates P. falciparum, àti ní codon ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY nínú mèjì.
+245: Mẹ̀ta pere ninu ogorun-un (màrún) awọn ọran (Táblì mèjì).
+246: Awọn isolate Falciparum pẹlu awọn iyipada meji ninu pfmdr1 ni codons ọgọ́rin àti ẹ̀fàY  pulosi  ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY ni a royin ni odo. --> being played
+247: Mẹ̀sán pere ninu ogorun-un (mèjì) ti awọn ayẹwo.
+248: Awọn data jiini lati inu iwadi naa ni a fi pamọ si Ile-iṣẹ Orilẹ-ede fun Alaye Imọ-ẹrọ Imọ-jinlẹ (NCBI).
+249: Awọn nọmba iwọle- BankIt2ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún mẹ́tàlá, ọ̀ọ́dúnrún, ogójì àti ẹ̀jọ: MW456,074 = ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún márùnlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, àádọ́rin àti ẹ̀rin–MWẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún márùnlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, igba àti àádọ́rún (awọn lẹsẹsẹ igba ati ẹ̀tàdínlógún fun pfmdr1) ati BankItmílíọ̀nù méjì, ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún méjìlélọ́gọ́rin, ẹgbẹ̀rún mẹ́jọ, ẹ̀ẹ́dẹ́gbẹ̀rún mẹ́fà, àádọ́ta àti èjì.
+250: Ni Ile-iṣẹ Ilera Alakọbẹrẹ Agura, a ṣe akiyesi awọn haplotypes pfcrt mẹfa oriṣiriṣi: CVIET (ọ̀kandínlọgbọ̀n.
+251: Ile-iṣẹ ilera ti o wa ni Amukoko royin itankalẹ ti o ga julọ ti P.
+252: Awọn iyasọtọ Falciparum pẹlu awọn iyipada ni codons mẹ̀rindínlàádọ́rùn-ún ati ẹgbẹrun ati igba ati mẹ̀rindínlàádọ́ta ninu jiini pfmdr1, ni èjìlá.
+253: Mèjì pere ninu ogorun-un lẹsẹsẹ (Tabili mẹ̀ta).
+254: Mẹ̀jọ) mèjìlélàádọ́rin–mẹ̀rindínlọgọ́rin CVMEK Kanṣoṣo ọ̀kan (odo.
+255: Odo) CVINT Meji ọ̀kan (odo.
+256: Mẹ̀rin) CVIET Mẹta ogorun ati ọ̀kandínlọgbọ̀n (mèjìlélọgọ́ta) CVIDT mẹ̀rin (ọ̀kan.
+257: Odo) pfmdr1 (n  je igba ati ẹ̀rìndínlógún) Kò sí (wild) NYD ogorun ati mèjìdínlọgọ́rin (mèjìlélọgọ́rin.
+258: Mẹ̀rin) mẹ̀rindínlàádọ́rùn-ún: ẹgbẹrun ati igba ati mẹ̀rindínlàádọ́ta YYD Kanṣoṣo màrúndínlọgbọ̀n (ọ̀kanlá.
+259: Kizito Health Post Oreta, [Hmeje]  je Shomolu GH gẹ́gẹ́ bí a ṣe fihàn nínú Àwòrán.
+260: Ọ̀kan) mẹ̀ta(èjìlá) CVIET mẹ̀rinlélogún(mẹ̀talélọgbọ̀n.
+261: Mẹ̀jọ) mẹ̀sán(ọgbọ̀n) mẹ̀rin(àádọ́ta) ẹ̀tàdínlógún(ọ̀kandínlọgbọ̀n.
+262: Mẹ̀fà) Pfmdr1 Wild ọ̀kanlélàádọ́ta(ọ̀kanlélàádọ́rin.
+263: Mẹ̀jọ) èjìdínlógún(ọgọ́ta) mẹ̀fà(ọgọ́ta) mèjìlélogójì(mẹ̀talélàádọ́rin.
+264: Mèjì) mèjì(mẹ̀jọ) Nọgọ́rin àti ẹ̀fàY pulosi Dẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY ọ̀kan(èjìlá.
+265: Mèjì) Pfmdr1 (n  je ọ̀kanlélogún) Wild mèjì (mẹ̀sán.
+266: Mẹ̀jọ) Ìṣàyẹ̀wò àwọn ẹ̀dá-ara tí ó ní èròjà ìdènà sí àwọn èròjà kọ̀ọ̀kan nínú ACTs tàbí nípasẹ̀ ìdánwò ìfarapa nínú vitro. --> being played
+267: Mẹ̀fà pere ninu ogorun-un nínú àwọn ọmọdé tí kò tó ọmọ ọdún èjìlá ní Ìpínlẹ̀ Èkó, láàárín oṣù Keje ọdún ẹgbẹrun mèjì ati mèje sí oṣù Kẹrin ọdún ẹgbẹrun mèjì ati mẹ̀jọ (Oladipo àti àwọn ẹlòmíràn
+268: Ẹgbẹrun mèjì ati ẹ̀ẹ́dógún); Ìwàláàyè CVIET tó tó àádọ́rin pere ninu ogorun-un láàárín gbogbo ènìyàn ní Ìpínlẹ̀ Èkó, Nàìjíríà láàrín ọdún ẹgbẹrun mèjì ati mèjì sí ẹgbẹrun mèjì ati mẹ̀wá (Olukosi àti àwọn ẹlòmíràn
+269: Ẹgbẹrun mèjì ati ẹ̀rìnlá), màrúndínlàádọ́ta pere ninu ogorun-un ní oṣù kẹjọ ọdún ẹgbẹrun mèjì ati ẹ̀rìnlá ní Badagry ní Ìpínlẹ̀ Èkó àti Alajue (Ede, Ìpínlẹ̀ Òsun) (Tola àti àwọn ẹlòmíràn
+270: Orísun pàtàkì mìíràn tí ó lè fa ìfúnpá oògùn lè dìde láti inú oògùn alábàáṣiṣẹpọ̀ ACT AQ, tí ó wà nínú ọ̀kan lára ​​​​àwọn ACT tí a ń lò lọ́wọ́lọ́wọ́ ní Nàìjíríà. --> being played
+271: Ìṣètò kẹ́míkà AQ jọ ti CQ ó sì jẹ́ ti ẹgbẹ́ àwọn mẹ̀rin-aminoquinolines.
+272: Ìwàláàyè ìyípadà ọgọ́rin àti ẹ̀fàY tí a kọ sílẹ̀ nínú ìwádìí wa kéré (èjìlá.
+273: Mẹ̀rin pere ninu ogorun-un) nígbà tí a bá fi wé mẹ̀rinlélọgbọ̀n pere ninu ogorun-un, mèjìlélọgọ́ta.
+274: Ẹgbẹrun mèjì ati ẹ̀rìnlá; Oladipo àti àwọn ẹlòmíràn
+275: Mẹ̀ta pere ninu ogorun-un) láti oṣù kẹsàn-án sí oṣù kọkànlá ọdún ẹgbẹrun mèjì ati ọ̀kanlélogún ní Ìpínlẹ̀ Èkó, Gúúsù Ìwọ̀ Oòrùn, Nàìjíríà (Oyebola àti àwọn ẹlòmíràn). --> being played
+276: Ẹgbẹrun mèjì ati mẹ̀rinlélogún), ní (ẹgbẹrun mèjì ati ẹ̀rìnlá–ẹgbẹrun mèjì ati ẹ̀ẹ́dógún) láti Ìpínlẹ̀ Anambra South East Nigeria (mẹ̀jọ.
+277: Màrún pere ninu ogorun-un) (Ikegbunam àti àwọn ẹlòmíràn.
+278: Ẹgbẹrun mèjì ati ọ̀kàndínlógún), Ìpínlẹ̀ Kano, Àríwá Ìwọ̀ Oòrùn, Nàìjíríà (ọ̀kanlá.
+279: Nínú ìwádìí yìí, ìbísí (mẹ̀ta.
+280: Mèjì pere ninu ogorun-un) ti ìbísí Dẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY nínú pfmdr1 jọra sí (mẹ̀ta.
+281: Mẹ̀fà pere ninu ogorun-un) tí Ikegbunam àti àwọn ẹlòmíràn. ròyìn
+282: Ẹgbẹrun mèjì ati ọ̀kàndínlógún, ṣùgbọ́n ó kéré sí i (èjìlá.
+283: Mẹ̀fà pere ninu ogorun-un) ju ìbísí tí a rí láti inú àwọn ìwádìí tí a ṣe ní Gúúsù Ìwọ̀ Oòrùn Nàìjíríà (Oyebola àti àwọn ẹlòmíràn).
+284: Ẹgbẹrun mèjì ati mẹ̀rinlélogún) (Dokunmu àti àwọn ẹlòmíràn).
+285: Ìwádìí tí ó ti kọjá fi hàn pé àwọn ìbísí kéré ní codon ogorun ati mẹ̀rinlélọgọ́rin àti ẹgbẹrun ati igba ati mẹ̀rindínlàádọ́ta nínú pfmdr1(Happi àti àwọn ẹlòmíràn).
+286: Ẹgbẹrun mèjì ati mẹ̀sán), nígbà tí ìwádìí náà, (Fidock àti àwọn ẹlòmíràn).
+287: Ẹgbẹrun mèjì) ròyìn ìbísí ìyípadà ẹgbẹ̀rún kan, igba, ogójì àti ẹ̀fàY láàrín àwọn ìyàsọ́tọ̀ P. falciparum ti Áfíríkà láti odo.
+288: Ìyípadà ìjìnlẹ̀ pfmdr1 tó ṣọ̀wọ́n; Y23S (odo.
+289: Ìwádìí yìí tún fi hàn pé ọ̀kanlá kan wà.
+290: Ẹgbẹrun mèjì ati ẹ̀tàdínlógún), Gambia (Duraising àti àwọn ẹlòmíràn).
+291: Ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀tadínlogorun) àti Kenya (Holmgren àti àwọn ẹlòmíràn).
+292: A ti lo ACTs fún ìtọ́jú ibà ní Nàìjíríà láti ọdún ẹgbẹrun mèjì ati màrún.
+293: Ní ìparí, ìbísí àwọn kòkòrò àrùn pẹ̀lú irú pfmdr1 onírun (86N) pọ̀ nínú ìwádìí yìí.
+294: Ìbísí gíga àwọn haplotypes tí ó dúró ṣinṣin pfcrt (CVIET) tí a ṣàkíyèsí lè jẹ́ nítorí chloroquine tí ó dúró ṣinṣin. (CQ) titẹ ni Eko, Nigeria.
+295: Ni afikun, lilo amodiaquine (oògùn kan ti o jọra ni eto) ninu awọn itọju apapọ tun ṣe alabapin si idaduro awọn iru-ara ti o le ni idiwọ.
+296: Ile-iṣẹ Ilera Akọkọ ti Matthew, Amukoko, Lagos.
+297: A dupẹ lọwọ Bio Venture for Global Health Biochemical Genetics (BVGH) ti o ṣe atilẹyin ifowosowopo nipasẹ eto WIPO Re: Search.
+298: Ile-iṣẹ Ilera ti Ilu China, China ṣe onigbọwọ iwadi abuda molikula naa.
+299: Awọn ilowosi Onkọwe Awọn ilowosi Awọn onkọwe Awọn ayẹwo UTI, HQ, SBC ati HMS gba awọn ayẹwo naa jọ, ṣajọ ati ṣe itupalẹ data naa.
+300: UTI kọ akọsilẹ akọkọ; WO, SO, JHC ati XNZ ṣe apẹrẹ awọn idanwo naa, ṣe itọsọna idagbasoke iwe afọwọkọ ati ṣe atunṣe akọsilẹ akọkọ.
+301: Gbogbo àwọn òǹkọ̀wé ka ìwé àfọwọ́kọ ìkẹyìn náà, wọ́n sì fọwọ́ sí i. 
+302: Ìnáwó Iṣẹ́ yìí ni a ṣe àtìlẹ́yìn fún láti ọwọ́ Ètò Ìwádìí àti Ìdàgbàsókè Orílẹ̀-èdè China (Nọ́mbà Ìfúnni Nọ́mbà
+303: Ẹgbẹrun mèjì ati èjìdínlógúnYFEẸgbẹrun ogorun ati ọ̀kanlélogún ati ẹgbẹ̀ta), Iṣẹ́ Àgbékalẹ̀ ti Ṣáínà Sáyẹ́ǹsì àti Ìmọ̀ Ẹ̀rọ (Nọ́mbà Ìfúnni Nọ́mbà
+304: Pẹpẹ Iṣẹ́ Pínpín Orílẹ̀-èdè fún Àwọn Ohun Èlò Àrùn Àrùn (Nọ́mbà Ìfúnni Nọ́mbà
+305: TDRC-ẹgbẹrun mèjì ati ọ̀kàndínlógún-ogorun ati mẹ̀rinlélàádọ́rùn-ún-ọgbọ̀n), Ìpìlẹ̀ ti Ètò Ìmọ̀ Ẹ̀rọ àti Ìmọ̀ Ẹ̀rọ Orílẹ̀-èdè (Nọ́mbà Ìfúnni Nọ́mbà
+306: Àti Ìpìlẹ̀ Ìmọ̀ Ẹ̀dá Àdánidá ti Orílẹ̀-èdè China (Nọ́mbà Ìfúnni Nọ́mbà
+307: Àti Ìṣẹ́ Àgbékalẹ̀ Ìwádìí Kìíní ti Àrùn Àrùn Àrùn àti Ìmọ̀ Ẹ̀rọ Vector, Ilé Iṣẹ́ Ìlera (Nọ́mbà Ìfúnni Nọ́mbà
+308: Wíwà Dátà Dátà láti inú ìwádìí yìí ni a ti fi ránṣẹ́ sí Ilé-iṣẹ́ Orílẹ̀-èdè fún URL Alaye Imọ-ẹrọ Biotechnology (NCBI).
+309: Awọn nọmba iwọle fun pfcrt- BankItMilionu mèjì ati ẹgbẹrun irinwo ati mèjìdínlọgbọ̀n ati ẹgbẹ̀ta ati mèjìlélàádọ́ta.
+310: Gov/nuccore/MWẸgbẹ̀ta ati mèjìdínlọgbọ̀n ẹgbẹ̀ta ati ọ̀kanlélàádọ́ta.
+311: Ọ̀kan/ati nọmba iwọle fun pfmdr1 BankIt.
+312: Gov/nuccore/MWIrinwo ati mẹ̀rindínlọgọ́ta mẹ̀rinlélàádọ́rin.
+313: Awọn ikede Ija ti anfani Awọn onkọwe kede pe ko si awọn anfani ti o dije.
+314: Gbigba lati kopa Awọn olukopa ni a sọ fun nipa ilana ikẹkọọ ati ibi ipamọ igba pipẹ ti awọn ayẹwo fun awọn ikẹkọ siwaju.
+315: Lẹhin alaye yii, a gba ifọwọsi kikọ ti o ni alaye lati ọdọ awọn olukopa.
+316: A lo kabinet ti a ṣakoso lati tọju gbogbo awọn iwe ifọwọsi ati awọn ohun elo ikẹkọọ miiran ní ààbò.
+317: Ìfọwọ́sowọ́pọ̀ fún Ìtẹ̀jáde Kò wúlò.
+318: Avicenna J Clin Microbiol Infect ọ̀kanlá:mẹ̀tadínlàádọ́rùn-ún–mẹ̀rindínlogorun.
+319: Lancet Infect Dis ẹ̀rìndínlógún:ọọdunrun ati mẹ̀tadínlọgọ́ta–ọọdunrun ati màrúndínlàádọ́rin.
+320: Mol Biochem Parasitol.
+321: Mẹ̀jọ Ashley EA, Dhorda M, Fairhurst RM àti àwọn ẹlòmíràn (ẹgbẹrun mèjì ati ẹ̀rìnlá) Ìtànkálẹ̀ ìdènà artemisinin nínú Plasmodium falci parum malaria.
+322: N Engl J Med ọọdunrun ati ọ̀kanlélàádọ́rin:irinwo ati ọ̀kanlá–irinwo ati mẹ̀talélogún.
+323: Àwọn Aṣojú Antimicrob Chemother mèjìdínlọgọ́ta:ẹgbẹrun mẹ̀ta ati ọ̀ọ́dẹ́gbẹ̀rin ati mẹ̀tadínlogójì–ẹgbẹrun mẹ̀ta ati ọ̀ọ́dẹ́gbẹ̀rin ati mẹ̀talélogójì.
+324: Ẹgbẹrun mèjì ati irinwo ati mèjìlélàádọ́rin- ẹ̀rìnlá Combrinck JM, Mabotha TE, Ncokazi KK àti àwọn ẹlòmíràn (ẹgbẹrun mèjì ati ẹ̀tàlá) Àwọn òye nípa ipa tí heme ní nínú ètò ìgbésẹ̀ ti Àwọn oògùn tí ó ń dènà ibà.
+325: ACS Chem Biol mẹ̀jọ:ogorun ati mẹ̀talélọgbọ̀n–ogorun ati mẹ̀tadínlogójì.
+326: Ẹgbẹrun ati ọ̀kanlélogún/cbỌọdunrun 454t Dokunmu TM, Adjekukor CU, Yakubu OF àti àwọn ẹlòmíràn (ẹgbẹrun mèjì ati ọ̀kàndínlógún) Àkóràn ibà tí kò ní àmì àrùn àti àwọn ìyípadà Pfmdr1 ní agbègbè kan tí ó wọ́pọ̀ ní Nàìjíríà.
+327: Nature ọọdunrun ati màrúndínlàádọ́ta:igba ati màrúndínlọgọ́ta–igba ati mèjìdínlọgọ́ta Gamo F-J (ẹgbẹrun mèjì ati ẹ̀rìnlá) Àìlera oògùn ibà: àwọn àṣàyàn ìtọ́jú tuntun fún Plasmodium.
+328: Mem Inst Oswaldo Cruz.
+329: Àwọn Aṣojú Antimicrob Chemother mẹ̀talélàádọ́ta:ẹgbẹ̀rin ati mèjìdínlàádọ́rùn-ún ẹgbẹ̀rin ati màrúndínlogorun.
+330: Trop Med Int Health.
+331: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/s12936- ọ̀kàndínlógún- ẹgbẹrun mèjì ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀tadínlọgọ́rin-mẹ̀fà Laufer MK, Thesing PC, Eddington ND àti àwọn ẹlòmíràn (ẹgbẹrun mèjì ati mẹ̀fà) Ìpadàbọ̀sípò agbára ìdènà ibà chloroquine ní Malawi.
+332: N Engl J Med ọọdunrun ati màrúndínlọgọ́ta:ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati ọ̀kandínlọgọ́ta–ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlàádọ́rin.
+333: Ẹgbẹrun ati mẹ̀rindínlọgọ́ta/NEJMo a0620 mèjìlélọgbọ̀n Martin RE (ẹgbẹrun mèjì ati ogún) Ìrìnàjò ti kòkòrò ibà.
+334: Biol Rev màrúndínlogorun:ọọdunrun ati màrún–ọọdunrun ati mèjìlélọgbọ̀n.
+335: Ìtọ́jú Malar Res ẹgbẹrun mèjì ati èjìdínlógún:ọ̀kan–mèje.
+336: Int J Parasitol Drugs Drug Resist ẹ̀rìndínlógún:ogorun ati màrúndínlọgọ́ta–ogorun ati ọ̀kanlélọgọ́ta.
+337: BMC Res Notes ẹ̀tàlá:irinwo ati mẹ̀tadínlogorun.
+338: Nat Med mẹ̀rindínlọgbọ̀n:ẹgbẹrun ati ẹgbẹ̀ta ati mèjì ẹgbẹrun ati ẹgbẹ̀ta ati mẹ̀jọ.
+339: Ẹgbẹrun ati mèjìdínlogójì/s41591- ogún- ẹgbẹrun ati màrún-mèjì Valderramos SG, Fidock DA (ẹgbẹrun mèjì ati mẹ̀fà) Àwọn olùgbé tí ó ní ipa nínú àtakò sí àwọn oògùn ibà.
+340: PLoS ONE mẹ̀fà:e20212 WHO (ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mèjìlélàádọ́rùn-ún) Àwọn ọ̀nà yàrá ìwádìí pàtàkì nínú ìmọ̀ nípa àrùn ibà.
+341: Àjọ Ìlera Àgbáyé, Geneva WHO (2020b) Ìròyìn ibà àgbáyé ẹgbẹrun mèjì ati ogún.
+342: Int/publi catio ns/i/item/ ẹgbẹrun mẹ̀tadínlogorun ati ẹgbẹ̀rin ati mèjìlélàádọ́rùn-ún ẹgbẹrun ogójì ati ẹ̀ẹ́dógún ọ̀ọ́dẹ́gbẹ̀rin ati ọ̀kanlélàádọ́rùn-ún.
+343: WHO (ẹgbẹrun mèjì ati mẹ̀talélogún) Ìròyìn ibà àgbáyé ẹgbẹrun mèjì ati mẹ̀talélogún WHO-UCN-GMP-ẹgbẹrun mèjì ati mẹ̀talélogún.
+344: Pdf Ìròyìn ìwádìí àgbáyé https:// www.who.org
+345: Ìròyìn ìwádìí àgbáyé https:// www.who.org
+346: Ìròyìn ìbà àgbáyé Php ẹgbẹrun mèjì ati mẹ̀talélogún.
+347: Springer Nature tàbí ìwé àṣẹ rẹ̀ (fún àpẹẹrẹ.
+348: Com Biochemical Genetics Wellington Aghoghavia Oyibo woyibo@unilag.
+349: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin https://doi.
+350: Àwọn èsì Àwọn èsì fihàn pé àwọn ITN ní gbogbogbòò ní gbogbo àwọn ẹgbẹ́ owó tí ń wọlé, èyí sì fi hàn pé ìpínkiri tó tọ́ (mẹ̀tadínlogorun.
+351: Mèje pere ninu ogorun-un), ṣùgbọ́n lílò rẹ̀ kéré gan-an (àádọ́rin.
+352: Síbẹ̀síbẹ̀, lílò ITN yàtọ̀ síra ní ìdàkejì pẹ̀lú owó tí ń wọlé, pẹ̀lú àwọn ìdílé tí owó wọn kéré ní mẹ̀ta.
+353: Ìwọ̀n mẹ̀fà tí ó ga jùlọ ti lílò ITN (màrúndínlogorun pere ninu ogorun-un CI: mẹ̀ta.
+354: Àwọn Ìparí Àwọn àwárí wọ̀nyí tẹnu mọ́ àwọn ìbáṣepọ̀ dídíjú láàrín àwọn olùpinnu àwùjọ àti àwọn ìwà ìdènà ibà.
+355: Nz Oluwadamilare Peter Olowoshile damilare@projectenable.
+356: Africa Àkójọ gbogbo ìwífún òǹkọ̀wé wà ní ìparí àpilẹ̀kọ náà The Author(s) ẹgbẹrun mèjì ati màrúndínlọgbọ̀n.
+357: Ìwọ̀lé sí Ṣíṣí Àpilẹ̀kọ yìí ní ìwé àṣẹ lábẹ́ Creative Commons Attribution mẹ̀rin.
+358: Láti wo ẹ̀dà ìwé àṣẹ yìí, ṣèbẹ̀wò sí http://creativecommons.
+359: Org/licenses/by/mẹ̀rin.
+360: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé mèjì nínú mẹ̀wá àti àwọn ohun tó jẹ mọ́ àṣà nínú ìtọ́jú ìlera  iṣamulo.
+361: Ekun naa ṣe akọọlẹ fun diẹ sii ju àádọ́rùn-ún pere ninu ogorun-un ti awọn ọran iba agbaye ati iku [ọ̀kan].
+362: Idena to munadoko ati itọju akoko jẹ pataki si awọn ilana iṣakoso iba lati dinku isẹlẹ arun ati mu awọn abajade ilera dara si.
+363: Ipari eto-ẹkọ giga le mu imọwe ilera pọ si ati fun eniyan ni agbara lati gba awọn ihuwasi idena.
+364: Ṣiṣawari ibatan alaiṣedeede laarin ẹkọ ati awọn ihuwasi idena iba ni awọn olugbe igberiko si wa ni pataki.
+365: Awọn ipolongo media media ti ni lilo pupọ lati ṣe agbega imo ati iwuri fun wiwa itọju fun iba [ẹ̀rìnlá].
+366: Iwadi yii tun n wa lati koju diẹ ninu awọn ibeere ti ko dahun ni awọn igbiyanju idena iba.
+367: Fun awọn itupalẹ ipele-ile lori idena iba (inini ITN ati lilo), apẹẹrẹ ikẹhin jẹ Alao àti àwọn ẹlòmíràn.
+368: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Oju-iwe mẹ̀ta ti mẹ̀wá ẹgbẹrun màrún, ọ̀kanlélogún awọn idile igberiko lati inu data HR.
+369: Iwọn idapọpọ yii da lori iṣẹ dukia tirẹ,  ile abuda, ati wiwọle iṣẹ.
+370: Iṣakojọpọ yii ṣẹda awọn afiwera kongẹ diẹ sii laarin awọn idile ti o ni ipilẹ eto-ọrọ aje kanna.
+371: Fun awọn iyasọtọ iyasoto, awọn ile ti o ni nini ITN ti o padanu tabi data lilo ko si ninu ysis furo.
+372: Eyi ṣe pataki lati rii daju pe data jẹ igbẹkẹle ati pe alaye ti ko pe kii yoo ni ipa lori awọn abajade.
+373: Awọn oniyipada ti o gbẹkẹle pẹlu awọn afihan bọtini meji ti o ni ibatan si idena iba.
+374: Awọn oniyipada ti o gbẹkẹle ninu paati yii ni imọ idena idena iba ati idena meth ods.
+375: Awọn oludahun dahun ing “Bẹẹni” si ami atọka mejeeji ni a pin gẹgẹ bi mimọ.
+376: Oniyipada ti o gbẹkẹle ni apakan yii jẹ iru iṣẹ ilera ti a wọle si fun itọju iba.
+377: Ayẹwo iṣiro gbogbo awọn itupalẹ iṣiro ni a ṣe ni lilo IBM SPSS Statistics Version mẹ̀tadínlọgbọ̀n.
+378: Awọn ipin ipin ni a royin lati ṣe apejuwe itankalẹ ti awọn abajade laarin ẹka kọọkan.
+379: Awọn iwuwo iwadi ni a lo láti ṣe àkíyèsí fún àpẹẹrẹ àyẹ̀wò onípele tó díjú tí a lò nínú àwọn àkójọpọ̀ MIS.
+380: Láti ṣe àkíyèsí àwọn ìbáṣepọ̀ aláìdádúró, a ṣe àwọn àyẹ̀wò onípele púpọ̀.
+381: A lo àwòṣe ìyípadà onípele púpọ̀ láti ṣe àgbéyẹ̀wò ìfihàn ìròyìn àti ìwọlé ìtọ́jú ìlera, ní títọ́jú irú ìtọ́jú ìlera Alao àti àwọn ẹlòmíràn.
+382: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé mẹ̀rin nínú mẹ̀wá tí a wọlé sí gẹ́gẹ́ bí onípele tó gbẹ́kẹ̀lé àti “àwọn orísun mìíràn” gẹ́gẹ́ bí ẹ̀ka ìtọ́kasí.
+383: A tẹ ìfihàn onípele méjì tí ó dúró fún ìfarahàn loorekoore tàbí àìṣeéṣe.
+384: A ṣe àyẹ̀wò ìfarahàn onípele nípa lílo Nagelkerke R² fún àwọn àwòṣe ìfàsẹ́yìn onípele méjì àti àwọn statistiki R² pseudo fún àwòṣe onípele púpọ̀.
+385: A lo ìdánwò Hosmer-Lemeshow rere-ti-fit fún àwọn àwòṣe ìfàsẹ́yìn onípele méjì.
+386: A ṣẹ̀dá àwọn ìwòran dátà nípa lílo Python pẹ̀lú matplotlib nínú àtúnṣe Jupyter Notebook mèje.
+387: A ṣe àfihàn àwọn ìwádìí ìsọ̀rí gẹ́gẹ́ bí àtẹ ìṣàfihàn láti fi àwọn ẹ̀ka kékeré wéra láàárín àwọn ẹgbẹ́ owó-orí àti ẹ̀kọ́.
+388: A kọ àwọn iye ìpín ọgọ́rùn-ún sí orí àwọn ọ̀pá fún ìmọ́tótó, a sì fi àwọn àmì àti àkọlé tí ó ṣe kedere kún un láti rí i dájú pé a lè túmọ̀ wọn.
+389: Mẹ̀fà pere ninu ogorun-un) ni a kà sí àwọn oníṣòwò kékeré, mèjìlélogún.
+390: Mẹ̀jọ pere ninu ogorun-un gẹ́gẹ́ bí àwọn oníṣòwò àárín, àti ọ̀kandínlọgbọ̀n.
+391: Mẹ̀fà pere ninu ogorun-un gẹ́gẹ́ bí àwọn oníṣòwò gíga, tí ó ń ṣàfihàn onírúurú ọrọ̀-ajé láàrín àwọn agbègbè ìgbèríko (Tábìlì ọ̀kan).
+392: Oníṣòwò ITN fẹ́rẹ̀ẹ́ jẹ́ gbogbogbòò, pẹ̀lú mẹ̀tadínlogorun.
+393: Mèje pere ninu ogorun-un àwọn ilé tí wọ́n ròyìn pé wọ́n ní ó kéré tán ITN kan.
+394: Ṣùgbọ́n, lílo ITN ní gidi kéré sí i, pẹ̀lú mẹ̀talélọgọ́rin.
+395: Odo pere ninu ogorun-un àwọn ilé tí ó fihàn pé ó kéré tán ọmọ ẹgbẹ́ kan ti sùn lábẹ́ ITN ní alẹ́ tí ó kọjá.
+396: Ìwádìí oníyàtọ̀ fihàn pé oníṣòwò ITN ga ní gbogbo ìgbà lórí gbogbo àwọn ẹgbẹ́ owó-orí: mèjìdínlogorun.
+397: Odo pere ninu ogorun-un nínú àwọn ìdílé oníṣòwò kékeré, mẹ̀tadínlogorun.
+398: Màrún pere ninu ogorun-un ninu awon ile ti owo oya won wa laarin awon eniyan meji, ati mẹ̀tadínlogorun.
+399: Mẹ̀ta pere ninu ogorun-un ninu awon ile ti owo oya won wa ni ipo giga, laisi awon iyato pataki ti a ri ninu iṣiro (X² je mèjì).
+400: Èyí fi hàn pé a pín àwọn ITN láìka owó tí ilé ń gbà sí. 
+401: Ní ìyàtọ̀ sí èyí, lílo ITN yàtọ̀ síra ní pàtàkì nípasẹ̀ ìgbéraga ológbò tí owó rẹ̀ ń wọlé (X²  je igba ati mèjìdínlàádọ́ta).
+402: Ọ̀kan), pẹ̀lú lílo tí ó ga jùlọ ní àwọn ilé tí owó wọn kò pọ̀ (ọ̀kandínlàádọ́rùn-ún.
+403: Mẹ̀fà pere ninu ogorun-un), lẹ́yìn náà ni àwọn ilé tí owó wọn kò pọ̀ (màrúndínlàádọ́rùn-ún.
+404: Mèje pere ninu ogorun-un), àti èyí tí ó kéré jùlọ ní àwọn ilé tí owó wọn kò pọ̀ (àádọ́rin.
+405: Láìka gbogbo ènìyàn sí, ìbáṣepọ̀ oníyípadà yìí láàrín owó tí ó ń wọlé àti lílo ITN ṣe àfihàn àìdọ́gba ìwà.
+406: Ìyípadà logistic oníyípadà púpọ̀ jẹ́rìí sí àwọn àṣà wọ̀nyí.
+407: Ọ̀kan), àti àwọn ilé tí owó wọn kò pọ̀ tó fi hàn pé ó ju ìlọ́po méjì lọ (AOR  je mèjì.
+408: Ẹgbẹ́ tí ó tóbi jùlọ kò ní ẹ̀kọ́ gbogbogbòò (ọ̀kanlélogójì.
+409: Mẹ̀ta pere ninu ogorun-un), lẹ́yìn náà ni àwọn ilé ẹ̀kọ́ kejì (màrúndínlogójì.
+410: Mẹ̀jọ pere ninu ogorun-un), àti ẹ̀kọ́ gíga (mẹ̀jọ.
+411: Ìmọ̀ wà láti mèjìlélọgọ́ta.
+412: Mẹ̀ta pere ninu ogorun-un láàrín àwọn obìnrin tí kò ní ẹ̀kọ́ sí mèjìdínlọgọ́rin.
+413: Mèje pere ninu ogorun-un nínú àwọn tó ní ẹ̀kọ́ gíga (Àwòrán 
+414: Ní ìyàtọ̀ sí àwọn ìlànà ìmọ̀, ìròyìn nípa lílo àwọn nǹkan tí wọ́n ń lò ní alẹ́ tó kọjá dínkù pẹ̀lú àwọn ìpele ẹ̀kọ́ gíga (χ²  je ọọdunrun ati ọ̀kanlélọgbọ̀n.
+415: Lílo wọn ga jùlọ láàrín àwọn obìnrin tí kò ní ẹ̀kọ́ gíga (ọ̀kanlélàádọ́ta.
+416: Odo pere ninu ogorun-un) àti èyí tó kéré jùlọ nínú àwọn tó ní ẹ̀kọ́ gíga (mẹ̀rindínlọgbọ̀n.
+417: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé màrún nínú mẹ̀wá Àwòrán 
+418: Ọ̀kan Ìpíndọ́gba lílo ITN ní gbogbo ìpele owó oṣù Àwòrán 
+419: Ọ̀ọ́dẹ́gbẹ̀ta ati mẹ̀rinlélàádọ́ta, lẹ́sẹẹsẹ; gbogbo p  kere si odo.
+420: Fún lílo ITN, ẹ̀kọ́ ṣì jẹ́ àmì pàtàkì, ṣùgbọ́n pẹ̀lú àwọn ìpele tí ó dínkù.
+421: Àwọn obìnrin tí wọ́n ní ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ àti girama ní àwọn ìpele lílo wọn ní gbogbo ìpele ju àwọn tí kò ní ẹ̀kọ́ lọ (AOR  je mèjì.
+422: Ọọdunrun ati ọ̀kandínlàádọ́rùn-ún, ní ìbámu pẹ̀lú ní ọ̀nà tó dára jù), nígbà tí ẹ̀kọ́ gíga fi ipa kékeré hàn ṣùgbọ́n ó ṣì ṣe pàtàkì (AOR  je ọ̀kan.
+423: Ọ̀pọ̀lọpọ̀ àwọn olùdáhùn (mẹ̀talélọgọ́ta.
+424: Mẹ̀sán pere ninu ogorun-un) ròyìn pé wọn kò fi ìròyìn hàn nígbà gbogbo, nígbà tí mẹ̀rindínlogójì.
+425: Ọ̀kan pere ninu ogorun-un ròyìn pé wọ́n fi ìròyìn hàn nígbà gbogbo sí ó kéré tán oríṣi ìròyìn kan bíi rédíò, tẹlifíṣọ̀n, tàbí ìwé ìròyìn (Tábìlì mẹ̀rin).
+426: Nípa ìwà wíwá ìlera, àwọn iṣẹ́ ìlera gbogbogbòò ni wọ́n lò jùlọ fún ìtọ́jú ibà (ọ̀kandínlàádọ́ta.
+427: Mẹ̀ta pere ninu ogorun-un), lẹ́yìn náà ni àwọn ilé ìwòsàn/oògùn àdáni (mẹ̀rindínlọgbọ̀n.
+428: Mẹ̀sán pere ninu ogorun-un), oògùn ìbílẹ̀ (mèjì.
+429: Màrún pere ninu ogorun-un), àti àwọn orísun mìíràn (ọ̀kan.
+430: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé mẹ̀fà nínú mẹ̀wá Àwòrán.
+431: Mẹ̀ta Ìbáṣepọ̀ láàárín ẹ̀kọ́ àti ìmọ̀ nípa ìdènà ibà Àwòrán.
+432: Mẹ̀rin Ìbáṣepọ̀ láàárín ìpele ẹ̀kọ́ àti lílo ITN Tábìlì mèjì Ìpa ẹ̀kọ́ ipele lori lilo ITN Ipele Ẹkọ Alakọbẹrẹ vs.
+433: Ọ̀ọ́dẹ́gbẹ̀rin ati mèje] Tabili mẹ̀ta Àpẹẹrẹ ìfàsẹ́yìn Logistik – Lilo ITN Ipele Ẹkọ Alakọbẹrẹ vs.
+434: Awọn eniyan ti ko ni ifihan media nigbagbogbo jẹ ọpọlọpọ awọn olumulo jakejado gbogbo awọn ẹka iṣẹ.
+435: Iyipada logistik multinomial tun jẹrisi pe ifihan media ko ṣe asọtẹlẹ iru iṣẹ itọju ilera ti a wọle si.
+436: Awọn ipin awọn aidọgba ti a ṣatunṣe fun ifihan media nigbagbogbo ni ibatan si ifihan laisi ifihan ko si pataki kọja awọn iṣẹ ilera gbogbogbo (AOR  je ọ̀kan.
+437: Ọ̀kanlá, Oju-iwe mèje ti mẹ̀wá Alao àti àwọn ẹlòmíràn.
+438: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin p  tobi ju odo.
+439: Ọ̀kan), awọn ile iwosan aladani (AOR  je odo.
+440: Ọ̀kan), awọn onimọ-ẹrọ kemikali (AOR  je odo.
+441: Ọ̀kan), ati oogun ibile (AOR  je ọ̀kan.
+442: Àpẹẹrẹ naa ní agbára àlàyé tí kò ṣe pàtàkì (Nagelkerke R²  je odo.
+443: Àwárí yìí bá àwọn ìwádìí mìíràn tí wọ́n ń ròyìn wíwọlé sí ITN káàkiri lẹ́yìn ìsapá ìṣàkóso ibà orílẹ̀-èdè tí ó lágbára [ẹ̀ẹ́dógún, ẹ̀rìndínlógún].
+444: Ọ̀pọ̀lọpọ̀ orílẹ̀-èdè tí ó ṣeé ṣe ló wà.
+445: Síbẹ̀síbẹ̀, ìbáṣepọ̀ tí ó yàtọ̀ láàrín ẹ̀kọ́ àti lílo àpapọ̀ tí a ròyìn yàtọ̀ sí ìbáṣepọ̀ rere láàrín ẹ̀kọ́ àti ìmọ̀.
+446: Àwọn obìnrin tí kò ní ẹ̀kọ́ ní ó ṣeé ṣe kí wọ́n sùn lábẹ́ àpò ẹ̀fọn ní alẹ́ ọjọ́ tí ìwádìí náà ṣáájú ju àwọn tí wọ́n ní ìpele ẹ̀kọ́ gíga lọ.
+447: Ìyàtọ̀ yìí lè ṣe àfihàn àwọn ohun tó díjú nípa àṣà àti àyíká.
+448: Àwọn ìyípadà àkókò, àìbalẹ̀ tí a ròyìn, tàbí àwọn ìgbésẹ̀ ìdènà mìíràn lè ṣe àfikún.
+449: Àìsí ìbáṣepọ̀ yìí ń bá a lọ lẹ́yìn tí a bá ṣe àtúnṣe fún àwọn olùdásílẹ̀ tí ó ṣeé ṣe nínú àwọn àwòṣe ìyípadà oníṣẹ́-ọnà oní-ọ̀pọ̀.
+450: Mẹ̀sán Ifihan Nigbagbogbo lori Awọn Iwifunni ọọdunrun ati mèjìlélogún mẹ̀rindínlogójì.
+451: Ọ̀kan Wiwọle si Ilera Awọn Iṣẹ Ilera Gbogbogbo irinwo ati ogójì ọ̀kandínlàádọ́ta.
+452: Mẹ̀ta Awọn Ile-iwosan Aladani/Awọn Ile-iwosan/Awọn Iṣẹ Aladani igba ati ọ̀kandínlogójì mẹ̀rindínlọgbọ̀n.
+453: Mẹ̀sán Isegun Ibile mèjìlélogún mèjì.
+454: Màrún Awọn Orisun Miiran ẹ̀rìnlá ọ̀kan.
+455: Màrún irinwo ati ogójì Awọn Ile-iwosan Aladani/Awọn Ile-iwosan/Awọn Iṣẹ Aladani mèjìlélọgọ́ta.
+456: Odo ogorun ati mèjìdínlọgọ́rin Isegun Ibile mèjìdínlàádọ́rin.
+457: Mẹ̀jọ mèjìlélogún Awọn Orisun Miiran mẹ̀rinlélọgọ́ta.
+458: Awọn awari iwadi naa ni ọpọlọpọ awọn ipa ti o wulo.
+459: Ifiranṣẹ ti a ṣe deede ti o sọrọ nipa awọn oye, irọrun, ati awọn ọgbọn aabo miiran le mu ifaramọ ITN pọ si.
+460: Keji, jijẹ imoye idena iba nipasẹ ẹkọ jẹ pataki, ṣugbọn ko to nikan lati rii daju pe lilo apapọ.
+461: Àwọn ìdí mélòó kan nìyí tí ìfarahàn àwọn oníròyìn kò fi ní ìsopọ̀ pàtàkì pẹ̀lú ìwà wíwá ìtọ́jú nínú ìwádìí yìí.
+462: Kódà nígbà tí àwọn ìpolówó àwọn oníròyìn bá gbòòrò, àkóónú náà lè má bá àwọn ìlànà, ìgbàgbọ́, tàbí èdè àdúgbò mu, èyí tí ó ń dín agbára rẹ̀ kù.
+463: Ìdí mìíràn lè jẹ́ àwọn ìdènà ìṣètò sí wíwọlé sí ìtọ́jú ìlera.
+464: Ní ọ̀pọ̀lọpọ̀ àwọn agbègbè ìgbèríko, àwọn ìdènà wọ̀nyí lè ṣe pàtàkì bí ìmọ̀, bí kò bá tilẹ̀ jẹ́ bẹ́ẹ̀ jù bẹ́ẹ̀ lọ.
+465: Níkẹyìn, ìfarahàn láìsí ìfọwọ́sowọ́pọ̀ tàbí ìgbẹ́kẹ̀lé nínú ìránṣẹ́ náà lè ṣe àfikún sí àìní ipa pàtàkì.
+466: Èyí tẹnu mọ́ pàtàkì ìfarahàn àwọn oníròyìn àti rírí i dájú pé àwọn ìránṣẹ́ náà jẹ́ èyí tí ó wúni lórí, tí ó ṣeé gbẹ́kẹ̀lé, àti tí a gbẹ́kẹ̀lé nípasẹ̀ àwọn olùgbọ́ tí a fojú sí.
+467: Ìwádìí rẹ̀ ní àwọn ààlà.
+468: Àtọ́ka ọrọ̀, bó tilẹ̀ jẹ́ aṣojú ìpele fún ipò ọrọ̀-ajé, lè má ṣe gba gbogbo àwọn apá ti ìyàtọ̀ ọrọ̀-ajé.
+469: Jù bẹ́ẹ̀ lọ, a ti ṣàlàyé ìfarahàn àwọn ìròyìn káàkiri, kò sì ṣe àyẹ̀wò àkóónú, dídára ìránṣẹ́, tàbí òye.
+470: Ní àfikún, ọ̀pọ̀lọpọ̀ àwọn ohun tí kò ṣeé díwọ̀n lè nípa lórí àjọṣepọ̀ tí a rí.
+471: Fún àpẹẹrẹ, ìyàtọ̀ nínú agbára ìtànkálẹ̀ ibà ní agbègbè lè ní ipa lórí lílo ITN àti ìwà wíwá ìtọ́jú.
+472: Ní àfikún, ìwádìí ìfarahàn àwọn ìròyìn, pẹ̀lú ìwọ̀n àpẹẹrẹ ti n  je ẹgbẹ̀rin ati mẹ̀talélàádọ́rùn-ún, kéré ju àwọn ìwádìí mìíràn nínú ìwádìí yìí lọ.
+473: Nítorí náà, a gbọ́dọ̀ túmọ̀ àwọn àwárí rẹ̀ pẹ̀lú ìṣọ́ra, àti àwọn ìparí tí a fà láti inú àpẹẹrẹ kékeré yìí lè má ṣeé ṣe gbogbogbòò.
+474: Ìwádìí síwájú pẹ̀lú àwọn ìwọ̀n àpẹẹrẹ tí ó tóbi jù ni a nílò láti fìdí àwọn àwárí wọ̀nyí múlẹ̀.
+475: Ìwádìí ọjọ́ iwájú yẹ kí ó lo àwọn àwòrán gígùn láti ṣàfihàn àwọn ìyípadà ìgbà díẹ̀ nínú ìwà ìdènà ibà ní ọ̀nà tí ó dára jù.
+476: Ilé-iṣẹ́ Ìlera Nàìjíríà (MOH) àti Ètò Ìparẹ́ Ibà Ibà Ibà Orílẹ̀-èdè (NMEP) lè ṣe pàtàkì Alao àti àwọn ẹlẹgbẹ́ rẹ̀.
+477: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé mẹ̀sán nínú mẹ̀wá ipa nínú ṣíṣe àfojúsùn àwọn ẹgbẹ́ wọ̀nyí láti mú kí lílo ITN pọ̀ sí i ní gbogbo ìpele owó oṣù.
+478: Lílóye àti dídá àwọn àlàfo ìmọ̀ àti àwọn ìdènà gidi sí lílo ITN yóò jẹ́ kí àwọn ètò wọ̀nyí ṣe ìyàtọ̀ pípẹ́.
+479: Àwọn ohun èlò afikún mẹ̀ta.
+480: Àwọn ìdúpẹ́ A dúpẹ́ lọ́wọ́ Christabel Oboh fún ìrànlọ́wọ́ rẹ̀ nígbà ìwádìí dátà ti ìwádìí yìí.
+481: Àwọn àfikún àwọn òǹkọ̀wé Alao J.
+482: O: Ìrònú, Àgbékalẹ̀ ìkẹ́kọ̀ọ́, Ọ̀nà ìwádìí, Ìwádìí Dátà, Àbójútó, Kíkọ – àkọsílẹ̀ àtilẹ̀wá, Kíkọ – àtúnyẹ̀wò àti àtúnṣe; Olowoshile O.
+483: P: Ìṣàkóso Ẹ̀kọ́; Adetayo J.
+484: Ìnáwó Àwọn òǹkọ̀wé kò gba ìtìlẹ́yìn láti ọ̀dọ̀ àjọ èyíkéyìí fún iṣẹ́ tí a fi sílẹ̀.
+485: Wíwà Dátà ni a pèsè nínú ìwé àfọwọ́kọ àti àwọn fáìlì àlàyé afikún.
+486: Ìwádìí dátà kejì yìí bá àwọn ìlànà ìwà rere mu, kò sì nílò ìfọwọ́sowọ́pọ̀ láti ọ̀dọ̀ ìgbìmọ̀ àtúnyẹ̀wò ilé-iṣẹ́.
+487: Ìfọwọ́sowọ́pọ̀ fún ìtẹ̀jáde Kò Wúlò.
+488: Àwọn àǹfààní ìdíje Àwọn òǹkọ̀wé kéde pé àwọn àǹfààní ìdíje kò sí.
+489: Àwọn òǹkọ̀wé kò ní àǹfààní owó tàbí ti kìí ṣe ti owó láti ṣípayá.
+490: Ìròyìn àrùn iba àgbáyé ẹgbẹrun mèjì ati mẹ̀rinlélogún: kíkojú àìdọ́gba nínú ìdáhùn àrùn iba àgbáyé.
+491: Geneva: Switzerland: Àjọ Ìlera Àgbáyé; ẹgbẹrun mèjì ati mẹ̀rinlélogún.
+492: Ìròyìn nípa ibà ní Nàìjíríà ẹgbẹrun mèjì ati mèjìlélogún.
+493: Congo: Àjọ Ìlera Àgbáyé, Ọ́fíìsì Àgbègbè fún Áfíríkà;: Brazzaville; ẹgbẹrun mèjì ati mẹ̀talélogún.
+494: Chiziba C, Mercer LD, Diallo O, Bertozzi-Villa A, Weiss DJ, Gerardin J, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+495: Àwọn ohun tó ń fa ìṣòro ọrọ̀ ajé, ìṣèlú, àti àyíká lè mú kí ìtọ́jú ibà ṣe pàtàkì ní ìlú ńlá Nàìjíríà.
+496: Huijser L, Paszkowski A, De Ruiter M, Tiggeloven T.
+497: Láti ìfọ́ sí àjàkálẹ̀ àrùn: Lílóye àìlera tí ó wà ní ìpele méjì ti àwọn ibi tí omi ń gbóná, àìsàn ibà, àti òṣì ní Nàìjíríà.
+498: BMC Public Health (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) màrúndínlọgbọ̀n:ẹgbẹrun mẹ̀ta ati ọ̀kandínlọgọ́rin Ojú ìwé mẹ̀wá nínú mẹ̀wá màrún.
+499: Bertozzi-Villa A, Bever CA, Koenker H, Weiss DJ, Vargas-Ruiz C, Nandi AK àti àwọn ẹlòmíràn.
+500: Àwọn àwòrán àti ìwọ̀n wíwọlé àwọ̀n tí a fi oògùn pa, lílò, àti àwọ̀n fún olúkúlùkù ní Áfíríkà láti ọdún ẹgbẹrun mèjì sí ẹgbẹrun mèjì ati ogún.
+501: Oxborough RM, Chilito KLF, Tokponnon F, Messenger LA.
+502: Ìṣàkóso ẹ̀rọ ìtọ́jú ibà ní agbègbè Sahara ní Áfíríkà: àwọn ìṣòwò tó díjú láti kojú ewu tó ń pọ̀ sí i ti ìdènà ìpakúpa ibà.
+503: Lancet Planet Health.
+504: Abu Bonsra E, Amankwah Osei P, Sekyi AG, Kyere GA.
+505: PLOS Glob Public Health.
+506: Savi MK, Childs LM, Borgemeister C.
+507: Ni ikọja awọn àwọ̀n ibusun ti a tọju ipakokoropaeku si awọn ihuwasi oniruuru eniyan ati awọn otitọ aye.
+508: Diallo OO, Ozodiegwu ID, Camara A, Galatas B, Gerardin J.
+509: Awọn nkan ti o ni nkan ṣe pẹlu nini ati lilo Awọn Nẹti ti a ṣe itọju kokoro ni Guinea: igbekale ti ibi-iwadi ati iwadii ilera ti ẹgbẹrun mèjì ati èjìdínlógún.
+510: Yukich JO, Hutchinson P, Candrinho B, Butts J, Murimirgua F, Eisele TP, ati al.
+511: Àwọn kókó èrò àti ìbáṣepọ̀ wọn pẹ̀lú lílo àpò tí a fi oògùn pa kòkòrò ní agbègbè Magoe, Mozambique.
+512: Addis D, Gebeyehu Wondmeneh T.
+513: Ìlera Àpapọ̀.
+514: Adum P, Agyare VA, Owusu-Marfo J, Agyeman YN.
+515: Ìmọ̀, ìwà àti ìṣe àwọn ìgbésẹ̀ ìdènà ibà láàrín àwọn ìyá tí wọ́n ní àwọn ọmọ tí kò tó ọmọ ọdún márùn-ún ní agbègbè ìgbèríko Ghana.
+516: Al-Dmour H, Masa’deh R, Salman A, Al-Dmour R, Abuhashesh M.
+517: Ipa àwọn ìgbìmọ̀ ìròyìn lórí gbígbé ìmọ̀ ìlera gbogbogbòò àti ìyípadà ìwà sí àjàkálẹ̀ àrùn COVID-ọ̀kàndínlógún ní Jordani.
+518: Ẹgbẹrun mèjì ati mèjìlélogún;èjìlá.
+519: Yaya S, Uthman OA, Amouzou A, Bishwajit G.
+520: Ìfihàn àwọn ìròyìn àti ipa rẹ̀ lórí ìwà ìdènà ibà láàárín àwọn obìnrin àgbàlagbà ní ìsàlẹ̀ Sahara ní Áfíríkà: àwọn àbájáde láti inú àwọn ìwádìí àmì ibà.
+521: Ìlànà Ìlera Glob.
+522: Adeniyi L, Chestnutt EG, Rotimi K, Iwegbu A, Oresanya O, Smith J, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+523: Pípèsè àwọn Nẹ́ẹ̀tì tí a fi oògùn pa (ITNs) nípasẹ̀ ọgbọ́n ìlẹ̀kùn-sí-ilé-dé-ilé-ilé-iṣẹ́ oní-nọ́ńbà: àwọn ẹ̀kọ́ láti ìpínlẹ̀ Ondo, Nàìjíríà.
+524: Andrada A, Herrera S, Inyang U, Mohammed AB, Uhomoibhi P, Yé Y.
+525: Ìwádìí ìṣàfihàn àwọn ènìyàn ní agbègbè fi àwọn ìyàtọ̀ agbègbè hàn gẹ́gẹ́ bí àsọtẹ́lẹ̀ pàtàkì ti jíjẹ́ ITN àti lílò rẹ̀ ní Nàìjíríà.
+526: Lantz PM, House JS, Lepkowski JM, Williams DR, Mero RP, Chen J.
+527: Àwọn ohun tó ń fa ìṣòro ìlera, ìlera àti ikú: àwọn àbájáde láti inú ìwádìí tó ń wáyé ní orílẹ̀-èdè Amẹ́ríkà, èyí tó ń ṣojú fún àwọn àgbàlagbà tó wà ní Amẹ́ríkà.
+528: Puolakka E, Pahkala K, Laitinen TT, Magnussen CG, Hutri-Kähönen N, Män nistö S, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+529: Ipò ọrọ̀ ajé àti ìlera ìgbà èwe: ìwádìí àwọn ọ̀dọ́ Finns.
+530: Barrow A, Kinteh B, Badjie M, Kongira A, Adebayo AM, Kuye RA, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+531: Ìpinnu àwọn ohun tó ń fa ìpakúpa-ẹ̀jẹ̀ tí a tọ́jú fún ìdènà ibà láàárín àwọn ọmọdé tó wà lábẹ́ márùn-ún ní Gambia: ẹ̀rí láti inú ìwádìí orílẹ̀-èdè.
+532: Heine M, Lategan F, Erasmus M, Lombaard C, Mc Carthy N, Olivier J, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+533: Ìdánilẹ́kọ̀ọ́ Ìwòsàn.
+534: Wang M, Han X, Fang H, Xu C, Lin X, Xia S, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+535: Ipa ẹ̀kọ́ ìlera lórí ìmọ̀ àti ìwà sí àwọn àrùn tó ń ranni láàárín àwọn akẹ́kọ̀ọ́ ní ìpínlẹ̀ Gansu, China.
+536: Wakefield MA, Loken B, Hornik RC.
+537: Lílo àwọn ìpolówó ìròyìn láti yí ìwà ìlera padà.
+538: Ofoli JNT, Ashau-Oladipo T, Hati SS, Ati L, Ede V.
+539: Ìtọ́jú ìlera tó ń dènà ní àwọn ilé ìwòsàn àdáni ní orílẹ̀-èdè Nàìjíríà: ìwádìí kan (ilé ìwòsàn Nisa prime).
+540: BMC Health Serv Res.
+541: Rotarou ES, Sakellariou D.
+542: Àwọn ohun tí ó ń pinnu iye lílo àwọn iṣẹ́ ìlera ìdènà: ẹ̀rí láti Chile.
+543: Àwọn ìdènà sí lílo àyẹ̀wò àrùn jẹjẹrẹ ọrùn ní ìsàlẹ̀ Sahara Africa: àtúnyẹ̀wò onípele.
+544: Alyafei A, Easton-Carr R.
+545: Àpẹẹrẹ ìgbàgbọ́ ìlera ti ìyípadà ìwà.
+546: Treasure Island (FL).
+547: StatPearls Publishing; ẹgbẹrun mèjì ati mẹ̀rinlélogún.
+548: Https://doi.Gov/books/NBKẸgbẹrun ẹgbẹ̀ta ati mẹ̀fà ati ogorun ati ogún/.
+549: Ipari akọkọ ni polymerase chain reaction.
+550: Wọle si mẹ̀rindínlọgbọ̀n May ẹgbẹrun mèjì ati màrúndínlọgbọ̀n.
+551: Pandey M, Maina RG, Amoyaw J, Li Y, Kamrul R, Michaels CR, ati bẹẹ bẹẹ lọ.
+552: Ipa ti oye ede Gẹẹsi lori wiwọle si itọju ilera, lilo, ati awọn abajade laarin awọn aṣikiri: iwadi didara.
+553: BMC Health Serv Res.
+554: Akiyesi Olutẹjade Springer Nature duro laileto nipa awọn ẹtọ ti o wa ni agbegbe ni awọn maapu ti a tẹjade ati awọn ajọṣepọ ile-iṣẹ.
+555: Com/locate/ijid Arterolane ati piperaquine.
+556: Àkókò pàtàkì ni polymerase chain reaction (PCR)-corrected ensuity clinical and parasitological response (ACPR) ní ọjọ́ mèjìdínlọgbọ̀n.
+557: Àwọn èsì: ACPR tí PCR-corrected jẹ́ ogorun pere ninu ogorun-un ní ọjọ́ mèjìdínlọgbọ̀n ó sì dúró títí di ọjọ́ mèjìlélogójì nínú àwọn ẹgbẹ́ méjèèjì.
+558: Iye ACPR ti a ko ṣe atunṣe PCR jẹ afiwera ni awọn ẹgbẹ mejeeji (AMP: mèjìdínlogorun.
+559: Ko si iyatọ pataki ninu FCT ati PCT laarin awọn ẹgbẹ naa.
+560: Ko si awọn iṣẹlẹ odi ti o ni ibatan si oogun (AEs) tabi awọn AE ti o nira ti a royin.
+561: ID Idanwo: Iforukọsilẹ Awọn idanwo Ile-iwosan Pan African - PACTR (ti a forukọsilẹ ni ọjọ mèjìlélogún Oṣu Karun ọdun ẹgbẹrun mèjì ati mẹ̀talélogún), URL: pactr.
+562: Aspx ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Onkọwe(awọn).
+563: Elsevier Ltd ti tẹjade ni ipo International Society for Infectious Diseases.
+564: Eyi jẹ nkan iwọle ṣiṣi silẹ labẹ iwe-aṣẹ CC BY ( http://creativecommons.org ).
+565: Ifihan ∗ Onkọwe ti o baamu: Medical Affairs and Clinical Research, Sun Pharmaceutical Industries Limited, No.
+566: Igba ati ọ̀kan B, SUN HOUSE, CTS, ọ̀kan, Western Express Hwy, Goregaon, Mumbai, ogójì odo ​​mẹ̀talélọgọ́ta, India.
+567: Àdírẹ́sì ìmeeli: Sameer.
+568: Ìbáṣepọ̀ ní àkókò iṣẹ́ yìí.
+569: Ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Ibà jẹ́ ìpèníjà ìlera àgbáyé tó gbajúmọ̀, tó ní ipa lórí ènìyàn tó lé ní mílíọ̀nù igba ati mẹ̀talélọgọ́ta ní orílẹ̀-èdè mẹ̀talélọgọ́rin ní ọdún ẹgbẹrun mèjì ati mẹ̀talélogún.
+570: Àjọ Ìlera Àgbáyé (WHO) Agbègbè Áfíríkà nìkan ló ní àrùn ibà tó tó mílíọ̀nù igba ati mẹ̀rindínlàádọ́ta (mẹ̀rinlélàádọ́rùn-ún pere ninu ogorun-un) àti ikú ibà tó tó mílíọ̀nù ọ̀ọ́dẹ́gbẹ̀ta ati ọ̀kandínlàádọ́rin,odo odo odo (màrúndínlogorun pere ninu ogorun-un).
+571: Mẹ̀sán pere ninu ogorun-un nínú àwọn ikú wọ̀nyí ló wáyé ní Nàìjíríà, orílẹ̀-èdè náà sì tún ní mẹ̀tadínlọgbọ̀n pere ninu ogorun-un nínú àwọn àrùn ibà kárí ayé ní ọdún ẹgbẹrun mèjì ati mèjìlélogún [ọ̀kan, mèjì].
+572: Ẹgbẹrun ati igba ati ọ̀kan-ẹgbẹrun mẹ̀sán ati ọ̀ọ́dẹ́gbẹ̀rin ati èjìlá/ ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Olùkọ̀wé(àwọn) Olùkọ̀wé(àwọn).
+573: Elsevier Ltd ló tẹ̀ ẹ́ jáde ní ipò International Society for Infectious Àrùn.
+574: Àpilẹ̀kọ tí a ṣí sílẹ̀ fún àwọn ènìyàn lábẹ́ ìwé àṣẹ CC BY (http://creativecommons.org).
+575: Ní ìtàn, ìtọ́jú àrùn ibà gbára lé àwọn oògùn bíi quinolines, tetracyclines, àti sulfonamides [màrún].
+576: Síbẹ̀síbẹ̀, ìdènà àrùn ibà gbòòrò sí àwọn ìtọ́jú ara àti àwọn ìtọ́jú àtijọ́ yọrí sí ìyípadà àpẹẹrẹ nínú àwọn ọgbọ́n ìtọ́jú [mẹ̀fà].
+577: Àwọn Ilé-iṣẹ́ fún Ìṣàkóso àti Ìdènà Àrùn dámọ̀ràn AL gẹ́gẹ́ bí ìtọ́jú àkọ́kọ́ fún ibà P. falciparum tí kò ní ìṣòro [mẹ̀jọ].
+578: Jù bẹ́ẹ̀ lọ, ó jẹ́ ọ̀kan lára ​​àwọn ìtọ́jú tí a dámọ̀ràn jùlọ àti tí a lò jùlọ ní onírúurú orílẹ̀-èdè Áfíríkà [mẹ̀sán–ọ̀kanlá].
+579: Ìpèníjà mìíràn ni ìdènà sí àwọn oògùn ibà [ẹ̀tàlá].
+580: Lọ́wọ́lọ́wọ́, ìtọ́jú déédéé fún P.falciparum tí kò ní ìṣòro
+581: Síbẹ̀síbẹ̀, agbára ìṣègùn ti àwọn oògùn ibà ti dínkù nítorí àwọn oríṣi P. falciparum tí ó lè dènà oògùn  [ẹ̀rìndínlógún].
+582: Laarin ọdun ẹgbẹrun mèjì ati ẹ̀ẹ́dógún ati ẹgbẹrun mèjì ati mèjìlélogún, awọn iwadii mẹwa ti a ṣe ni agbegbe WHO Afirika ṣe afihan ikuna itọju ti o kọja mẹ̀wá pere ninu ogorun-un pẹlu AL [mèjì].
+583: Awọn awari wọnyi tẹnumọ iwulo fun idagbasoke awọn itọju antimalarial tuntun ati ti o munadoko [mèjì, mẹ̀ta].
+584: Lilo awọn ACTs meteta tabi awọn itọju apapọ ti kii ṣe artemisinin le wulo ni iru awọn ọran [mẹ̀ta].
+585: Apapo iwọn lilo ti o wa titi (FDC) ti arterolane maleate-piperaquine fosifeti (AMP) ni a fihan lati mu imunadoko imukuro awọn parasites iyokù [màrún, ẹ̀tàdínlógún].
+586: Jù bẹ́ẹ̀ lọ, ìlànà ìwọ̀n oògùn tí ó ń lò lẹ́ẹ̀kan lójoojúmọ́ mú kí àwọn aláìsàn máa tẹ̀lé e nítorí ìdínkù nínú ẹrù ìtọ́jú [èjìdínlógún].
+587: Síbẹ̀síbẹ̀, àwọn àyẹ̀wò wọ̀nyí yọ àwọn aláìsàn kúrò ní Nàìjíríà [mèjì, mẹ̀rin, ọ̀kàndínlógún].
+588: Ìbà Falciparum nínú àwọn aláìsàn ọ̀dọ́ àti àgbàlagbà ní Nàìjíríà.
+589: Ìbà Falciparum.
+590: A kò lè fọ́ ojú nítorí ìyàtọ̀ nínú ìṣètò ìwọ̀n oògùn láàárín AMP àti AL.
+591: Síbẹ̀síbẹ̀, lílo àwọn àmì àrùn parasitological tí ó ṣeé ṣe ran lọ́wọ́ láti dín ẹ̀tanú tí ó ṣeé ṣe nítorí àpẹẹrẹ àmì tí a ṣí sílẹ̀ kù.
+592: A ṣe ìwádìí náà ní àwọn ibi mẹ́rin ní Nàìjíríà (ibi méjì kọ̀ọ̀kan ní Ìpínlẹ̀ Osun àti Ìpínlẹ̀ Eko) láàárín Oṣù Keje ẹgbẹrun mèjì ati mẹ̀talélogún àti Oṣù Kẹwàá ẹgbẹrun mèjì ati mẹ̀rinlélogún.
+593: Màrún degrees Celsius tàbí iwọ̀n otutu ẹnu tí ó ga ju tàbí dọ́gba sí mèjìdínlogójì degrees Celsius) tàbí ìtàn ibà tí a kọ sílẹ̀ ní wákàtí mẹ̀rinlélogún tí ó ṣáájú.
+594: Ilana Ayipada ati Awọn Itoju Iwadi Ọna apinfunni ti o rọrun ni a lo nipa lilo ọna apinfunni ni aaye kọọkan.
+595: A lo ọna apinfunni ti o rọrun naa pẹlu awọn apoowe ti a di, ti ko han, ti a si n ka nọmba ni atẹle lati ṣetọju fifipamọ ipin.
+596: Awọn oṣiṣẹ aaye ko kopa ninu ṣiṣẹda lẹsẹsẹ.
+597: Lati koju awọn iyatọ ti o ṣeeṣe ti aaye kan pato, a lo apinfunni bulọọki ti a ṣeto pẹlu awọn iwọn bulọọki oniyipada, ti a ko sọ.
+598: A tọju awọn atokọ apinfunni lọtọ fun aaye kọọkan.
+599: Awọn alaisan ti o bì láàrín wakati kan ti wọn gba iwọn lilo kan ni a yọ kuro ninu iwadi naa.
+600: Iwe akọọlẹ Kariaye ti Awọn Arun Inu Ẹjẹ ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Aworan ọ̀kan.
+601: AL: Artemether-Lumefantrine; AMP: Arterolane maleate-Piperaquine phosphate.
+602: Louis, MO) fún ìwádìí polymerase chain reaction (PCR).
+603: Ní ọjọ́ kẹta àti ọjọ́ kejìdínlọ́gbọ̀n, a gba àpapọ̀ ẹ̀jẹ̀ ìṣàn ẹ̀jẹ̀ mẹ̀jọ mL fún CBC, àwọn àyẹ̀wò iṣẹ́ ẹ̀dọ̀ àti kíndìnrín, àti ìpèsè fíìmù tí ó nípọn.
+604: A gba ẹ̀jẹ̀ capillary nípasẹ̀ ìtẹ̀ ìka fún microscopy fíìmù tí ó nípọn ní ọjọ́ odo, mẹ̀ta, mèje, ẹ̀rìnlá, mèjìdínlọgbọ̀n, àti mèjìlélogójì.
+605: A ṣe àyẹ̀wò àwọn fíìmù náà nígbà ìṣàyẹ̀wò (Ọjọ́ odo) láti ṣe àyẹ̀wò ìtóótun àti láti pinnu iye àwọn kòkòrò àrùn.
+606: Ní ọjọ́ odo, mẹ̀ta, mèje, ẹ̀rìnlá, mèjìdínlọgbọ̀n, àti mèjìlélogójì, àwọn fíìmù tí ó nípọn nìkan ni a ṣe àyẹ̀wò àti ṣe àyẹ̀wò, ní ìbámu pẹ̀lú ìlànà ìṣètò déédéé [ogún].
+607: A fi methanol dì fíìmù tín-ín-rín kọ̀ọ̀kan, a sì fi mẹ̀ta pere ninu ogorun-un Giemsa àlàfo bò àwọn fíìmù tí ó nípọn àti tín-ín-rín [ọ̀kanlélogún].
+608: Àwọn kókó pàtàkì kejì ni ìpíndọ́gba àwọn aláìsàn tí wọ́n ní ACPR tí kò ní PCR ní ọjọ́ mèjìdínlọgbọ̀n àti àkókò ìparẹ́ ibà (FCT).
+609: Àwọn àyẹ̀wò ààbò ni a tún ṣe nígbà ìwádìí náà.
+610: A fi àmì sí AEs nípasẹ̀ ìwé Medical Dictionary for Regulatory Activities (MedDRA) version mẹ̀tadínlọgbọ̀n.
+611: Odo, tí a fi àmì sí gẹ́gẹ́ bí Common Terminology Criteria for AEs (CTCAE) version màrún.
+612: Odo, àti ìdí gbogbo AEs ni àwọn olùwádìí ṣe àyẹ̀wò nípa lílo àwọn ìlànà WHO-Uppsala Monitoring Centre.
+613: Ìṣàyẹ̀wò ìṣirò A ṣírò ìwọ̀n àpẹẹrẹ nípa lílo ẹ̀rọ R version mẹ̀rin.
+614: Mèjì, tí a dá lórí agbára àádọ́rùn-ún pere ninu ogorun-un, pàtàkì màrún pere ninu ogorun-un, àti àlà tí kò ní ìpele tó màrún pere ninu ogorun-un.
+615: Ní gbígbà pé ìwọ̀n àṣeyọrí jẹ́ mèjìdínlogorun.
+616: Ọ̀kanlélọgbọ̀n pere ninu ogorun-un (AL), ìwọ̀n àyẹ̀wò tí a béèrè fún jẹ́ igba ati èjìlá.
+617: Ìwé Ìròyìn Àgbáyé fún Àwọn Àìsàn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Àwòrán mèjì. --> being played
+618: Ìwà aláìsàn.
+619: A yọ àwọn dátà tí ó sọnù kúrò nínú àyẹ̀wò PP, gẹ́gẹ́ bí WHO ṣe dámọ̀ràn [ogún].
+620: A fìdí àìsí-ìwọ̀n múlẹ̀ tí ààlà ìsàlẹ̀ ti CI bá ju −màrún pere ninu ogorun-un lọ.
+621: A ṣírò CI nípa lílo ìdánwò Fisher gangan.
+622: A ṣe àgbéyẹ̀wò ààbò lórí àwọn ènìyàn ààbò àti àwọn àbájáde ní àkópọ̀.
+623: Ìlànà ìwádìí náà wà gẹ́gẹ́ bí Ìwé Àfikún lórí ayélujára mèjì.
+624: Gẹ́gẹ́ bí a ṣe fihàn ní Àwòrán mèjì, gbogbo àwọn aláìsàn ni a fi kún àwọn ènìyàn ààbò àti ITT.
+625: Iye awọn alaisan PP jẹ́ ogorun ati àádọ́rin ati ogorun ati mẹ̀rindínlàádọ́rin lati awọn ẹgbẹ idanwo ati afiwera, lẹsẹsẹ. ---> being played
+626: A fun ni Paracetamol ni akoko kanna, bi o ṣe nilo, da lori ibeere ile-iwosan.
+627: (odo pere ninu ogorun-un) àwọn aláìsàn (àwọn aláìsàn márùn-ún nínú ẹgbẹ́ ìdánwò àti àwọn aláìsàn mẹ́sàn-án nínú ẹgbẹ́ Comparator) ni wọ́n pàdánù sí àtẹ̀lé nígbà ìwádìí náà. -->
+628: Nínú àwọn aláìsàn mẹ́rìnlá wọ̀nyí, àpapọ̀ àwọn aláìsàn mẹ́rin (mèjì.
+629: Mẹ̀ta pere ninu ogorun-un) nínú ẹgbẹ́ ìdánwò àti mẹ́sàn-án (màrún.
+630: Ọ̀kan pere ninu ogorun-un) nínú ẹgbẹ́ Comparator ni wọ́n pàdánù sí àtẹ̀lé láàárín ọjọ́ ọ̀kan àti mèjìdínlọgbọ̀n, àti ọ̀kan (odo.
+631: Mẹ̀fà pere ninu ogorun-un) nínú ẹgbẹ́ ìdánwò náà pàdánù sí àtẹ̀lé ní ọjọ́ mèjìlélogójì.
+632: Awọn eniyan ipilẹ ati awọn abuda ile-iwosan ni a ṣe iwọntunwọnsi laarin awọn ẹgbẹ mejeeji (Tabili ọ̀kan).
+633: Nínú ẹgbẹ́ Comparator, aláìsàn kan ní LCF ní ọjọ́ ọ̀kanlélogún.
+634: Síbẹ̀síbẹ̀, ìwádìí PCR jẹ́rìí sí i pé àwọn ọ̀ràn wọ̀nyí dúró fún àkóràn tuntun (àtún-àkóràn) dípò kí ó jẹ́ àtún-àkóràn.
+635: International Journal of InfectiousDiseasesOgorun ati ọ̀kanlélọgọ́ta(ẹgbẹrun mèjì ati màrúndínlọgbọ̀n)ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Táblì ọ̀kan Àwọn ànímọ́ ìbílẹ̀ àti ìpìlẹ̀ a.
+636: Àwọn Àbùdá Ìdánwò Ẹgbẹ́-AMP (N  je ogorun ati màrúndínlọgọ́rin) Ẹgbẹ́ Onífiwéra-AL (N  je ogorun ati màrúndínlọgọ́rin) iye-p Ọjọ́-orí, ọdún mẹ̀tadínlọgbọ̀n.
+637: Ọ̀ọ́dẹ́gbẹ̀rin ati mẹ̀tadínlọgọ́rin Iwọn otutu, iwọn celsius mẹ̀rindínlogójì.
+638: Ogorun ati ogún Hemoglobin, giramu for decilita okan (g/dL) èjìlá.
+639: Ogorun ati mẹ̀rindínlogójì Iwọn iwuwo parasite, agbedemeji (IQR) ẹgbẹrun mèjì ati ogorun ati mèjìlélogójì (ẹgbẹrun mẹ̀ta ati ọ̀ọ́dẹ́gbẹ̀ta ati ọ̀kàndínlógún) ẹgbẹrun mèjì ati ogorun ati mẹ̀rindínlàádọ́rùn-ún (ẹgbẹrun mẹ̀ta ati ọọdunrun ati mẹ̀rinlélọgbọ̀n) odo.
+640: Ẹ̀ẹ́dẹ́gbẹ̀rún ati ọgọ́rin Iwọn iwuwo kokoro iba ẹgbẹrun èjìlá, ọ̀ọ́dẹ́gbẹ̀ta ati màrúndínlogójì. --> being played
+641: Táblì mèjì Ìdáhùn tó péye nípa ìṣègùn àti àrùn parasitological ní ọjọ́ mèjìdínlọgbọ̀n àti mèjìlélogójì.
+642: Àbájáde ìtọ́jú ìdánwò ẹgbẹ́-AMP n ( pere ninu ogorun-un) Ẹgbẹ́ afiwéra-AL n ( pere ninu ogorun-un) Ewu ìbátan (Ìdánwò vs.
+643: Olùfiwéra) màrúndínlogorun pere ninu ogorun-un CI iye p Ọjọ́ mèjìdínlọgbọ̀n PCR-àtúnṣe ACPR Ó ṣẹlẹ̀ ogorun ati mèjìdínlàádọ́rin (ogorun.
+644: Odo) NA NA Kò ṣẹlẹ̀ odo (odo.
+645: Odo) Ọjọ́ mèjìdínlọgbọ̀n PCR-àtúnṣe ACPR Ó ṣẹlẹ̀ ogorun ati mèjìdínlàádọ́rin (mèjìdínlogorun.
+646: Ọọdunrun ati mèjìlélàádọ́ta Kò ṣẹlẹ̀ mẹ̀ta (ọ̀kan.
+647: Odo) Ọjọ́ mèjìlélogójì PCR-àtúnṣe ACPR Ó ṣẹlẹ̀ ogorun ati mẹ̀tadínlàádọ́rin (ogorun.
+648: Odo) NA NA Kò ṣẹlẹ̀ odo (odo.
+649: Odo) Ọjọ́ mèjìlélogójì PCR-àtúnṣe ACPR Ó ṣẹlẹ̀ ogorun ati mẹ̀tadínlàádọ́rin (mèjìdínlogorun.
+650: Ẹgbẹ̀ta ati mẹ̀rinlélàádọ́rin Kò ṣẹlẹ̀ mẹ̀ta (ọ̀kan.
+651: Àwọn àbájáde ipa pàtàkì kejì ìṣègùn Polymerase - ìdáhùn ìṣègùn àti parasitological tí kò péye ní ọjọ́ mèjìdínlọgbọ̀n Ní ọjọ́ ẹgbẹrun mèjìdínlọgbọ̀n, ogorun ati mèjìdínlàádọ́rin (mèjìdínlogorun.
+652: Mèjì pere ninu ogorun-un) nínú àwọn aláìsàn ogorun ati ọ̀kanlélàádọ́rin nínú ẹgbẹ́ ìdánwò àti ogorun ati màrúndínlàádọ́rin (ọ̀kandínlogorun.
+653: Mẹ̀rin pere ninu ogorun-un) nínú àwọn aláìsàn ogorun ati mẹ̀rindínlàádọ́rin nínú ẹgbẹ́ Comparator ṣe àṣeyọrí ìwòsàn.
+654: Ìyàtọ̀ láàárín àwọn ẹgbẹ́ ìtọ́jú kò ṣe pàtàkì ní ti ìṣirò (P  je odo.
+655: Èyí fi hàn pé ó ṣeé ṣe láàrín àwọn ẹgbẹ́ ìtọ́jú méjèèjì (Tábìlì mèjì).
+656: Àkókò ìparẹ́ ibà. Àròpọ̀ FCT fún ẹgbẹ́ ìdánwò (odo.
+657: Ọjọ́ ọ̀ọ́dẹ́gbẹ̀ta ati ẹ̀rìnlá) àti ẹgbẹ́ Comparator (odo.
+658: Ọjọ́ ẹgbẹ̀ta ati èjìdínlógún) jọra, láìsí ìyàtọ̀ pàtàkì láàárín àwọn ẹgbẹ́ ìtọ́jú (P  je odo.
+659: Ìfiwéra ìdánwò T láàárín àwọn ẹgbẹ́ méjèèjì fi ìṣírò t- odo hàn.
+660: Ẹgbẹ̀ta ati màrúndínlàádọ́ta, èyí tó fi hàn pé àwọn ẹgbẹ́ ìtọ́jú náà fi agbára kan náà hàn nínú ìdínkù ibà.
+661: Kò sí ọ̀kan lára ​​àwọn aláìsàn nínú ẹgbẹ́ ìwádìí tó ní ìrírí ETF, LCF, tàbí LPF, nígbà tí ọ̀kan lára ​​àwọn aláìsàn nínú ẹgbẹ́ Comparator ní LPF ní ọjọ́ mèjìlélogójì.
+662: Mèjì pere ninu ogorun-un) ló rí ìwòsàn gbà, nígbà tí ogorun ati mẹ̀rinlélọgọ́ta nínú àwọn aláìsàn ogorun ati mẹ̀rindínlàádọ́rin (mèjìdínlogorun.
+663: Mẹ̀jọ pere ninu ogorun-un) nínú ẹgbẹ́ Comparator ní ìwòsàn gbà.
+664: Ìyàtọ̀ láàárín àwọn ẹgbẹ́ ìtọ́jú kò ṣe pàtàkì ní ìṣirò (P  je odo.
+665: Àròpọ̀ ìkùnà ìtọ́jú mẹ́ta nínú ẹgbẹ́ ìwádìí àti ìkùnà ìtọ́jú méjì nínú ẹgbẹ́ Comparator ni a ròyìn.
+666: Àkókò ìparẹ́ parasite Àwọn PCTs àròpín fún ẹgbẹ́ ìwádìí (ọ̀kan.
+667: Ọjọ́ mẹ̀rinlélọgọ́ta) àti ẹgbẹ́ Comparator (ọ̀kan.
+668: Ọjọ́ ọ̀kandínlàádọ́rin) jọra, láìsí ìyàtọ̀ pàtàkì ní ìṣirò (P  je odo.
+669: Bákan náà, PCT àárín náà jọra ní àwọn ẹgbẹ́ méjèèjì ní ọ̀kan.
+670: Odo), pẹ̀lú iye p ti odo.
+671: Ìfiwéra ìdánwò T láàárín àwọn ẹgbẹ́ méjèèjì mú kí ìṣírò t-ti−odo jáde.
+672: Ọọdunrun ati ọ̀kandínlàádọ́rin, èyí tó fi hàn pé àwọn ẹgbẹ́ ìtọ́jú náà fi agbára kan náà hàn nínú pípa àwọn kòkòrò àrùn náà.
+673: Ìwé Ìròyìn Àgbáyé fún Àwọn Àrùn Àrùn ogorun ati ọ̀kanlélọgọ́ta (ẹgbẹrun mèjì ati màrúndínlọgbọ̀n) ẹgbẹrun ogorun ati mẹ̀jọ ati mẹ̀rinlélọgọ́rin Táblì mẹ̀ta Ìkùnà ìtọ́jú tí kò ní àtúnṣe Polymerase chain reaction ní ọjọ́ mèjìlélogójì.
+674: Àbájáde ìtọ́jú Ẹgbẹ́ ìdánwò-AMP (N  je mẹ̀ta) n ( pere ninu ogorun-un) Ẹgbẹ́ Comparator-AL (N  je mèjì) n ( pere ninu ogorun-un) Ewu ìbátan (Ìdánwò vs.
+675: Comparator) màrúndínlogorun pere ninu ogorun-un Ìgbẹ́kẹ̀lé àárín p-value # ETF LCF LPF odo (odo.
+676: Àwọn àbájáde ààbò Aláìsàn kan nínú ẹgbẹ́ ìdánwò náà ní àrùn scabies, èyí tí a kà sí pé kò ní í ṣe pẹ̀lú ìwádìí náà Ìtọ́jú.
+677: Àwọn AE kékeré ni a ròyìn, ṣùgbọ́n àwọn AE wọ̀nyí ń dín ara wọn kù, wọn kò sì nílò kí a dá ìtọ́jú dúró.
+678: A kò rí àwọn AE tó le koko nígbà ìwádìí náà.
+679: Àwọn ìpele hemoglobin tó wọ́pọ̀ nínú ẹgbẹ́ ìdánwò pọ̀ sí i láti ìbẹ̀rẹ̀ sí ọjọ́ kẹta, wọ́n sì dúró títí di ọjọ́ kejìlélógún (P  je odo.
+680: A ṣe àkíyèsí ìdínkù pàtàkì nínú iye sẹ́ẹ̀lì ẹ̀jẹ̀ funfun (WBC) nínú ẹgbẹ́ ìdánwò ní ọjọ́ kejìlélógún (P  je odo.
+681: Ẹ̀ẹ́dógún), nígbà tí àwọn ìpele WBC dúró ṣinṣin nínú ẹgbẹ́ Comp-parator láti ìbẹ̀rẹ̀ sí ọjọ́ kejìlélógún.
+682: ACPR tí PCR ṣe àtúnṣe dúró ṣinṣin títí di ọjọ́ kejìlélógún (ogorun pere ninu ogorun-un), èyí tó fi hàn pé ó ń ṣiṣẹ́ dáadáa.
+683: ACPR ti a ko ṣe atunṣe PCR ni Awọn ọjọ mèjìdínlọgbọ̀n ati mèjìlélogójì, PCT, ati FCT jẹ afiwera laarin awọn ẹgbẹ itọju mejeeji.
+684: Awọn ẹgbẹ itọju mejeeji tun ṣafihan awọn iyipada pataki ti ẹjẹ lati ipilẹ si Ọjọ mèjìlélogójì.
+685: Ninu iwadi miiran, Silva Pinto A ati awọn miiran
+686: Ṣe akọsilẹ awọn ikuna ile-iwosan ti o pẹ ni awọn arinrin-ajo ti o pada lati Luanda, Angola, ti a tọju pẹlu AL [màrúndínlọgbọ̀n].
+687: Awọn awari wọnyi tun ṣe afihan iyipada ninu idahun itọju ati agbara fun idagbasoke resistance.
+688: Ni atilẹyin eyi, Derbie A ati awọn miiran
+689: Jẹrisi imunadoko AL ni Afirika ṣugbọn o tẹnumọ iwulo fun abojuto agbegbe kan pato [mẹ̀rindínlọgbọ̀n].
+690: Ni Sudan, Mohamed AS ati awọn miiran
+691: Oṣuwọn ikuna itọju mẹ̀fà pere ninu ogorun-un pẹlu AL, apakan ti a sọ nitori aisi ibamu ati jijẹ ti ko tọ pẹlu awọn ounjẹ ọra.
+692: Ìwádìí náà tún sọ pé AL kò fi bẹ́ẹ̀ ṣiṣẹ́ dáadáa fún àwọn aláìsàn Sudan tí wọ́n ní ibà tí kò ní ìṣòro [mẹ̀tadínlọgbọ̀n].
+693: Ní àfikún, aláìsàn kan nílò ilé ìwòsàn nítorí pé wọn kò lo AL dáadáa [mèjìdínlọgbọ̀n].
+694: Nítorí náà, AMP lè jẹ́ àyípadà tó gbéṣẹ́ sí AL láti mú kí ìtọ́jú náà sunwọ̀n sí i.
+695: Àwọn àbájáde ìwádìí wa tún bá àwọn ìwádìí ìṣáájú tí wọ́n lo AMP kan náà mu.
+696: Àwọn àbájáde ìwádìí kan láti ọwọ́ Toure OA àti àwọn ẹlòmíràn.
+697: Ṣíṣàyẹ̀wò AMP lẹ́ẹ̀kan-lọ́jọ́ kan sí AL lẹ́ẹ̀mejì lójúmọ́ nínú àwọn aláìsàn ẹgbẹrun ati mèjìlélàádọ́rin tí wọ́n ní àkóràn P. falciparum tí kò ní ìṣòro, fi hàn pé PCR ti ṣàtúnṣe ACPR ti ọ̀kandínlogorun.
+698: Mèje pere ninu ogorun-un nínú àwọn ẹgbẹ́ AMP àti AL, lẹ́sẹẹsẹ, ní ọjọ́ mèjìdínlọgbọ̀n.
+699: A ṣe àkíyèsí ipa tí ó wà  tobi ju mèjìdínlogorun pere ninu ogorun-un nínú àwọn ẹgbẹ́ ìtọ́jú méjèèjì ní ọjọ́ mèjìlélogójì [mẹ̀rin].
+700: A ṣe àkíyèsí àwọn àbájáde kan náà nínú àwọn ìdánwò ìṣègùn onípìlẹ̀ mìíràn, tí a ṣe àyẹ̀wò AMP sí AL.
+701: Ìwádìí yìí ròyìn pé kò sí ìkùnà ìtọ́jú nínú ẹgbẹ́ AMP, nígbà tí a ròyìn ìkùnà ìtọ́jú kan nínú ẹgbẹ́ AL.
+702: Ní àfikún, wọn kò rí ìyàtọ̀ kankan nínú àwọn kòkòrò àrùn àárín àti FCT láàárín àwọn ẹgbẹ́ ìtọ́jú méjèèjì [ẹ̀tàdínlógún].
+703: Ìwádìí kan lára ​​àwọn aláìsàn ọmọdé tí wọ́n wà láàárín oṣù mẹ́fà sí ọdún méjìlá ti fi àwọn àbájáde kan náà hàn [ẹ̀tàlá].
+704: A rí i pé PCT àárín jẹ́ wákàtí ọgbọ̀n nínú ìwádìí mìíràn [ẹ̀tàdínlógún].
+705: Papọ̀, àwọn àwárí wọ̀nyí ń ṣe àtìlẹ́yìn fún lílò àti ìgbẹ́kẹ̀lé AMP nínú àwọn ọ̀dọ́ àti àgbàlagbà tí wọ́n wà láàárín ọdún èjìlá-màrúndínlàádọ́rin.
+706: Ìwádìí yìí tún fi hàn pé AMP jẹ́ ààbò tó dára.
+707: Bó tilẹ̀ jẹ́ pé àwọn AE kékeré kan wà tí wọ́n ròyìn nínú ìwádìí náà, wọ́n kà wọ́n sí pé wọn kò ní í ṣe pẹ̀lú àwọn ìtọ́jú ìwádìí náà.
+708: Àwọn àwárí wọ̀nyí ń ṣe àtìlẹ́yìn pé AMP àti AL ní ààbò tó jọra.
+709: Ní pàtàkì, kò sí àwọn aláìsàn tí ó ní àrùn arrhythmias tó ṣe pàtàkì ní ìṣègùn, àti pé a sábà máa ń yanjú àwọn AE láìsí ìtẹ̀síwájú.
+710: Lẹ́yìn gígùn QT, agbára ìdènà piperaquine tún yẹ kí a kíyèsí.
+711: Àṣàyàn yìí tún dín ẹrù ìtọ́jú kù fún àwọn aláìsàn Nàìjíríà tí wọ́n ní àrùn P. falciparum malaria tí kò ní ìṣòro.
+712: Àwọn ìyàtọ̀ wọ̀nyí lè dín lílo àwọn àwárí wa sí ìdènà àrùn ibà ìlú kù.
+713: Síbẹ̀síbẹ̀, òye bí ìtọ́jú ṣe lágbára tó nínú àwọn ènìyàn ìgbèríko, tí wọ́n ní ẹrù ibà tó ga jù, ṣì ṣe pàtàkì gan-an.
+714: Òǹkọ̀wé Jayanta Dey jẹ́ òṣìṣẹ́ alákòókò kíkún ti Sun Pharmaceutical Industries Limited ní àkókò iṣẹ́ yìí.
+715: Ìnáwó. Ranbaxy Nigeria Limited, ilé-iṣẹ́ Sun Pharma, ló ṣe ìnáwó fún ìwádìí yìí pátápátá.
+716: Olùtìlẹ́yìn náà kópa nínú ṣíṣe àgbékalẹ̀ ìwádìí, ṣíṣe àbójútó ìwádìí, ìṣàyẹ̀wò dátà, àti àtúnyẹ̀wò ìwé àfọwọ́kọ ìkẹyìn.
+717: Gbogbo ìlànà ìwádìí ni àwọn olùwádìí òmìnira ṣe ní àwọn ibi ìwádìí náà, ní ìbámu pẹ̀lú àwọn ìlànà Good Clinical Practice.
+718: Kò sí lábẹ́ àgbéyẹ̀wò fún títẹ̀jáde níbòmíràn, gbogbo àwọn òǹkọ̀wé sì fọwọ́ sí ìfiránṣẹ́ rẹ̀.
+719: A dúpẹ́ lọ́wọ́ olùtìlẹ́yìn ìwádìí náà - Ranbaxy Nigeria Limited, ilé-iṣẹ́ Sun Pharma kan.
+720: A tún dúpẹ́ lọ́wọ́ CRO, Health Safety and Toxicology Consult Limited, Lagos, Nigeria, fún ìrànlọ́wọ́ wọn nínú ìwádìí.
+721: A tún dúpẹ́ lọ́wọ́ LucidWriters Hub LLP fún ìrànlọ́wọ́ wọn nínú ìkọ̀wé ìwé àfọwọ́kọ, àti Ms.
+722: Aditi Jain, Olùkọ̀wé Ìṣègùn Àgbà ní Sun Pharma Laboratories Limited, fún ìrànlọ́wọ́ rẹ̀ tó ṣe pàtàkì pẹ̀lú àtúnyẹ̀wò ìwé àfọwọ́kọ.
+723: Àwọn ohun èlò afikún Àwọn ohun èlò afikún tí ó ní í ṣe pẹ̀lú àpilẹ̀kọ yìí ni a lè rí, nínú ẹ̀yà ayélujára, ní doi:mẹ̀wá.
+724: Àwọn ìtọ́kasí [ọ̀kan] Àjọ Ìlera Àgbáyé.
+725: Malaria, https://www.who.org
+726: Int/news-room/fact-sheets/detail/malaria; ẹgbẹrun mèjì ati mẹ̀rinlélogún [tí a wọlé sí ní ẹ̀ẹ́dógún April ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+727: [mèjì] Àjọ Ìlera Àgbáyé.
+728: Ìròyìn Àrùn Ibà Àgbáyé ẹgbẹrun mèjì ati mẹ̀talélogún, https://iris.org
+729: Int/bitstream/handle/ẹgbẹrun mẹ̀wá ati ẹgbẹ̀ta ati màrúndínlàádọ́rin/ẹgbẹrun ọọdunrun ati mẹ̀rinlélàádọ́rin ati irinwo ati mèjìlélàádọ́rin.
+730: Pdf?sequence jeọ̀kan; ẹgbẹrun mèjì ati mẹ̀talélogún [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+731: [mẹ̀ta] Hamaluba M, van der Pluijm RW, Weya J, Njuguna P, Ngama M, Kalume P, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+732: Lancet Infect Dis ẹgbẹrun mèjì ati ọ̀kanlélogún; ọ̀kanlélogún (mẹ̀wá):ẹgbẹrun ati ọọdunrun ati màrúndínlogorun–irinwo ati mẹ̀fà.
+733: Ẹgbẹrun ati ẹ̀rìndínlógún/sẸgbẹrun ati irinwo ati mẹ̀talélàádọ́rin-ẹgbẹrun mẹ̀ta ati ọ̀kandínlogorun(ogún)ẹgbẹrun ọgbọ̀n ati ẹ̀ẹ́dẹ́gbẹ̀rún ati ọ̀kandínlọgbọ̀n-mẹ̀rin.
+734: [mẹ̀rin] Toure OA, Valecha N, Tshefu AK, Thompson R, Krudsood S, Gaye O, ati bẹẹ bẹẹ lọ.
+735: Clin Infect Dis ẹgbẹrun mèjì ati ẹ̀rìndínlógún; mèjìlélọgọ́ta (mẹ̀jọ):ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rinlélọgọ́ta–ọ̀kanlélàádọ́rin.
+736: [màrún] Patil C, Katare S, Baig M, Doifode S.
+737: Ìdàpọ̀ ìwọ̀n tí a ti pinnu ti arterolane àti piperaquine: ìfojúsùn tuntun nínú ìtọ́jú ibà.
+738: Ann Med Health Sci Res ẹgbẹrun mèjì ati ẹ̀rìnlá; mẹ̀rin (mẹ̀rin):irinwo ati mẹ̀rindínlàádọ́rin–ọ̀kanlélàádọ́rin.
+739: [mẹ̀fà] Marwa K, Kapesa A, Baraka V, Konje E, Kidenya B, Mukonzo J, ati bẹẹ bẹẹ lọ.
+740: PLoS One ẹgbẹrun mèjì ati mèjìlélogún; ẹ̀tàdínlógún (mẹ̀ta):eẸgbẹrun igba ati mẹ̀rinlélọgọ́ta ati ọọdunrun ati ọ̀kandínlogójì.
+741: [mèje] Àjọ Ìlera Àgbáyé.
+742: Àwọn ìlànà WHO fún ibà, https://iris.Int/bitstream/handle/ẹgbẹrun mẹ̀wá ati ẹgbẹ̀ta ati màrúndínlàádọ́rin/ẹgbẹrun ọọdunrun ati ọ̀kandínlọgọ́rin ati ẹgbẹ̀ta ati màrúndínlogójì/B09146-eng.
+743: Àwọn ìlànà orílẹ̀-èdè fún àyẹ̀wò àti ìtọ́jú ibà àtẹ̀jáde kẹrin.
+744: Pdf?sequence jeọ̀kan; ẹgbẹrun mèjì ati mẹ̀rinlélogún [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+745: [mẹ̀jọ] Àwọn Ilé-iṣẹ́ fún Ìṣàkóso àti Ìdènà Àrùn.
+746: Ibà ní Orílẹ̀-èdè Amẹ́ríkà: Àwọn Tábìlì Ìtọ́jú, https://www.who.org
+747: Gov/malaria/media/pdfs/ẹgbẹrun mèjì ati mẹ̀rinlélogún/mẹ̀jọ/Ibà_Ìtọ́jú_Tabili.
+748: Pdf; ẹgbẹrun mèjì ati mẹ̀rinlélogún [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+749: [mẹ̀sán] Àjọ Ìlera Àgbáyé.
+750: Ètò Ibà Àgbáyé.
+751: Ìdènà Artemisinin àti ipa ìtọ́jú àpapọ̀ tí ó dá lórí artemisinin, https://iris.org.
+752: Int/bitstream/handle/ẹgbẹrun mẹ̀wá ati ẹgbẹ̀ta ati màrúndínlàádọ́rin/ẹgbẹrun igba ati mẹ̀rinlélàádọ́rin ati ọọdunrun ati mèjìlélọgọ́ta/WHO- CDS- GMP- ẹgbẹrun mèjì ati èjìdínlógún.
+753: Pdf; ẹgbẹrun mèjì ati èjìdínlógún [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+754: [mẹ̀wá] Ngasala B, Chiduo MG, Bushukatale S, Mbando BP, Makene T, Kamugisha E, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+755: Àǹfààní àti ààbò artemether-lumefantrine fún ìtọ́jú malaria falciparum tí kò ní ìṣòro ní orílẹ̀-èdè Tanzania, ẹgbẹrun mèjì ati èjìdínlógún.
+756: Malar J ẹgbẹrun mèjì ati mẹ̀rinlélogún; mẹ̀talélogún (ọ̀kan):màrúndínlogorun.
+757: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/sẸgbẹrun èjìlá ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlogójì-mẹ̀rinlélogún-ẹgbẹrun mẹ̀rin ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlọgbọ̀n-x.
+758: [ọ̀kanlá] Ilé Iṣẹ́ Ìlera Àpapọ̀, Abuja, Nàìjíríà.
+759: Àwọn ìlànà orílẹ̀-èdè fún àyẹ̀wò àti ìtọ́jú malaria – àtúnse kẹrin, https://www.org.
+760: Ng/ẹgbẹrun mèjì ati ogún/mẹ̀sán/ọ̀kanlélogún/4th-edition-national-guidelines-for-the-diagnosis-treatment-ẹgbẹrun mèjì ati ogún/; ẹgbẹrun mèjì ati ogún [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+761: [èjìlá] Li J, Docile HJ, Fisher D, Pronyuk K, Zhao L.
+762: Ipò ìdènà àti ìparẹ́ ibà ní Áfíríkà lọ́wọ́lọ́wọ́: ìmọ̀ nípa àjàkálẹ̀ àrùn, àyẹ̀wò, ìtọ́jú, ìlọsíwájú àti àwọn ìpèníjà.
+763: J Epidemiol Glob Health ẹgbẹrun mèjì ati mẹ̀rinlélogún; ẹ̀rìnlá (mẹ̀ta):ọ̀ọ́dẹ́gbẹ̀ta ati ọ̀kanlélọgọ́ta–ọ̀kandínlọgọ́rin.
+764: Ẹgbẹrun ati mèje/sẸgbẹrun mẹ̀rinlélogójì ati ogorun ati mẹ̀tadínlogorun- mẹ̀rinlélogún- igba ati mèjìdínlọgbọ̀n- mèjì.
+765: [ẹ̀tàlá] Toure OA, Rulisa S, Anvikar AR, Rao BS, Mishra P, Jalali RK, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+766: Malar J ẹgbẹrun mèjì ati ẹ̀ẹ́dógún; ẹ̀rìnlá:irinwo ati ọ̀kandínlàádọ́rin.
+767: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/sẸgbẹrun èjìlá ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlogójì-ẹ̀ẹ́dógún- ẹ̀ẹ́dẹ́gbẹ̀rún ati mèjìlélọgọ́rin- y.
+768: [ẹ̀rìnlá] Rosenthal PJ, Asua V, Conrad MD.
+769: Ìfarahàn, ìyípadà ìyípadà àti àwọn ọ̀nà ìdènà artemisinin nínú àwọn kòkòrò àrùn ibà ní Áfíríkà.
+770: Nat Rev Microbiol ẹgbẹrun mèjì ati mẹ̀rinlélogún; mèjìlélogún (mẹ̀fà):ọọdunrun ati mẹ̀talélàádọ́rin–mẹ̀rinlélọgọ́rin.
+771: Ẹgbẹrun ati mèjìdínlogójì/sẸgbẹrun ọ̀kanlélogójì ati ọ̀ọ́dẹ́gbẹ̀ta ati ọ̀kandínlọgọ́rin- mẹ̀rinlélogún- ẹgbẹrun ati mẹ̀jọ- mèjì.
+772: [ẹ̀ẹ́dógún] Ẹgbẹ́ Ìwádìí Ẹ̀jẹ̀ Àìsàn Àgbáyé Falciparum.
+773: BMC Med ẹgbẹrun mèjì ati mèjìlélogún; ogún (ọ̀kan):màrúndínlàádọ́rùn-ún.
+774: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/sẸgbẹrun èjìlá ati ẹ̀ẹ́dẹ́gbẹ̀rún ati ẹ̀rìndínlógún- mèjìlélogún- ẹgbẹrun mèjì ati igba ati màrúndínlàádọ́rin- mẹ̀sán.
+775: [ẹ̀rìndínlógún] Okombo J, Fidock DA.
+776: Sí àwọn àṣàyàn ìtọ́jú ìran tuntun láti kojú àrùn ibà plasmodium falciparum.
+777: Nat Rev Microbiol ẹgbẹrun mèjì ati màrúndínlọgbọ̀n; mẹ̀talélogún (mẹ̀ta):ogorun ati mèjìdínlọgọ́rin–ọ̀kanlélàádọ́rùn-ún.
+778: Ẹgbẹrun ati mèjìdínlogójì/sẸgbẹrun ọ̀kanlélogójì ati ọ̀ọ́dẹ́gbẹ̀ta ati ọ̀kandínlọgọ́rin- mẹ̀rinlélogún- ẹgbẹrun ati ọ̀kandínlogorun- x.
+779: [ẹ̀tàdínlógún] Valecha N, Krudsood S, Tangpukdee N, Mohanty S, Sharma SK, Tyagi PK, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+780: Clin Infect Dis ẹgbẹrun mèjì ati èjìlá; màrúndínlọgọ́ta (màrún):ẹgbẹ̀ta ati mẹ̀talélọgọ́ta–ọ̀kanlélàádọ́rin.
+781: [èjìdínlógún] Srivastava K, Arora A, Kataria A, Cappelleri JC, Sadosky A, Peterson AM.
+782: Ipa ti idinku iwọn lilo lori titẹmọ si awọn itọju ẹnu: atunyẹwo iwe ati itupalẹ meta.
+783: Alaisan fẹran Ifaramọ ẹgbẹrun mèjì ati ẹ̀tàlá; mèje:irinwo ati ọ̀kàndínlógún–mẹ̀rinlélọgbọ̀n.
+784: [ọ̀kàndínlógún] Toure OA, Mwapasa V, Sagara I, Gaye O, Thompson R, Maheshwar AV, ati bẹẹ bẹẹ lọ.
+785: Clin Infect Dis ẹgbẹrun mèjì ati ẹ̀tàdínlógún; màrúndínlàádọ́rin (mẹ̀wá):ẹgbẹrun ati ọ̀ọ́dẹ́gbẹ̀rin ati ọ̀kanlá–ogún.
+786: [ogún] Àjọ Ìlera Àgbáyé.
+787: Àwọn ọ̀nà fún ṣíṣọ́ra ti ipa oògùn ibà, https://www.who.org.
+788: Int/docs/default-source/documents/publications/gmp/methods-for-surveillance-of-antimarial-drug-efficacy.
+789: Pdf?sfvrsn je_meji; ẹgbẹrun mèjì ati mẹ̀sán [tí a wọlé sí ní ọjọ́ ẹ̀ẹ́dógún oṣù kẹrin ọdún ẹgbẹrun mèjì ati màrúndínlọgbọ̀n].
+790: [ọ̀kanlélogún] Adeola O, Oluyomi S, Sola A, Bassey O, Oluwagbemiga A, Olusola A, ati bẹẹ bẹẹ lọ.
+791: Iṣẹ́ ọ̀nà microscopy àti àwọn àyẹ̀wò kíákíá nínú àyẹ̀wò ibà láàrín àwọn aboyún ní Èkó, Gúúsù Ìwọ̀ Oòrùn Nàìjíríà.
+792: Divers Equal Health Care ẹgbẹrun mèjì ati èjìdínlógún; ẹ̀ẹ́dógún (mẹ̀ta):ogorun ati mẹ̀rin–mẹ̀sán.
+793: [mèjìlélogún] Zani B, Gathu M, Donegan S, Olliaro PL, Sinclair D.
+794: Dihydroartemisinin- piperaquine fún ìtọ́jú àrùn malaria plasmodium falciparum tí kò ní ìṣòro.
+795: Cochrane Database Syst Rev ẹgbẹrun mèjì ati ẹ̀rìnlá; ẹgbẹrun mèjì ati ẹ̀rìnlá (ọ̀kan).
+796: [mẹ̀talélogún] Walker WA, Rogerson SJ.
+797: Pathogenicity ati virulence ti iba: awọn iṣoro alalepo ati awọn solusan ẹtan.
+798: Iwoye ẹgbẹrun mèjì ati mẹ̀talélogún; ẹ̀rìnlá (ọ̀kan):milionu mèjì ati ẹgbẹrun ogorun ati àádọ́ta ati irinwo ati mẹ̀rindínlọgọ́ta.
+799: [mẹ̀rinlélogún] Oyebola KM, Ligali FC, Owoloye AJ, Aina OO, Alo YM, Erinwusi B, àti àwọn ẹlòmíràn.
+800: Mala J ẹgbẹrun mèjì ati mẹ̀rinlélogún; mẹ̀talélogún (ọ̀kan):igba ati ọ̀kanlélọgọ́ta.
+801: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/sẸgbẹrun èjìlá ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlogójì- mẹ̀rinlélogún- ẹgbẹrun màrún ati mèjìdínlàádọ́rùn-ún- mẹ̀fà.
+802: [màrúndínlọgbọ̀n] Silva-Pinto A, Domingos J, Cardoso M, Reis A, Benavente ED, Caldas JP, ati al.
+803: Artemether-lumefantrine itọju ikuna ti ko ni idiju plasmodium fal-ciparum iba ninu awọn aririn ajo ti o wa lati Angola ati Mozambique.
+804: Int J Infect Dis ẹgbẹrun mèjì ati ọ̀kanlélogún; ogorun ati mẹ̀wá :ogorun ati ọ̀kanlélàádọ́ta–mẹ̀rin .
+805: [mẹ̀rindínlọgbọ̀n] Derbie A, Mekonnen D, Adugna M, Yeshitela B, Woldeamanuel Y, Abebe T.
+806: Ipa itọju ailera ti Artemether-Lumefantrine (Coartem®) fun itọju ti iba iba falciparum ti ko ni idiwọn ni Afirika: atunyẹwo eto.
+807: J Parasitol Res ẹgbẹrun mèjì ati ogún; Ọdun ẹgbẹrun mèjì ati ogún:milionu mèje ati ẹgbẹrun ọọdunrun ati ọ̀kanlélàádọ́rin ati ẹgbẹ̀ta ati ọ̀kanlélọgọ́rin.
+808: [mẹ̀tadínlọgbọ̀n] Mohamed AS, Kheir MM, Noor SK, Elamin MO, Khan W, Natto HA, ati al.
+809: Àìlera ìtọ́jú artemether-lumefantrine (Coartem) Nínú ìtọ́jú ibà láàárín àwọn àgbàlagbà.
+810: Ìwádìí kan tí ó ní ìpín méjì.
+811: Arch Pharm Pract ẹgbẹrun mèjì ati mẹ̀talélogún; ẹ̀rìnlá (mẹ̀rin):mẹ̀rinlélogójì–mẹ̀jọ.
+812: Àwọn ìpèníjà pẹ̀lú artemether àti lumefantrine nínú ìtọ́jú àkóràn ibà tí kò ní ìṣòro.
+813: Open Forum Infectious Diseases ẹgbẹrun mèjì ati màrúndínlọgbọ̀n; èjìlá (ọ̀kan) ofae631.
+814: [ọ̀kandínlọgbọ̀n] Delandre O, Pradines B, Javelle E.
+815: J Clin Med ẹgbẹrun mèjì ati mẹ̀rinlélogún; ẹ̀tàlá (mèjìlélogún):ẹgbẹrun mẹ̀fà ati ẹgbẹ̀rin ati mèjìdínlọgbọ̀n.
+816: EEJSAR ẹgbẹrun mèjì ati mẹ̀rinlélogún; mẹ̀fà (mẹ̀ta):mẹ̀tadínlọgbọ̀n–mèjìlélọgbọ̀n.
+817: [ọ̀kanlélọgbọ̀n] Ibinaiye T, Rotimi K, Balogun A, Aidenagbon A, Oguoma C, Baker K, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+818: Malar J ẹgbẹrun mèjì ati mẹ̀rinlélogún; mẹ̀talélogún (ọ̀kan):mẹ̀rin.
+819: Ẹgbẹrun ati ogorun ati mẹ̀rindínlàádọ́rùn-ún/sẸgbẹrun èjìlá ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlogójì- mẹ̀talélogún- ẹgbẹrun mẹ̀rin ati ẹgbẹ̀rin ati màrúndínlọgbọ̀n- mèje.
+820: Àpilẹ̀kọ Àtilẹ̀wá Ìyàsọ́tọ̀ ibà gẹ́gẹ́ bí àrùn ẹ̀dọ̀fóró nínú àwọn ọmọdé ní ìsàlẹ̀ Sahara Africa Christian Bottomley, Alice Kamau, Juliet O.
+821: Driscoll,Daniel E.
+822: Kotloff, Bernard E.
+823: Ebruke, Martin Antonio, Stephen R.
+824: Howie, Richard J.
+825: Ilé-ẹ̀kọ́ Ìlera àti Ìṣègùn Ojú Omi ti London, Keppel Street, London WC1E mejeHT, United Kingdom.
+826: UK †Àwọn òǹkọ̀wé àkọ́kọ́ tí wọ́n jọ ṣiṣẹ́ pọ̀.
+827: Ní agbègbè ìsàlẹ̀ Sahara ní Áfíríkà, àrùn tí ó ṣeé ṣe kí a má ṣe kà sí pneumonia ni Plasmodium falciparum malaria.
+828: Àwọn Àbájáde: Nínú ìwádìí PERCH, ìbísí pneum malaria kéré (mẹ̀rin.
+829: Mèje pere ninu ogorun-un láàrín àwọn tí ó ní pneumonia nínú WHO àti ọ̀kan.
+830: Mẹ̀rin pere ninu ogorun-un láàrín àwọn tí ó ní pneumonia nínú WHO) a sì ṣe àkíyèsí pé mèjì nìkan ni.
+831: Màrún pere ninu ogorun-un láàrín àwọn tí ó ní pneumonia nínú WHO ni a kò kà sí pàtàkì.
+832: Láàrín àwọn tí ó ní pneumonia nínú WHO tí ó ní pneumonia nínú PERCH, ìsàlẹ̀ àyà tí ń fa [àtúnṣe àwọn odds ratio (aOR) Èjìdínlógún.
+833: Ọ̀kan, màrúndínlogorun pere ninu ogorun-un ìgbẹ́kẹ̀lé àlàfo (màrúndínlogorun pere ninu ogorun-un CI): ọ̀kan.
+834: Èjìlá], ìró ìró lórí ìró ìró àyà (aOR metala.
+835: Mẹ̀tadínlọgbọ̀n), àti ìró ìró imú (aOR marun.
+836: Ọ̀kanlélogójì) ní ìsopọ̀ pẹ̀lú ààyò X-ray àyà.
+837: Àwọn ọ̀rọ̀ pàtàkì: àrùn ẹ̀dọ̀fóró; àrùn ẹ̀dọ̀fóró; àìsí ìsọ̀rí.
+838: Àwọn Ìfiránṣẹ́ Pàtàkì Àwọn àmì àrùn kan wà láàárín àrùn ẹ̀dọ̀fóró àti àrùn ẹ̀dọ̀fóró, èyí tí ó lè fa àìtọ́ ìwádìí àwọn àìsàn méjèèjì.
+839: Gba: mẹ̀ta Oṣù Kọkànlá ẹgbẹrun mèjì ati mẹ̀talélogún; Ìpinnu Olóòtú: mẹ̀fà Oṣù Kejì ẹgbẹrun mèjì ati màrúndínlọgbọ̀n; Gba: ogún Oṣù Kẹta ẹgbẹrun mèjì ati màrúndínlọgbọ̀n Àwọn Òǹkọ̀wé(àwọn) ẹgbẹrun mèjì ati màrúndínlọgbọ̀n.
+840: A tẹ̀ ẹ́ jáde láti ọwọ́ Oxford University Press ní ipò International Epidemiological Association.
+841: Àpilẹ̀kọ Open Access tí a pín síta lábẹ́ àwọn òfin Creative Commons Attribution License (https://creativecommons.
+842: Odo/), èyí tí ó fúnni láyè láti tún lò, pínpín, àti àtúnṣe láìsí ìdíwọ́ nínú èyíkéyìí ohun èlò, tí a bá tọ́ka sí iṣẹ́ àtilẹ̀wá náà dáadáa.
+843: International Journal of Epidemiology, ẹgbẹrun mèjì ati màrúndínlọgbọ̀n, mẹ̀rinlélàádọ́ta(mèjì), dyaf040 https://doi.
+844: Ìfihàn Ní ọdún ẹgbẹrun mèjì ati ọ̀kàndínlógún, a ṣírò pé àrùn ẹ̀dọ̀fóró àti ibà máa ń fa ẹ̀rìnlá pere ninu ogorun-un àti mèje.
+845: Ọ̀kan pere ninu ogorun-un, lẹ́sẹẹsẹ, nínú gbogbo ikú ọmọdé kárí ayé [ọ̀kan–mẹ̀ta].
+846: Ní àwọn orílẹ̀-èdè tí ibà ti gbilẹ̀ ní agbègbè Sahara ní Áfíríkà, ọ̀pọ̀lọpọ̀ àìsàn ibà tó ń ṣẹlẹ̀ nínú àwọn ọmọdé ni ibà tàbí ibà pneumonia ń fà.
+847: Cyanosis àárín, àìlèfún ọmọ ní ọmú/mu omi, ìgbẹ́ gbogbo nǹkan, ìwárìrì, àìlera, àìlóye ara, tàbí ìrora èémí líle).
+848: Ní ọdún ẹgbẹrun mèjì ati ẹ̀tàlá, WHO ṣe àtúnṣe ìpínsísọ̀rí ibà pneumonia, nípa lílo àwọn àmì kan náà, sí ẹ̀ka méjì: àìléwu àti líle.
+849: Ṣùgbọ́n, ìyàtọ̀ fún ìfàmọ́ra gíga jẹ́ àìlera pàtó: ọ̀pọ̀ àwọn ọmọdé tí kò ní ibà pneumonia ni ìtumọ̀ ọ̀ràn náà tún borí.
+850: Ní agbègbè Sahara ní Áfíríkà, àrùn tí ó ṣeé ṣe kí a má ṣe kà sí ibà pneumonia ni ibà Plasmodium falciparum [ọ̀kanlá, ẹ̀rìndínlógún].
+851: Ní àròpín ìṣànká mẹ̀rinlélogún pere ninu ogorun-un, àkóràn ibà jẹ́ ohun tó wọ́pọ̀ ní agbègbè náà [ẹ̀tàdínlógún] ó sì sábà máa ń ní í ṣe pẹ̀lú àwọn àmì àrùn atẹ́gùn [èjìlá, èjìdínlógún, ọ̀kàndínlógún].
+852: Nítorí náà, ìwọ̀n tí àìsí ìṣọ̀kan pneumonia ṣe wáyé lábẹ́ àwọn ìlànà WHO kò dájú [ẹ̀ẹ́dógún].
+853: Síbẹ̀síbẹ̀, àwọn ìwádìí láti inú X-ray àyà fi ọ̀nà tó ṣeé ṣe hàn láti mọ ìṣọ̀kan yìí.
+854: Ìwádìí yìí wà ní ààlà sí àwọn ibi mẹ́ta tí ibà ti tàn kálẹ̀, i.
+855: Kilifi, Kenya; Basse, Gambia; àti Bamako, Mali.
+856: A kò rí ibà kankan ní South Africa, Thailand, tàbí Bangladesh, àti pé ọ̀ràn ibà méjì péré ni a rí ní Zambia.
+857: Edu/ivac/resources [mẹ̀rinlélogún].
+858: Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+859: Ii) Àǹfààní CXR jẹ́ ogorun pere ninu ogorun-un pàtó fún àrùn ẹ̀dọ̀fóró tòótọ́.
+860: Iii) Àǹfààní àwọn àwárí CXR kò dá lórí wíwà àrùn ẹ̀dọ̀fóró malaria.
+861: Èyí túmọ̀ sí wípé p je odo ó sì jẹ́ kí a ṣe àyẹ̀wò p ọ̀kan gẹ́gẹ́ bí ìpín àwọn àrùn ẹ̀dọ̀fóró malaria láàárín àwọn ọ̀ràn àrùn ẹ̀dọ̀fóró WHO.
+862: Ní ọ̀rọ̀ mìíràn, v, níbi tí v jẹ́ ìpín àwọn ọ̀ràn àrùn ẹ̀dọ̀fóró malaria láàárín àwọn ọ̀ràn àrùn ẹ̀dọ̀fóró WHO.
+863: Láti ṣe àyẹ̀wò ìpín àwọn àrùn ẹ̀dọ̀fóró, p2, a lo dátà CXR.
+864: A ṣe àyẹ̀wò pmeji gẹ́gẹ́ bí q tí a fi factor sigma ọ̀kan (ð okan) vÞ jer ṣe àfihàn àìpé ìfààní CXR.
+865: Ṣàkíyèsí pé r  je sigma ọ̀kan (ð okan) vp bá ìwọ̀n tí ó jẹ́ CXR-positive nínú ẹgbẹ́ malaria-slide-negative (Ẹgbẹ́ ọ̀kan).
+866: Nítorí náà, bí ẹgbẹ́ yìí ṣe jẹ́ àwọn ọ̀ràn pneu monia tòótọ́ nípa àbájáde ọ̀kan, a ń gbé q sókè nípa ọ̀kan/(ìfàmọ́ra CXR).
+867: A lo èyí tó kẹ́yìn gẹ́gẹ́ bí ìṣirò iye àwọn parasitaemia malaria ní àwọn ibi PERCH.
+868: Jẹ́ kí lambda (λ) tọ́ka sí ìwọ̀n apapọ ti pneumonia WHO ní gbogbo àwọn ibi PERCH àti u tọ́ka sí ìfàmọ́ra malaria par asitaemia nínú àwọn ìṣàkóso PERCH.
+869: Gẹ́gẹ́ bí ìṣàyẹ̀wò ìfàmọ́ra, a tún ṣe ìṣirò PPV ní ìwọ̀n pneumonia tòótọ́ tí ó jẹ́ odo.
+870: Màrún àti ìlọ́po méjì ju ìwọ̀n PERCH lọ.
+871: A tún lo àpẹẹrẹ náà láti ṣe ìṣirò ìpín ti pneumonia WHO tí àkóràn malaria fà, i.
+872: Ìpín tí a lè fi ṣe àkójọpọ̀ ènìyàn.
+873: Ní pàtàkì, a lo àpẹẹrẹ náà láti sọ àsọtẹ́lẹ̀ ìpín tí a lè fi ṣe àkójọpọ̀ ènìyàn, lẹ́yìn náà a sọ ọ́ di púpọ̀ nípa ṣíṣe ìṣirò ìpín tí a lè fi ṣe àkójọpọ̀ (AF).
+874: Ní àkókò kan náà, àwọn ọ̀ràn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta ní àbájáde CXR àti àbájáde ibà, pẹ̀lú ọ̀ọ́dẹ́gbẹ̀rin ati mèjìdínlogorun (mèjìdínlàádọ́ta.
+875: Mẹ̀rin pere ninu ogorun-un) tí ó fi àmì àrùn radiological hàn, àti mẹ̀tadínlọgọ́rin (mẹ̀rin.
+876: Mèje pere ninu ogorun-un) tí ó ní àbájáde ibà iba.
+877: Àwọn ànímọ́ ìṣègùn ti àwọn ọ̀ràn náà ni a fihàn nínú Táblì ọ̀kan.
+878: Láàrín àwọn ìṣàkóso àwùjọ ẹgbẹrun mèjì ati ogorun ati mẹ̀talélàádọ́ta pẹ̀lú àwọn àbájáde ibà tí ó wà, ọgbọ̀n (ọ̀kan.
+879: Mẹ̀rin pere ninu ogorun-un) ní ìfàsẹ́yìn rere: ẹ̀ẹ́dógún/ẹgbẹ̀rin ati ẹ̀rìnlá (ọ̀kan.
+880: Mẹ̀jọ pere ninu ogorun-un) ní Kenya, mèje/ẹgbẹ̀ta ati ọ̀kàndínlógún (ọ̀kan.
+881: Ọ̀kan pere ninu ogorun-un) ní Gambia, àti mẹ̀jọ/ọ̀ọ́dẹ́gbẹ̀rin ati ogún (ọ̀kan.
+882: Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+883: Nítorí pé a kò mọ ipò ibà tí ó wà ní tòótọ́, ìṣirò taara ti pi kò ṣeé ṣe.
+884: Àkọ́kọ́, a ṣe ìṣirò p1 nípa ríronú pé àwọn ìlànà ibà tí ó wà nínú WHO jẹ́ ogorun pere ninu ogorun-un pàtó láàárín àwọn aláìsàn ibà tí ó wà nínú ibà.
+885: Èyí túmọ̀ sí wípé p  je mèjì.
+886: Lẹ́yìn náà, láti ṣe ìṣirò pmeji, a pín q nípa ìṣirò ìmọ̀lára CXR.
+887: Níbí, a gbà pé Ìmọ́lára CXR kò dá lórí àrùn ibà.
+888: Níkẹyìn, nípa lílo òtítọ́ pé àwọn ìṣeéṣe náà jẹ́ ọ̀kan, a lè ṣírò p3 gẹ́gẹ́ bí p  je mèjì.
+889: Ìpínyà àwọn ọmọdé tí a fi sínú ìwádìí àti àwọn ìdí fún yíyọkúrò.
+890: Àwọn ànímọ́ àwọn aláìsàn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta tí wọ́n ní àrùn ibà tí a ti sọ ní ìṣègùn àti ìwádìí pípé lórí ìṣàn ibà ibà àti àwọn àbájáde CXR.
+891: Ọ̀kan) CXRþ, àyà-X-ray-positive; CXR–, àyà-X-ray-negative.
+892: A fúnni ní hemoglobin ní giramu fún deciliter kọ̀ọ̀kan.
+893: A wọ́n iye sẹ́ẹ̀lì funfun gẹ́gẹ́ bí ẹgbẹẹgbẹ̀rún sẹ́ẹ̀lì funfun fún microlitre kọ̀ọ̀kan.
+894: Ohun èlò fún àwọ̀ tí a fi ṣe àwòrán tábìlì yìí).
+895: Àwọn ìbáṣepọ̀ pàtàkì jùlọ pẹ̀lú CXR-positivity ni, ní ìtòtẹ̀léra: ìfàsẹ́yìn odi àyà ìsàlẹ̀ [ìpíndọ́gba àwọn odds tí a ṣàtúnṣe (aOR) èjìdínlógún.
+896: Ọ̀kan, màrúndínlogorun pere ninu ogorun-un ìgbẹ́kẹ̀lé ààrin (màrúndínlogorun pere ninu ogorun-un CI): ọ̀kan.
+897: Èjìlá], ìró ìró lórí ìró ìró àyà.
+898: Mẹ̀tadínlọgbọ̀n), àti ìró ìró imú.
+899: CXR-positivity ní ìbáṣepọ̀ búburú pẹ̀lú ìró ìró púpọ̀ tàbí gígùn.
+900: Mẹ̀ta pere ninu ogorun-un jẹ́ àrùn ibà-slide-negative (àti àwọn ọ̀ràn ibà-slide-negative), mèjì.
+901: Mèjì pere ninu ogorun-un ni àrùn ibà-slide-positive pẹ̀lú ibà-slide-positive), àti mèjì.
+902: Màrún pere ninu ogorun-un ni a kò ṣe àkójọpọ̀ (ibà-slide-positive láìsí ibà-slide-positive).
+903: Nítorí náà, a ṣírò PPV gẹ́gẹ́ bí mẹ̀tadínlogorun.
+904: PPV tí a ṣírò kéré díẹ̀ nínú àwọn ọmọdé tí ọjọ́ orí wọn ju tàbí dọ́gba pẹ̀lú ọdún kan (màrúndínlogorun.
+905: Mẹ̀rin pere ninu ogorun-un) àti nínú àwọn ọ̀ràn àrùn pneu monia tí ó le gan-an ti WHO (mẹ̀talélàádọ́rùn-ún.
+906: Mẹ̀rin pere ninu ogorun-un) nígbàtí, fún àwọn ọ̀ràn àrùn malaria-slide-positive, ó kéré púpọ̀, ní mẹ̀tadínlàádọ́ta.
+907: Gẹ́gẹ́ bí àpẹẹrẹ wa, a ṣírò pé, ní agbègbè kan tí ó ní àrùn parasitaemia malaria ààrùn tó wọ́pọ̀ ti mẹ̀rinlélogún pere ninu ogorun-un [ẹ̀tàdínlógún], mẹ̀tadínlàádọ́ta.
+908: Mẹ̀jọ pere ninu ogorun-un àwọn ọ̀ràn àrùn pneumonia ti WHO jẹ́ àrùn malaria-slide-negative, mẹ̀rinlélogún.
+909: Mẹ̀fà pere ninu ogorun-un ni ó ní àkóràn papọ̀, àti mẹ̀tadínlọgbọ̀n.
+910: Mẹ̀fà pere ninu ogorun-un ni a kò pín sípò (Àwòrán mẹ̀ta).
+911: Èyí bá PPV tó jẹ́ mèjìlélàádọ́rin mu.
+912: Láàrin àwọn ẹgbẹ́ tí wọ́n ti kó àrùn náà, a ṣírò pé ìpín tí ó jẹ́ ti ibà jẹ́ mèjìdínlogójì.
+913: Nítorí náà, ìpín gbogbo àwọn ọ̀ràn ibà jẹ́ ti WHO tí ó jẹ́ ti ibà jẹ́ mẹ̀sán.
+914: Mẹ̀jọ pere ninu ogorun-un ti ìpín gbogbo àwọn tí ó ní àkóràn náà).
+915: Láti inú ìwádìí ìmọ̀lára wa, a ṣírò pé ìṣẹ̀lẹ̀ ibà jẹ́ ti gidi ní ìlọ́po méjì ìṣẹ̀lẹ̀ PERCH mú kí PPV pọ̀ sí mẹ̀talélọgọ́rin.
+916: Mẹ̀sán pere ninu ogorun-un àti ìṣẹ̀lẹ̀ ìdajì ìṣẹ̀lẹ̀ PERCH dín PPV kù sí mẹ̀rindínlọgọ́ta.
+917: Mèje pere ninu ogorun-un (Àfikún Àwòrán S1; wo àwọn ohun èlò afikún lórí ayélujára fún àwọ̀ àwòrán yìí).
+918: Ìjíròrò Láàrin àwọn ọ̀ràn ibà jẹ́ ti WHO tí a ṣe àyẹ̀wò ní ìṣègùn láti inú ìwádìí PERCH, a ṣírò pé mẹ̀tadínlogorun.
+919: Màrún pere ninu ogorun-un jẹ́ àpẹẹrẹ gidi ti ibà jẹ́ ti ibà jẹ́ ti mèjì.
+920: Màrún pere ninu ogorun-un ni a kò ṣe àkójọpọ̀.
+921: PPV gíga yìí jẹ́ nítorí ìbísí díẹ̀ ti àrùn parasi taemia ibà ní àwọn ọ̀ràn àrùn pneumonia PERCH WHO.
+922: Ní tòótọ́, nínú àwọn ètò tí ó ṣojú fún àrùn ibà, a ṣe àkíyèsí pé PPV wà ní agbègbè àádọ́rin pere ninu ogorun-un.
+923: Àsọtẹ́lẹ̀ yìí ni a gbé kalẹ̀ láti ọ̀dọ̀ Kilifi, Kenya, níbi tí ìwádìí lórí àrùn parasitaemia ibà àti àrùn pneumonia wà.
+924: Àwòrán wa sọ àsọtẹ́lẹ̀ ìdínkù ogójì pere ninu ogorun-un nínú àwọn ọ̀ràn àrùn pneumonia ìṣègùn (ọgbọ̀n pere ninu ogorun-un nítorí àìsí ìṣègùn ibà àti mẹ̀wá pere ninu ogorun-un tí ó jẹ́ ti àrùn pneumonia tààrà).
+925: Nítorí náà, ìdínkù nínú àrùn pneumonia ìṣègùn ní Kilifi ni a ṣàlàyé ní pàtàkì nípa ìdínkù nínú àrùn pneumonia ìṣègùn ní Kilifi.
+926: Àwọn èrò tí ó wà lábẹ́ ìṣirò wa nípa PPV nínú ìṣàyẹ̀wò àǹfààní PERCH.
+927: Nípa lílo rédíò àyà gẹ́gẹ́ bí ìwọ̀n ìtọ́kasí wa, a gbà pé CXR jẹ́ ogorun pere ninu ogorun-un pàtó.
+928: Bó tilẹ̀ jẹ́ pé a kò le jẹ́ Táblì mèjì.
+929: PPV ti àrùn ẹ̀dọ̀fóró oníṣègùn, gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀, nínú Ìwádìí Ẹ̀kúnrẹ́rẹ́ Pneumonia fún Ìlera Ọmọdé.
+930: Màrún Ẹ̀dọ̀fóró oníṣòro ẹgbẹrun ati mẹ̀rindínlọgbọ̀n ẹ̀ẹ́dógún ọ̀kan.
+931: Màrún Ogorun h Ogorun h Ẹ̀dọ̀fóró oníṣòro gidigidi ẹgbẹ̀ta ati mẹ̀rinlélogún mèjìlélọgọ́ta mẹ̀sán.
+932: Mẹ̀fà a Ìṣirò ti v nínú Ìṣirò mèjì.
+933: B Ìṣirò ti q nínú Ìṣirò mèjì.
+934: C Ìṣirò ti r nínú Ìṣirò mèjì.
+935: D Ìṣirò ti qd okan vp jevr.
+936: E CI tí a rí láti ọ̀dọ̀ CI fún q àti àìfojúsùn àìdánilójú nínú àwọn ìṣirò ti r àti v.
+937: F Ìṣirò ti ọ̀kan vpqd1 vp jer.
+938: G CI tí a rí gbà láti ọ̀dọ̀ CI fún q àti àìdánilójú nínú àwọn ìṣirò r àti v.
+939: A gé H kúrò ní ogorun pere ninu ogorun-un nítorí pé ìṣirò náà ju ogorun pere ninu ogorun-un lọ.
+940: CXRþ, àyà X-ray-positive.
+941: Ìtumọ̀ PPV ti àrùn ẹ̀dọ̀fóró WHO bá ìwọ̀n àwọn ọ̀ràn tí ó jẹ́ àrùn ẹ̀dọ̀fóró-ibà-yíká tàbí àrùn tí ó jọra mu.
+942: Níkẹyìn, ó ṣeé ṣe láti yanjú ìṣòro yìí nípa ṣíṣe àgbékalẹ̀ àwọn àyẹ̀wò àrùn ẹ̀dọ̀fóró tí ó dára jù.
+943: Àwọn òbí tàbí àwọn olùtọ́jú àwọn olùkópa fúnni ní ìfọwọ́sowọ́pọ̀ tí a kọ sílẹ̀.
+944: A fẹ́ láti jẹ́wọ́, ní pàtàkì, àwọn ọmọ ẹgbẹ́ PERCH Study Group wọ̀nyí: W.
+945: Abdullah Brooks, Grant Mackenzie, Jessica L.
+946: Machuka, Arifin Shamsul, Jane Crawley, Syed M.
+947: Zaman, Maria Deloria Knoll, Andrea N.
+948: Wangeci Kagucia, Nicholas Fancourt, Ruth A.
+949: Karron, Katherine L.
+950: O’Brien, Christine Prosperi, Sidi Kazungu, Susan C.
+951: Morpeth, Uma Onwuchekwa, Boubou Tamboura, Aliou Toure, Mamadou Sylla, Nana Kourouma, David R.
+952: Madhi, Micah Silaba Ominde, Henry C.
+953: Mitchell, àti Donald M.
+954: Ní àfikún, a dúpẹ́ lọ́wọ́ àwọn aláìsàn àti àwọn ìdílé tí wọ́n kópa nínú ìwádìí náà.
+955: A tẹ̀ iṣẹ́ yìí jáde pẹ̀lú àṣẹ olùdarí ti Kenya Medical Research Institute.
+956: Àwọn àfikún òǹkọ̀wé Ìrònú: A.
+957: Ìlànà Ìwádìí PERCH: A.
+958: Ìwádìí lọ́wọ́lọ́wọ́ nípa ọ̀nà ìwádìí: C.
+959: Kíkọ—àkọsílẹ̀ àkọ́kọ́: A.
+960: Kíkọ—àtúnyẹ̀wò àti àtúnṣe: C.
+961: Ìwádìí àfikún Àwọn ìwádìí àfikún wà ní IJE lórí ayélujára.
+962: Lílo àwọn irinṣẹ́ ọgbọ́n àtọwọ́dá (AI) àwọn irinṣẹ́ AI ni a lò láti mú kí ìwé náà rọrùn láti kà dáadáa.
+963: Ìforígbárí ìfẹ́: Kò sí èyí tí a kéde.
+964: A ṣe ìnáwó rẹ̀ láti ọwọ́ Wellcome Trust Senior Research Fellowship (ẹgbẹrun igba ati ẹ̀rìnlá ati ọọdunrun ati ogún).
+965: Wíwà fún ìwádìí A retí pé a óò mú ìwádìí PERCH wà nípasẹ̀ ojú ọ̀nà ìwádìí data ClinEpi ní https://clinepidb.org.
+966: Org/ce/app/workspace/analyses/.
+967: Ní àkókò yìí, a lè béèrè fún ìwọ̀sí láti ọ̀dọ̀ Christine Prosperi ní Yunifásítì Johns Hopkins (ìmeeli: cprospe1@jhu.com).
+968: Vos T, Lim SS, Abbafati C àti àwọn ẹlòmíràn.
+969: Lancet ẹgbẹrun mèjì ati ogún;ọọdunrun ati mẹ̀rindínlogorun:ẹgbẹrun ati igba ati mẹ̀rin–mèjìlélogún.
+970: McAllister DA, Liu L, Shi T àti àwọn ẹlòmíràn.
+971: Lancet Glob Health ẹgbẹrun mèjì ati ọ̀kàndínlógún;mèje:emẹ̀tadínlàádọ́ta–mẹ̀tadínlọgọ́ta.
+972: Perin J, Mulick A, Yeung D àti àwọn ẹlòmíràn.
+973: Lancet Child Adolesc Health ẹgbẹrun mèjì ati mèjìlélogún;mẹ̀fà:ogorun ati mẹ̀fà–ẹ̀ẹ́dógún.
+974: Nadjm B, Amos B, Mtove G àti àwọn ẹlòmíràn.
+975: BMJ ẹgbẹrun mèjì ati mẹ̀wá;ọọdunrun ati ogójì:cẸgbẹrun ati ọọdunrun ati àádọ́ta.
+976: Bassat Q, Machevo S, O'Callaghan-Gordo C àti àwọn mìíràn.
+977: Am J Trop Med Hyg ẹgbẹrun mèjì ati ọ̀kanlá;màrúndínlàádọ́rùn-ún:ẹgbẹ̀ta ati mẹ̀rindínlọgbọ̀n–mẹ̀rinlélọgbọ̀n.
+978: English M, Punt J, Mwangi I, McHugh K, Marsh K.
+979: Ìwádìí lórí àrùn ibà àti àrùn ẹ̀dọ̀fóró líle koko láàárín àwọn ọmọdé ará Áfíríkà ní ilé ìwòsàn.
+980: Trans R Soc Trop Med Hyg ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mẹ̀rindínlogorun;àádọ́rùn-ún:ẹgbẹ̀ta ati mèjìdínlọgọ́ta–mèjìlélọgọ́ta.
+981: Evans JA, Adusei A, Timmann C àti àwọn mìíràn.
+982: Ikú gíga ti bacteremia ọmọ ọwọ́ tí a kò lè fi ìyàtọ̀ hàn láàárín ibà líle koko.
+983: Gwer S, Newton CRJC, Berkley JA.
+984: Àyẹ̀wò tó pọ̀ jù àti àìsàn ìbáṣepọ̀ ti ibà líle koko nínú àwọn ọmọdé ará Áfíríkà: ìtọ́sọ́nà fún àwọn oníṣègùn.
+985: Am J Trop Med Hyg ẹgbẹrun mèjì ati mèje;mẹ̀tadínlọgọ́rin:mẹ̀fà–ẹ̀tàlá.
+986: Huang H, Ideh RC, Gitau E àti àwọn ẹlòmíràn.
+987: Àwárí àti ìfìdí múlẹ̀ àwọn àmì bio láti darí ìtọ́jú àrùn ẹ̀dọ̀fóró nínú àwọn ọmọdé Áfíríkà.
+988: Clin Infect Dis ẹgbẹrun mèjì ati ẹ̀rìnlá;mèjìdínlọgọ́ta:ẹgbẹrun ati ọ̀ọ́dẹ́gbẹ̀rin ati mèje–ẹ̀ẹ́dógún.
+989: K€ allander K, Nsungwa-Sabiiti J, Peterson S.
+990: Àmì náà jọra fún ibà àti àrùn ẹ̀dọ̀fóró—Àwọn ìtumọ̀ ìlànà fún àwọn ọgbọ́n ìtọ́jú ilé.
+991: Acta Trop ẹgbẹrun mèjì ati mẹ̀rin;àádọ́rùn-ún:igba ati ọ̀kanlá–mẹ̀rin.
+992: De Santis O, Kilowoko M, Kyungu E àti àwọn ẹlòmíràn.
+993: PLoS One ẹgbẹrun mèjì ati ẹ̀tàdínlógún;èjìlá:eẸgbẹrun ogorun ati mẹ̀talélàádọ́rin ati ọọdunrun ati ẹ̀rìnlá.
+994: Redd SC, Bloland PB, Kazembe PN, Patrick E, Tembenu R, Campbell CC.
+995: Ìwúlò àwọn ìtumọ̀ àìsàn nínú ìtọ́jú ìtọ́sọ́nà fún àwọn ọmọdé Áfíríkà tí wọ́n ní ibà tàbí àrùn ẹ̀dọ̀fóró.
+996: Lancet ẹgbẹrun ati ẹ̀ẹ́dẹ́gbẹ̀rún ati mèjìlélàádọ́rùn-ún;ọọdunrun ati ogójì:ẹgbẹrun ati ogorun ati ogójì–mẹ̀ta.
+997: WHO: Ìwé Àpò Ìtọ́jú Ilé Ìwòsàn fún Àwọn Ọmọdé: Àwọn Ìtọ́sọ́nà fún Ìṣàkóso Àwọn Àìsàn Wọ́pọ̀ Pẹ̀lú Àwọn Ohun Àmúlò Tó Lópin.
+998: Geneva: Àjọ Ìlera Àgbáyé, ẹgbẹrun mèjì ati màrún.
+999: WHO: Ìwé Àpò Ìtọ́jú Ilé Ìwòsàn fún Àwọn Ọmọdé: Àwọn Ìtọ́sọ́nà fún Ìṣàkóso Àwọn Àìsàn Wọ́pọ̀ fún Àwọn Ọmọdé.
