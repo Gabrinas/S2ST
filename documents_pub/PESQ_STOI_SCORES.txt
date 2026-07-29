@@ -1,0 +1,466 @@
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav and generated_s2st@275_sample230.wav 1.0555610656738281
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav and generated_s2st@275_sample230.wav 0.21686910847745586
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav and generated_s2st@275_sample233.wav 1.0754671096801758
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav and generated_s2st@275_sample233.wav 0.21443524785621879
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav and generated_s2st@277_sample233.wav 1.0553675889968872
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav and generated_s2st@277_sample233.wav 0.21598725319289427
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav and generated_s2st@285_sample235.wav 1.0524030923843384
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav and generated_s2st@285_sample235.wav 0.16440790565634433
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav and generated_s2st@340_sample235.wav 1.0533089637756348
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav and generated_s2st@340_sample235.wav 0.17124027706290684
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav and generated_s2st@266_sample246.wav 1.0463296175003052
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav and generated_s2st@266_sample246.wav 0.5786236743365697
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav and generated_s2st@343_sample250.wav 1.0513335466384888
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav and generated_s2st@343_sample250.wav 0.5949551750985183
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav and generated_s2st@241_sample264.wav 1.0831834077835083
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav and generated_s2st@241_sample264.wav 0.15564204680263863
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@133_sample266.wav 1.0472759008407593
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@133_sample266.wav 0.20651772075519068
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@248_sample266.wav 1.0593403577804565
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@248_sample266.wav 0.18243902184746164
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@278_sample266.wav 1.0577691793441772
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav and generated_s2st@278_sample266.wav 0.19334458150556424
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav and generated_s2st@166_sample275.wav 1.054530382156372
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav and generated_s2st@166_sample275.wav 0.142975337058175
+
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@178_sample617.wav 1.0802385807037354
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@178_sample617.wav 0.13721277471632143
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@198_sample617.wav 1.0529729127883911
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@198_sample617.wav 0.14530413512703247
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@200_sample617.wav 1.0879336595535278
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@200_sample617.wav 0.15192465181703116
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@257_sample617.wav 1.0390734672546387
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@257_sample617.wav 0.5263217097749304
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@261_sample617.wav 1.099505066871643
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@261_sample617.wav 0.168754232567415
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@270_sample617.wav 1.1697840690612793
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@270_sample617.wav 0.12830922293977373
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@281_sample617.wav 1.1045498847961426
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@281_sample617.wav 0.1363878246166138
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@288_sample617.wav 1.0611602067947388
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav and generated_s2st@288_sample617.wav 0.15453506461526623
+
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav and generated_s2st@215_sample624.wav 1.0363112688064575
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav and generated_s2st@215_sample624.wav 0.5461525748042872
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@188_sample625.wav 1.041656732559204
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@188_sample625.wav 0.10825656723250429
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@203_sample625.wav 1.070803165435791
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@203_sample625.wav 0.10612369136888306
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@210_sample625.wav 1.0372546911239624
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@210_sample625.wav 0.5508743508078664
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@308_sample625.wav 1.0368372201919556
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav and generated_s2st@308_sample625.wav 0.08492245434968287
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav and generated_s2st@244_sample627.wav 1.1056495904922485
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav and generated_s2st@244_sample627.wav 0.12335534354720683
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav and generated_s2st@338_sample627.wav 1.0778125524520874
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav and generated_s2st@338_sample627.wav 0.14082514989404252
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav and generated_s2st@346_sample630.wav 1.0384690761566162
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav and generated_s2st@346_sample630.wav 0.5981612229206096
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@110_sample632.wav 1.0380089282989502
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@110_sample632.wav 0.45768568496368733
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@259_sample632.wav 1.0434341430664062
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@259_sample632.wav 0.1780697250342781
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@319_sample632.wav 1.0449126958847046
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav and generated_s2st@319_sample632.wav 0.5493174078670161
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@267_sample634.wav 1.0956857204437256
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@267_sample634.wav 0.20717272746928492
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@268_sample634.wav 1.0645358562469482
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@268_sample634.wav 0.20615364529319102
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@281_sample634.wav 1.1042628288269043
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@281_sample634.wav 0.22175570469059278
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@284_sample634.wav 1.0706689357757568
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@284_sample634.wav 0.23517982775890556
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@296_sample634.wav 1.0423086881637573
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@296_sample634.wav 0.5879306706193527
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@335_sample634.wav 1.078750491142273
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav and generated_s2st@335_sample634.wav 0.2074952601824483
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav and generated_s2st@224_sample636.wav 1.2267142534255981
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav and generated_s2st@224_sample636.wav 0.1256800145411566
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav and generated_s2st@313_sample636.wav 1.0417101383209229
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav and generated_s2st@313_sample636.wav 0.5494594654102044
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav and generated_s2st@253_sample638.wav 1.248252272605896
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav and generated_s2st@253_sample638.wav 0.2004593066586117
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav and generated_s2st@224_sample639.wav 1.2851414680480957
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav and generated_s2st@224_sample639.wav 0.091313845521326
+
+PESQ score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav and generated_s2st@212_sample640.wav 1.040940761566162
+STOI score of : Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav and generated_s2st@212_sample640.wav 0.20737261571666246
+(hifi_discrete
+
+
+
+
+
+Original Sample	Generated Sample	PESQ Score
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav	generated_s2st@275_sample230.wav	1.0556
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@275_sample233.wav	1.0755
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@277_sample233.wav	1.0554
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@285_sample235.wav	1.0524
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@340_sample235.wav	1.0533
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav	generated_s2st@266_sample246.wav	1.0463
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav	generated_s2st@343_sample250.wav	1.0513
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav	generated_s2st@241_sample264.wav	1.0832
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@133_sample266.wav	1.0473
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@248_sample266.wav	1.0593
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@278_sample266.wav	1.0578
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav	generated_s2st@166_sample275.wav	1.0545
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@178_sample617.wav	1.0802
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@198_sample617.wav	1.0530
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@200_sample617.wav	1.0879
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@257_sample617.wav	1.0391
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@261_sample617.wav	1.0995
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@270_sample617.wav	1.1698
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@281_sample617.wav	1.1045
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@288_sample617.wav	1.0612
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav	generated_s2st@215_sample624.wav	1.0363
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@188_sample625.wav	1.0417
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@203_sample625.wav	1.0708
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@210_sample625.wav	1.0373
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@308_sample625.wav	1.0368
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@244_sample627.wav	1.1056
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@338_sample627.wav	1.0778
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav	generated_s2st@346_sample630.wav	1.0385
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@110_sample632.wav	1.0380
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@259_sample632.wav	1.0434
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@319_sample632.wav	1.0449
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@267_sample634.wav	1.0957
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@268_sample634.wav	1.0645
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@281_sample634.wav	1.1043
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@284_sample634.wav	1.0707
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@296_sample634.wav	1.0423
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@335_sample634.wav	1.0788
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@224_sample636.wav	1.2267
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@313_sample636.wav	1.0417
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav	generated_s2st@253_sample638.wav	1.2483
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav	generated_s2st@224_sample639.wav	1.2851
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav	generated_s2st@212_sample640.wav	1.0409
+
+
+sorted PESQ
+
+
+Original Sample	Generated Sample	PESQ Score
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav	generated_s2st@224_sample639.wav	1.2851
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav	generated_s2st@253_sample638.wav	1.2483
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@224_sample636.wav	1.2267
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@270_sample617.wav	1.1698
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@281_sample634.wav	1.1043
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@244_sample627.wav	1.1056
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@281_sample617.wav	1.1045
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@267_sample634.wav	1.0957
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@261_sample617.wav	1.0995
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@338_sample627.wav	1.0778
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav	generated_s2st@241_sample264.wav	1.0832
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@178_sample617.wav	1.0802
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@335_sample634.wav	1.0788
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@275_sample233.wav	1.0755
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@200_sample617.wav	1.0879
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@288_sample617.wav	1.0612
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@248_sample266.wav	1.0593
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@278_sample266.wav	1.0578
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav	generated_s2st@166_sample275.wav	1.0545
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@277_sample233.wav	1.0554
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav	generated_s2st@275_sample230.wav	1.0556
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@203_sample625.wav	1.0708
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@284_sample634.wav	1.0707
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@268_sample634.wav	1.0645
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@198_sample617.wav	1.0530
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@340_sample235.wav	1.0533
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@285_sample235.wav	1.0524
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@133_sample266.wav	1.0473
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav	generated_s2st@266_sample246.wav	1.0463
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@319_sample632.wav	1.0449
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@259_sample632.wav	1.0434
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@188_sample625.wav	1.0417
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@313_sample636.wav	1.0417
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@296_sample634.wav	1.0423
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@210_sample625.wav	1.0373
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@308_sample625.wav	1.0368
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav	generated_s2st@215_sample624.wav	1.0363
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav	generated_s2st@346_sample630.wav	1.0385
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@110_sample632.wav	1.0380
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@257_sample617.wav	1.0391
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav	generated_s2st@212_sample640.wav	1.0409
+
+
+🔹 General Observations
+Overall PESQ values are low (mostly between 1.04 and 1.28).
+PESQ ranges from 1 (poor) to 4.5 (excellent).
+Scores around 1.0–1.3 indicate poor perceptual quality compared to natural speech.
+
+Best performing generations:
+male_00639 → generated_s2st@224_sample639.wav (1.285)
+male_00638 → generated_s2st@253_sample638.wav (1.248)
+male_00636 → generated_s2st@224_sample636.wav (1.227)
+
+These are the highest PESQ scores, but still far below natural audio quality.
+Worst performing generations:
+Several samples hover around 1.036–1.046 (e.g., male_00625, 00632, 00246).
+These are essentially barely intelligible in perceptual terms.
+
+🔹 What This Means
+Training saturation: At epoch 347, the model has likely extracted all it can from the limited dataset. PESQ scores are not improving significantly across epochs.
+Dataset limitation: With only ~1,000 parallel pairs, the model struggles to generalize. PESQ scores reflect this — intelligibility and perceptual quality plateau early.
+Variation across samples: Some IDs (e.g., 639, 638, 636) consistently yield slightly higher PESQ, suggesting those voices or utterances align better with the learned acoustic patterns.
+
+🔹 Conclusion
+Continuing training alone is unlikely to raise PESQ much further.
+Expanding the dataset (more parallel English–Yoruba audio, diverse speakers, longer utterances) is the most effective way to improve perceptual quality.
+Data augmentation (noise, speed perturbation, pitch shift) can help simulate diversity and push PESQ upward without new recordings.
+Cross‑lingual transfer: Leveraging larger English corpora aligned with Yoruba phonetics could also help.
+
+✅ In short: Your PESQ scores show the model has plateaued. To improve perceptual quality, you need more and richer data, not just more epochs.
+
+================================================================================================================================
+
+STOI
+
+Original Sample	Generated Sample	STOI Score
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav	generated_s2st@275_sample230.wav	0.217
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@275_sample233.wav	0.214
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@277_sample233.wav	0.216
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@285_sample235.wav	0.164
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@340_sample235.wav	0.171
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav	generated_s2st@266_sample246.wav	0.579
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav	generated_s2st@343_sample250.wav	0.595
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav	generated_s2st@241_sample264.wav	0.156
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@133_sample266.wav	0.207
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@248_sample266.wav	0.182
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@278_sample266.wav	0.193
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav	generated_s2st@166_sample275.wav	0.143
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@178_sample617.wav	0.137
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@198_sample617.wav	0.145
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@200_sample617.wav	0.152
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@257_sample617.wav	0.526
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@261_sample617.wav	0.169
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@270_sample617.wav	0.128
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@281_sample617.wav	0.136
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@288_sample617.wav	0.155
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav	generated_s2st@215_sample624.wav	0.546
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@188_sample625.wav	0.108
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@203_sample625.wav	0.106
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@210_sample625.wav	0.551
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@308_sample625.wav	0.085
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@244_sample627.wav	0.123
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@338_sample627.wav	0.141
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav	generated_s2st@346_sample630.wav	0.598
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@110_sample632.wav	0.458
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@259_sample632.wav	0.178
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@319_sample632.wav	0.549
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@267_sample634.wav	0.207
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@268_sample634.wav	0.206
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@281_sample634.wav	0.222
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@284_sample634.wav	0.235
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@296_sample634.wav	0.588
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@335_sample634.wav	0.207
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@224_sample636.wav	0.126
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@313_sample636.wav	0.549
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav	generated_s2st@253_sample638.wav	0.200
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav	generated_s2st@224_sample639.wav	0.091
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav	generated_s2st@212_sample640.wav	0.207
+
+
+sorted STOI
+
+
+Original Sample	Generated Sample	STOI Score
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav	generated_s2st@343_sample250.wav	0.5950
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav	generated_s2st@346_sample630.wav	0.5982
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@296_sample634.wav	0.5879
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@210_sample625.wav	0.5509
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav	generated_s2st@215_sample624.wav	0.5462
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@319_sample632.wav	0.5493
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@313_sample636.wav	0.5495
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav	generated_s2st@266_sample246.wav	0.5786
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@257_sample617.wav	0.5263
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@110_sample632.wav	0.4577
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@284_sample634.wav	0.2352
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@281_sample634.wav	0.2218
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@267_sample634.wav	0.2072
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav	generated_s2st@268_sample634.wav	0.2062
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav	generated_s2st@212_sample640.wav	0.2074
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@133_sample266.wav	0.2065
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@278_sample266.wav	0.1933
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav	generated_s2st@253_sample638.wav	0.2005
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav	generated_s2st@248_sample266.wav	0.1824
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav	generated_s2st@259_sample632.wav	0.1781
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@340_sample235.wav	0.1712
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav	generated_s2st@285_sample235.wav	0.1644
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@261_sample617.wav	0.1688
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav	generated_s2st@241_sample264.wav	0.1556
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@288_sample617.wav	0.1545
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@200_sample617.wav	0.1519
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@198_sample617.wav	0.1453
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav	generated_s2st@166_sample275.wav	0.1430
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@281_sample617.wav	0.1364
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@178_sample617.wav	0.1372
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@338_sample627.wav	0.1408
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav	generated_s2st@244_sample627.wav	0.1234
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav	generated_s2st@224_sample636.wav	0.1257
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav	generated_s2st@270_sample617.wav	0.1283
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@188_sample625.wav	0.1083
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@203_sample625.wav	0.1061
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav	generated_s2st@308_sample625.wav	0.0849
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav	generated_s2st@224_sample639.wav	0.0913
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@275_sample233.wav	0.2144
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav	generated_s2st@277_sample233.wav	0.2160
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav	generated_s2st@275_sample230.wav	0.2169
+
+
+
+General Observations
+STOI values range from ~0.08 to ~0.60.
+STOI ranges from 0 (completely unintelligible) to 1 (perfect intelligibility).
+Scores below 0.3 indicate poor intelligibility, while scores above 0.5 suggest moderate intelligibility.
+
+Best performing generations:
+00250 → generated_s2st@343_sample250.wav (0.595)
+00630 → generated_s2st@346_sample630.wav (0.598)
+00634 → generated_s2st@296_sample634.wav (0.588)
+00625 → generated_s2st@210_sample625.wav (0.551)
+00624 → generated_s2st@215_sample624.wav (0.546)
+00632 → generated_s2st@319_sample632.wav (0.549)
+00636 → generated_s2st@313_sample636.wav (0.549)
+These samples achieved moderate intelligibility, meaning listeners could catch a fair portion of the speech content.
+
+Lowest performing generations:
+Several samples scored below 0.15 (e.g., male_00625 → generated_s2st@308_sample625.wav at 0.085, male_00639 → generated_s2st@224_sample639.wav at 0.091).
+These are essentially unintelligible outputs.
+
+🔹 What This Means
+High variability across samples: Some generated outputs are moderately intelligible (STOI ~0.55–0.60), while others are nearly unintelligible (<0.15).
+Dataset limitations: The inconsistency suggests the model struggles with certain voices, accents, or phonetic contexts due to the small dataset size (~1,000 pairs).
+Training plateau: Like PESQ, STOI scores show that continuing epochs alone won’t fix intelligibility — the model has already saturated what it can learn from the limited data.
+
+🔹 Conclusion
+Your system produces intelligible speech in some cases (STOI ~0.55–0.60), but overall intelligibility is weak.
+Expanding and diversifying the dataset is the most effective way to improve STOI. More speakers, accents, and longer utterances will help the model generalize.
+Data augmentation (speed perturbation, noise injection, pitch shifting) can also boost STOI by simulating variability.
+Monitoring STOI alongside MOS and PESQ gives a fuller picture: PESQ shows perceptual quality, MOS shows subjective naturalness, and STOI shows intelligibility.
+✅ In short: STOI scores confirm that intelligibility is inconsistent and limited by dataset size. To improve, you need more and richer parallel audio, not just more epochs.
+
+=========================================================================================================================================================
+
+PESQ + STOI 
+
+
+Original Sample	Generated Sample	PESQ	STOI
+00230	         generated_s2st@275_sample230.wav	1.056	0.217
+00233	         generated_s2st@275_sample233.wav	1.075	0.214
+00233	         generated_s2st@277_sample233.wav	1.055	0.216
+00235	         generated_s2st@285_sample235.wav	1.052	0.164
+00235	         generated_s2st@340_sample235.wav	1.053	0.171
+00246	         generated_s2st@266_sample246.wav	1.046	0.579
+00250	         generated_s2st@343_sample250.wav	1.051	0.595
+female_00264	generated_s2st@241_sample264.wav	1.083	0.156
+female_00266	generated_s2st@133_sample266.wav	1.047	0.207
+female_00266	generated_s2st@248_sample266.wav	1.059	0.182
+female_00266	generated_s2st@278_sample266.wav	1.058	0.193
+female_00275	generated_s2st@166_sample275.wav	1.055	0.143
+male_00617	generated_s2st@178_sample617.wav	1.080	0.137
+male_00617	generated_s2st@198_sample617.wav	1.053	0.145
+male_00617	generated_s2st@200_sample617.wav	1.088	0.152
+male_00617	generated_s2st@257_sample617.wav	1.039	0.526
+male_00617	generated_s2st@261_sample617.wav	1.100	0.169
+male_00617	generated_s2st@270_sample617.wav	1.170	0.128
+male_00617	generated_s2st@281_sample617.wav	1.105	0.136
+male_00617	generated_s2st@288_sample617.wav	1.061	0.155
+male_00624	generated_s2st@215_sample624.wav	1.036	0.546
+male_00625	generated_s2st@188_sample625.wav	1.042	0.108
+male_00625	generated_s2st@203_sample625.wav	1.071	0.106
+male_00625	generated_s2st@210_sample625.wav	1.037	0.551
+male_00625	generated_s2st@308_sample625.wav	1.037	0.085
+male_00627	generated_s2st@244_sample627.wav	1.106	0.123
+male_00627	generated_s2st@338_sample627.wav	1.078	0.141
+00630	        generated_s2st@346_sample630.wav	1.038	0.598
+00632	        generated_s2st@110_sample632.wav	1.038	0.458
+00632	        generated_s2st@259_sample632.wav	1.043	0.178
+00632	        generated_s2st@319_sample632.wav	1.045	0.549
+00634	        generated_s2st@267_sample634.wav	1.096	0.207
+00634	        generated_s2st@268_sample634.wav	1.065	0.206
+00634	        generated_s2st@281_sample634.wav	1.104	0.222
+00634	        generated_s2st@284_sample634.wav	1.071	0.235
+00634	        generated_s2st@296_sample634.wav	1.042	0.588
+00634	        generated_s2st@335_sample634.wav	1.079	0.207
+male_00636	generated_s2st@224_sample636.wav	1.227	0.126
+male_00636	generated_s2st@313_sample636.wav	1.042	0.549
+male_00638	generated_s2st@253_sample638.wav	1.248	0.200
+male_00639	generated_s2st@224_sample639.wav	1.285	0.091
+male_00640	generated_s2st@212_sample640.wav	1.041	0.207
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

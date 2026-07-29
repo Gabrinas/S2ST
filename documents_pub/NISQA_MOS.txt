@@ -1,0 +1,77 @@
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00230.wav  3.444723
+generated_s2st@275_sample230.wav  3.281070
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00233.wav  4.063358
+generated_s2st@275_sample233.wav  2.300697
+generated_s2st@277_sample233.wav  2.812775
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00235.wav  4.161557
+generated_s2st@285_sample235.wav  2.576055
+generated_s2st@340_sample235.wav  3.130157
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00246.wav  3.683681
+generated_s2st@266_sample246.wav  2.377622
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00250.wav  3.500988
+generated_s2st@343_sample250.wav  3.199304
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00264.wav  3.379852
+generated_s2st@241_sample264.wav  2.597465
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00266.wav  4.086121
+generated_s2st@133_sample266.wav  2.108542
+generated_s2st@248_sample266.wav  2.880060
+generated_s2st@278_sample266.wav  3.477457
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_female_00275.wav  3.645400
+generated_s2st@166_sample275.wav  2.361714
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00617.wav  3.286304
+generated_s2st@178_sample617.wav  2.508425
+generated_s2st@198_sample617.wav  2.905691
+generated_s2st@200_sample617.wav  3.034276
+generated_s2st@257_sample617.wav  3.002168
+generated_s2st@261_sample617.wav  2.930435 
+generated_s2st@270_sample617.wav  2.955328
+generated_s2st@281_sample617.wav  2.916566 
+generated_s2st@288_sample617.wav  2.964079
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00624.wav  3.364653
+generated_s2st@215_sample624.wav  3.179109
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00625.wav  2.833705
+generated_s2st@188_sample625.wav  2.783769
+generated_s2st@203_sample625.wav  2.781112
+generated_s2st@210_sample625.wav  2.644133
+generated_s2st@308_sample625.wav  2.702518
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00627.wav  2.939898
+generated_s2st@244_sample627.wav  2.513680
+generated_s2st@338_sample627.wav  2.762791
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00630.wav  3.866002
+generated_s2st@346_sample630.wav  3.331838
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00632.wav  3.711241
+generated_s2st@110_sample632.wav  1.795100
+generated_s2st@259_sample632.wav  3.045207
+generated_s2st@319_sample632.wav  2.705681
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_00634.wav  2.997989
+generated_s2st@267_sample634.wav  2.992953
+generated_s2st@268_sample634.wav  2.860266
+generated_s2st@281_sample634.wav  2.718567
+generated_s2st@284_sample634.wav  2.706192
+generated_s2st@296_sample634.wav  2.940181
+generated_s2st@335_sample634.wav  3.166187
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00636.wav  2.693985
+generated_s2st@224_sample636.wav  2.147505
+generated_s2st@313_sample636.wav  2.638555
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00638.wav  3.320093
+generated_s2st@253_sample638.wav  2.778607
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00639.wav  2.913892
+generated_s2st@224_sample639.wav  2.895979
+
+Audio_UnivOfIbadan_5_PUBLIC_HEALTH_YOR_male_00640.wav  2.488148
+generated_s2st@212_sample640.wav  2.666532

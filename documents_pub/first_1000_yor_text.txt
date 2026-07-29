@@ -221,7 +221,7 @@
 220: A ṣe titoka awọn titokalẹ ati itupalẹ pẹlu DNASTAR mèje.
 221: Softwarẹ ọ̀kan láti ṣàwárí àwọn polymorphisms nucleotide kan ṣoṣo (SNPs).
 222: A fi àwọn àpẹẹrẹ ìtẹ̀léra wé àwọn ìtọ́kasí Plasmodium falciparum metaDmeje pfcrt àti pfmdr1 wild-type (sensitive) strains (NCBI reference: NC_ẹgbàajì mẹ́rin, ọ̀ọ́dúnrún, ogún àti ẹ̀jọ.
-223: Ọ̀kan) àti àwọn ìtẹ̀léra tí ó dúró ṣinṣin (NCBI reference: AAFẹgbẹ̀rún méjìlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, ẹ̀ẹ́dẹ́gbẹ̀rún, ogún àti ẹ̀fà.
+223: Ọ̀kan) àti àwọn ìtẹ̀léra tí ó dúró ṣinṣin (NCBI reference: AAFẹgbẹ̀rún méjìlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, ẹ̀ẹ́dẹ́gbẹ̀rún, ogún àti ẹ̀fà. ---> being played
 224: Àwọn èsì. Àròpọ̀ igba ati mèjìlélọgọ́rin DBS tí ó ní ìrísí rere tí a rí láti inú àwọn ilé ìlera àti àwọn agbègbè tí a ti kẹ́kọ̀ọ́ ní Lagos, Nigeria ni a lò.
 225: Nínú àwọn wọ̀nyí, a ṣe àgbékalẹ̀ àwọn àpẹẹrẹ igba ati mẹ̀jọ (mẹ̀talélàádọ́rin.
 226: Mẹ̀fà pere ninu ogorun-un) ní àṣeyọrí àti ní ìtẹ̀léra fún pfcrt àti pfmdr1 ní ìtẹ̀léra.
@@ -248,7 +248,7 @@
 247: Mẹ̀sán pere ninu ogorun-un (mèjì) ti awọn ayẹwo.
 248: Awọn data jiini lati inu iwadi naa ni a fi pamọ si Ile-iṣẹ Orilẹ-ede fun Alaye Imọ-ẹrọ Imọ-jinlẹ (NCBI).
 249: Awọn nọmba iwọle- BankIt2ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún mẹ́tàlá, ọ̀ọ́dúnrún, ogójì àti ẹ̀jọ: MW456,074 = ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún márùnlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, àádọ́rin àti ẹ̀rin–MWẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún márùnlélọ́gọ́rin, ẹgbẹ̀rún mẹ́fà, igba àti àádọ́rún (awọn lẹsẹsẹ igba ati ẹ̀tàdínlógún fun pfmdr1) ati BankItmílíọ̀nù méjì, ẹgbẹ̀rún ọ̀ọ́dẹ́gbẹ̀rin, ẹgbẹ̀rún méjìlélọ́gọ́rin, ẹgbẹ̀rún mẹ́jọ, ẹ̀ẹ́dẹ́gbẹ̀rún mẹ́fà, àádọ́ta àti èjì.
-250: Ni Ile-iṣẹ Ilera Alakọbẹrẹ Agura, a ṣe akiyesi awọn haplotypes pfcrt mẹfa oriṣiriṣi: CVIET (ọ̀kandínlọgbọ̀n.
+250: Ni Ile-iṣẹ Ilera Alakọbẹrẹ Agura, a ṣe akiyesi awọn haplotypes pfcrt mẹfa oriṣiriṣi: CVIET (ọ̀kandínlọgbọ̀n. --> being played
 251: Ile-iṣẹ ilera ti o wa ni Amukoko royin itankalẹ ti o ga julọ ti P.
 252: Awọn iyasọtọ Falciparum pẹlu awọn iyipada ni codons mẹ̀rindínlàádọ́rùn-ún ati ẹgbẹrun ati igba ati mẹ̀rindínlàádọ́ta ninu jiini pfmdr1, ni èjìlá.
 253: Mèjì pere ninu ogorun-un lẹsẹsẹ (Tabili mẹ̀ta).
@@ -628,7 +628,7 @@
 627: (odo pere ninu ogorun-un) àwọn aláìsàn (àwọn aláìsàn márùn-ún nínú ẹgbẹ́ ìdánwò àti àwọn aláìsàn mẹ́sàn-án nínú ẹgbẹ́ Comparator) ni wọ́n pàdánù sí àtẹ̀lé nígbà ìwádìí náà. -->
 628: Nínú àwọn aláìsàn mẹ́rìnlá wọ̀nyí, àpapọ̀ àwọn aláìsàn mẹ́rin (mèjì.
 629: Mẹ̀ta pere ninu ogorun-un) nínú ẹgbẹ́ ìdánwò àti mẹ́sàn-án (màrún.
-630: Ọ̀kan pere ninu ogorun-un) nínú ẹgbẹ́ Comparator ni wọ́n pàdánù sí àtẹ̀lé láàárín ọjọ́ ọ̀kan àti mèjìdínlọgbọ̀n, àti ọ̀kan (odo.
+630: Ọ̀kan pere ninu ogorun-un) nínú ẹgbẹ́ Comparator ni wọ́n pàdánù sí àtẹ̀lé láàárín ọjọ́ ọ̀kan àti mèjìdínlọgbọ̀n, àti ọ̀kan (odo. --> being played
 631: Mẹ̀fà pere ninu ogorun-un) nínú ẹgbẹ́ ìdánwò náà pàdánù sí àtẹ̀lé ní ọjọ́ mèjìlélogójì.
 632: Awọn eniyan ipilẹ ati awọn abuda ile-iwosan ni a ṣe iwọntunwọnsi laarin awọn ẹgbẹ mejeeji (Tabili ọ̀kan).
 633: Nínú ẹgbẹ́ Comparator, aláìsàn kan ní LCF ní ọjọ́ ọ̀kanlélogún.
@@ -882,7 +882,7 @@
 881: Ọ̀kan pere ninu ogorun-un) ní Gambia, àti mẹ̀jọ/ọ̀ọ́dẹ́gbẹ̀rin ati ogún (ọ̀kan.
 882: Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
 883: Nítorí pé a kò mọ ipò ibà tí ó wà ní tòótọ́, ìṣirò taara ti pi kò ṣeé ṣe.
-884: Àkọ́kọ́, a ṣe ìṣirò p1 nípa ríronú pé àwọn ìlànà ibà tí ó wà nínú WHO jẹ́ ogorun pere ninu ogorun-un pàtó láàárín àwọn aláìsàn ibà tí ó wà nínú ibà.
+884: Àkọ́kọ́, a ṣe ìṣirò p1 nípa ríronú pé àwọn ìlànà ibà tí ó wà nínú WHO jẹ́ ogorun pere ninu ogorun-un pàtó láàárín àwọn aláìsàn ibà tí ó wà nínú ibà. --> being played
 885: Èyí túmọ̀ sí wípé p  je mèjì.
 886: Lẹ́yìn náà, láti ṣe ìṣirò pmeji, a pín q nípa ìṣirò ìmọ̀lára CXR.
 887: Níbí, a gbà pé Ìmọ́lára CXR kò dá lórí àrùn ibà.
@@ -902,7 +902,7 @@
 901: Mèjì pere ninu ogorun-un ni àrùn ibà-slide-positive pẹ̀lú ibà-slide-positive), àti mèjì.
 902: Màrún pere ninu ogorun-un ni a kò ṣe àkójọpọ̀ (ibà-slide-positive láìsí ibà-slide-positive).
 903: Nítorí náà, a ṣírò PPV gẹ́gẹ́ bí mẹ̀tadínlogorun.
-904: PPV tí a ṣírò kéré díẹ̀ nínú àwọn ọmọdé tí ọjọ́ orí wọn ju tàbí dọ́gba pẹ̀lú ọdún kan (màrúndínlogorun.
+904: PPV tí a ṣírò kéré díẹ̀ nínú àwọn ọmọdé tí ọjọ́ orí wọn ju tàbí dọ́gba pẹ̀lú ọdún kan (màrúndínlogorun. --> being played
 905: Mẹ̀rin pere ninu ogorun-un) àti nínú àwọn ọ̀ràn àrùn pneu monia tí ó le gan-an ti WHO (mẹ̀talélàádọ́rùn-ún.
 906: Mẹ̀rin pere ninu ogorun-un) nígbàtí, fún àwọn ọ̀ràn àrùn malaria-slide-positive, ó kéré púpọ̀, ní mẹ̀tadínlàádọ́ta.
 907: Gẹ́gẹ́ bí àpẹẹrẹ wa, a ṣírò pé, ní agbègbè kan tí ó ní àrùn parasitaemia malaria ààrùn tó wọ́pọ̀ ti mẹ̀rinlélogún pere ninu ogorun-un [ẹ̀tàdínlógún], mẹ̀tadínlàádọ́ta.
